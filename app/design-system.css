@@ -1,0 +1,202 @@
+:root{
+  --shiva-bg:#071019;
+  --shiva-surface:#0d171f;
+  --shiva-surface-raised:#111d26;
+  --shiva-text:#f8fafb;
+  --shiva-muted:#a9b5bd;
+  --shiva-gold:#d8b45d;
+  --shiva-gold-bright:#f1d98e;
+  --shiva-border:#293944;
+  --shiva-radius-sm:12px;
+  --shiva-radius-md:16px;
+  --shiva-radius-lg:20px;
+  --shiva-space-1:4px;
+  --shiva-space-2:8px;
+  --shiva-space-3:12px;
+  --shiva-space-4:16px;
+  --shiva-space-5:20px;
+  --shiva-touch:48px;
+  --shiva-body:17px;
+  --shiva-small:14px;
+  --shiva-title:clamp(32px,8.5vw,38px);
+  --shiva-section:clamp(26px,7vw,32px);
+}
+
+/* Native-mobile launch surface. Keep the first visual state navy and let the trophy resolve on top of it. */
+html,body,.app-shell{background:var(--shiva-bg);}
+.splash{
+  background:var(--shiva-bg);
+  animation:splashOut .32s cubic-bezier(.22,.61,.36,1) 1.92s forwards;
+  will-change:opacity;
+}
+.splash img{
+  animation:splashLogoIn .38s cubic-bezier(.22,.61,.36,1) both;
+  transform-origin:center;
+}
+@keyframes splashLogoIn{
+  from{opacity:0;transform:scale(.965);}
+  to{opacity:1;transform:scale(1);}
+}
+
+button,a,select,input,summary{-webkit-tap-highlight-color:transparent;}
+button,select,input{min-height:var(--shiva-touch);}
+
+/* Primary actions use the Shiva gold system and remain unmistakably readable. */
+.primary-cta,
+.draft-start-card .primary-cta{
+  color:#fff;
+  background:linear-gradient(145deg,#7a6228,#4f401d);
+  border-color:var(--shiva-gold-bright);
+  box-shadow:0 10px 28px rgba(216,180,93,.18);
+  font-weight:950;
+}
+.draft-start-card .primary-cta{
+  min-height:68px;
+  padding:16px 22px;
+  border-radius:17px;
+  font-size:23px;
+  line-height:1.05;
+  letter-spacing:-.25px;
+  color:#fff;
+}
+
+/* Header owns two independent layout zones. The brand may shrink; the clock never overlays it. */
+.topbar{
+  grid-template-columns:minmax(0,1fr) max-content;
+  gap:12px;
+  overflow:hidden;
+}
+.brand,.brand-copy{min-width:0;overflow:hidden;}
+.kickoff-clock{
+  position:relative;
+  inset:auto;
+  z-index:1;
+  flex:0 0 auto;
+  min-width:132px;
+  padding:8px 10px;
+}
+.kickoff-clock span{font-size:9px;letter-spacing:.75px;}
+.kickoff-clock b{font-size:13px;font-variant-numeric:tabular-nums;letter-spacing:.15px;}
+
+/* Readability floor shared across Home, Draft, Guide, and Coach. */
+.screen-head h1{font-size:var(--shiva-title);}
+.screen-head p,.article-body p,.draft-start-card>p,.coach-hero p{font-size:var(--shiva-body);line-height:1.5;}
+.home-section-title,.section-heading h2{font-size:var(--shiva-section);}
+.home-section-subtitle,.news-body>p,.watch-card p,.data-note,.notice{font-size:var(--shiva-small);line-height:1.45;}
+.home-actions button{font-size:15px;min-height:54px;}
+.edge-preview-kicker{font-size:19px;}
+.edge-preview-copy{font-size:14px;}
+.edge-preview-card>button{font-size:13px;min-height:44px;}
+.edge-rank-row b,.draft-player b,.ranking-row b{font-size:18px;}
+.edge-rank-row small,.draft-player span,.draft-player small,.ranking-row small{font-size:13px;}
+.field>span{font-size:16px;}
+.field select,.field input{font-size:17px;min-height:52px;}
+.draft-status span{font-size:13px;}
+.on-clock{font-size:16px;min-height:46px;display:flex;align-items:center;justify-content:center;}
+.secondary-action{font-size:16px;min-height:50px;}
+.coach-hero h2{font-size:34px;}
+.coach-card b,.edge-card b{font-size:21px;}
+.coach-card p,.edge-card p{font-size:16px;line-height:1.5;}
+
+/* Selection contract: the selected pill itself is the only state indicator. */
+.pill,
+.coach-tabs .pill,
+.guide-section-pills .pill{
+  position:relative;
+  overflow:hidden;
+}
+.pill::before,.pill::after,
+.coach-tabs .pill::before,.coach-tabs .pill::after,
+.guide-section-pills .pill::before,.guide-section-pills .pill::after{
+  content:none!important;
+  display:none!important;
+}
+.pill.active,
+.coach-tabs .pill.active,
+.guide-section-pills .pill.active{
+  border-color:var(--shiva-gold-bright);
+  background:linear-gradient(145deg,rgba(216,180,93,.26),rgba(216,180,93,.11));
+  color:#fff;
+  box-shadow:0 0 0 1px rgba(216,180,93,.14),0 0 18px rgba(216,180,93,.10);
+}
+.coach-tabs{gap:9px;}
+.coach-tabs .pill{
+  min-height:50px;
+  padding:9px 7px;
+  border-radius:14px;
+  font-size:15px;
+}
+
+/* The 2026 Draft Guide gets its own mobile reading scale rather than inheriting compact card sizing. */
+.guide-section-pills{gap:9px;margin-bottom:18px;}
+.guide-section-pills .pill{
+  min-height:50px;
+  padding:10px 8px;
+  border-radius:14px;
+  font-size:15px;
+}
+.guide-grid{gap:12px;margin:16px 0;}
+.guide-card{
+  padding:20px;
+  border-radius:19px;
+}
+.guide-card b{
+  font-size:22px;
+  line-height:1.2;
+  margin:4px 0 8px;
+}
+.guide-card p{
+  font-size:17px;
+  line-height:1.52;
+}
+.ranking-list{gap:9px;}
+.ranking-row{
+  min-height:78px;
+  padding:14px 13px;
+}
+.ranking-number{font-size:16px;}
+.pos-chip{min-height:34px;font-size:13px;}
+.ranking-row strong{font-size:14px;}
+.article-body{padding:22px;}
+.article-body h2{font-size:28px;margin-top:0;}
+.article-body p{font-size:17px;}
+
+@media(max-width:620px){
+  .topbar{gap:8px;}
+  .brand-trophy{width:44px;height:44px;flex-basis:44px;}
+  .brand-title{font-size:24px;}
+  .brand-subtitle{font-size:10px;}
+  .kickoff-clock{min-width:124px;padding:7px 8px;}
+  .kickoff-clock span{font-size:8px;}
+  .kickoff-clock b{font-size:12px;}
+  .home-actions button{font-size:15px;min-height:54px;}
+  .edge-preview-copy{font-size:14px;}
+  .edge-preview-leader b{font-size:14px;}
+  .edge-preview-leader span{font-size:11.5px;}
+  .edge-preview-card>button{font-size:13px;min-height:44px;}
+  .metric-grid span{font-size:11px;}
+  .guide-card{padding:18px;}
+  .guide-card b{font-size:21px;}
+  .guide-card p{font-size:16.5px;}
+}
+
+@media(max-width:430px){
+  .guide-grid{grid-template-columns:1fr;}
+  .coach-tabs{grid-template-columns:repeat(2,minmax(0,1fr));}
+  .coach-tabs .pill{font-size:15px;}
+  .ranking-row{grid-template-columns:34px 42px minmax(0,1fr) auto;}
+  .ranking-row b{font-size:17px;}
+  .ranking-row strong{font-size:13px;}
+}
+
+@media(max-width:390px){
+  .topbar{grid-template-columns:minmax(0,1fr) 118px;gap:6px;}
+  .brand-trophy{width:40px;height:40px;flex-basis:40px;}
+  .brand-title{font-size:22px;}
+  .brand-subtitle{font-size:9.5px;}
+  .kickoff-clock{min-width:0;width:118px;padding:7px 6px;}
+  .kickoff-clock span{font-size:7.5px;}
+  .kickoff-clock b{font-size:11px;}
+  .home-actions button{font-size:14px;}
+  .guide-section-pills{grid-template-columns:repeat(2,minmax(0,1fr));}
+}

@@ -1,0 +1,16 @@
+{
+  "name": "one-more-shiva",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "verify": "node scripts/verify-native-shell.mjs",
+    "build": "npm run verify && next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}

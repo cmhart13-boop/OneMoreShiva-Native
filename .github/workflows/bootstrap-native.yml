@@ -23,14 +23,16 @@ jobs:
         shell: bash
         run: |
           git clone --depth 1 --branch recovery/nextjs-clean-rebuild-20260903 https://github.com/cmhart13-boop/OneMoreShiva.git /tmp/shiva-native-source
-          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
-          cp -a /tmp/shiva-native-source/. .
-          rm -rf .git
-          git init
-          git remote add origin https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git
-          git checkout -B main
+          shopt -s dotglob nullglob
+          for item in /tmp/shiva-native-source/*; do
+            base="$(basename "$item")"
+            if [[ "$base" == ".git" || "$base" == ".github" ]]; then
+              continue
+            fi
+            cp -a "$item" .
+          done
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Import verified native Shiva application"
-          git push --force origin main
+          git push origin main

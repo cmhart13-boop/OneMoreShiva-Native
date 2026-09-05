@@ -1,10 +1,26 @@
 {
-  "captured_at": "2026-09-05T15:13:37.662594+00:00",
+  "captured_at": "2026-09-05T20:20:06.044736+00:00",
   "source_ok": true,
   "source": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/news?region=us&lang=en&contentorigin=espn&limit=100",
   "articles": [
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
+      "published": "2026-09-05T14:29:23Z",
+      "headline": "How to bet the 2026 NFL season: Odds, tips and our best picks",
+      "description": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49659411/2026-nfl-betting-preview-guide-odds-best-bets-tips",
+      "image": "https://a.espncdn.com/photo/2026/0826/nfl_how_to_bet_the_2026_season_16x9_608x342.jpg"
+    },
+    {
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
+      "published": "2026-09-05T13:40:15Z",
+      "headline": "Prop bets, outlooks and projections for the 2026 NFL rookie class",
+      "description": "Which rookies will make an impact in 2026? Here's our favorite first-year players to bet and how we think they'll fare.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49672782/2026-nfl-rookie-betting-futures-props-picks-projections-outlooks",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704559_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-05T10:15:39Z",
       "headline": "Panthers' Tetairoa McMillan says he's stronger, but is he more versatile, too?",
       "description": "Now \"20 pounds heavier,\" Carolina's second-year WR will aim to take advantage of his size over the middle.",
@@ -12,15 +28,15 @@
       "image": "https://a.espncdn.com/photo/2026/0904/r1711475_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
-      "published": "2026-09-05T11:40:03Z",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
+      "published": "2026-09-05T19:56:01Z",
       "headline": "Will Kyler Murray end the Vikings' tragicomic QB history?",
       "description": "Despite names you know -- Moon, Culpepper, Favre, Cousins -- Minnesota hasn't had a franchise QB since Tarkenton.",
       "url": "https://www.espn.com/nfl/story/_/id/49815317/nfl-minnesota-vikings-kyler-murray-jj-mccarthy-kevin-oconnell",
       "image": "https://a.espncdn.com/photo/2026/0815/r1702146_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-05T10:24:09Z",
       "headline": "Inside Commanders DC Daronte Jones' unusual coaching journey",
       "description": "From living in his car to various college offices, Washington defensive coordinator Daronte Jones has paid his dues.",
@@ -28,15 +44,15 @@
       "image": "https://a.espncdn.com/photo/2026/0904/daronte_jones_608x342.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
-      "published": "2026-09-05T10:21:31Z",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
+      "published": "2026-09-05T19:07:23Z",
       "headline": "Does OBJ still got it? Fans and teammates seem to think so",
       "description": "The WR is back with New York after eight years. Fans and teammates are all in on OBJ's New York revival.",
       "url": "https://www.espn.com/nfl/story/_/id/49815548/odell-beckham-jr-got-fans-teammates-agree",
       "image": "https://a.espncdn.com/photo/2026/0903/r1710929_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-05T10:25:58Z",
       "headline": "McBride, Wingard bury college grudge as safety joins Cardinals",
       "description": "With college feud behind them, the Cardinals' No. 1 tight end and veteran safety are becoming fast friends.",
@@ -44,7 +60,7 @@
       "image": "https://a.espncdn.com/photo/2026/0725/r1693672_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-05T10:28:57Z",
       "headline": "Chase Brown won't be overlooked in Bengals' offense",
       "description": "The Bengals plan to reduce dramatically their shotgun snaps in hopes of using Brown more all over the field.",
@@ -52,7 +68,7 @@
       "image": "https://a.espncdn.com/photo/2026/0803/r1697190_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-05T10:00:29Z",
       "headline": "2026 NFL rookies guide: Stat leaders, fantasy picks, top QBs",
       "description": "Here's what to know about this group of rookies, including Rookie of the Year front-runners, fantasy favorites and QB updates.",
@@ -60,7 +76,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1710940_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-05T08:53:08Z",
       "headline": "MCG's NFL transformation begins as goalposts go up",
       "description": "Preparations are ramping up at Melbourne Cricket Ground as the goalposts rise into place inside one week until kickoff between the LA Rams and San Francisco 49ers.",
@@ -68,7 +84,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_NFL_MISC_MCGs_NFL_transformation_begins_as_goalposts_go_up_20260905_GLOBAL/dm_260905_NFL_MISC_MCGs_NFL_transformation_begins_as_goalposts_go_up_20260905_GLOBAL.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T23:10:25Z",
       "headline": "Why Liz Loza thinks you should consider drafting Saquon Barkley",
       "description": "Why Liz Loza thinks you should consider drafting Saquon Barkley",
@@ -76,7 +92,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Saquon/dm_260904_Saquon.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T23:30:14Z",
       "headline": "Raiders to target in IDP fantasy leagues Week 1",
       "description": "Raiders to target in IDP fantasy leagues Week 1",
@@ -84,7 +100,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_190612608_3646890/ss_20260904_190612608_3646890.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T23:59:01Z",
       "headline": "Why fantasy managers should scroll deep on draft day",
       "description": "Why fantasy managers should scroll deep on draft day",
@@ -92,7 +108,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Liz_Draft_Advice/dm_260904_Liz_Draft_Advice.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T22:37:05Z",
       "headline": "Why Tristan Cockcroft has the Titans as a Week 1 fantasy D/ST sleeper",
       "description": "Why Tristan Cockcroft has the Titans as a Week 1 fantasy D/ST sleeper",
@@ -100,7 +116,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/b47e380f-bd5c-4d28-a890-9f2f2c48c04a/b47e380f-bd5c-4d28-a890-9f2f2c48c04a.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-05T00:00:27Z",
       "headline": "Ultimate Fantasy Football Cheat Sheet: The names you need to know for draft day",
       "description": "All the names we've been talking about in a printable cheat sheet for your fantasy football draft.",
@@ -108,7 +124,7 @@
       "image": "https://a.espncdn.com/photo/2026/0822/r1705246_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T23:17:10Z",
       "headline": "Fantasy football Week 1 PPR, IDP and superflex rankings",
       "description": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
@@ -116,7 +132,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711051_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T22:56:03Z",
       "headline": "Fantasy football flex and superflex rankings for Week 1",
       "description": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
@@ -124,7 +140,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711041_2_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T19:33:34Z",
       "headline": "Josh Jacobs' court appearance moved up to Sept. 10",
       "description": "Packers running back Josh Jacobs' initial court appearance on misdemeanor charges has been moved up more than two months to Sept. 10.",
@@ -132,7 +148,7 @@
       "image": "https://a.espncdn.com/photo/2026/0827/r1707794_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T19:08:46Z",
       "headline": "Rams plan to bring entire team to season opener, including Donald",
       "description": "The Rams \"plan\" to bring all of their players to Melbourne, Australia, for their season opener against the 49ers, head coach Sean McVay said Friday.",
@@ -140,7 +156,7 @@
       "image": "https://a.espncdn.com/photo/2026/0901/r1709799_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T18:56:08Z",
       "headline": "McDermott reflects on Bills departure, hopes to coach again in NFL",
       "description": "McDermott reflects on Bills departure, hopes to coach again in NFL",
@@ -148,7 +164,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_133456028_3646451/ss_20260904_133456028_3646451.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:49:20Z",
       "headline": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
       "description": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
@@ -156,7 +172,7 @@
       "image": "https://a.espncdn.com/photo/2026/0615/fan_football_draft_guide_cr_16x9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:47:20Z",
       "headline": "Fantasy Football 'Do Draft' list: Derrick Henry, Patrick Mahomes among undervalued players to pick",
       "description": "You've read the \"Do Not Draft\" list. Now, Eric Karabell lists players being drafted later than they should be.",
@@ -164,7 +180,7 @@
       "image": "https://a.espncdn.com/photo/2026/0812/nfl_do_draft_list_16x9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:46:49Z",
       "headline": "Fantasy football sleepers, busts and breakouts for 2026",
       "description": "Which players will surprise, disappoint or make a big jump this fantasy season? Our analysts give their picks.",
@@ -172,7 +188,7 @@
       "image": "https://a.espncdn.com/photo/2026/0702/fan_breakout-sleeper-bust_16x9_608x342.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:45:39Z",
       "headline": "Fantasy Football 'Do Not Draft' list: Giants' young trio among players being overvalued",
       "description": "The annual hit is back, with players Eric Karabell feels are going earlier than they should in drafts this summer.",
@@ -180,7 +196,7 @@
       "image": "https://a.espncdn.com/photo/2026/0805/nfl_do_not_draft_16x9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:44:38Z",
       "headline": "Adam Schefter's fantasy football cheat sheet: Value picks and sleepers to target",
       "description": "The annual favorite is back, featuring Adam's favorite picks at each level of the draft, including sleepers.",
@@ -188,7 +204,7 @@
       "image": "https://a.espncdn.com/photo/2026/0827/fan_schefter's_fantasy_football_cheat_sheet_fc_16x9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:44:58Z",
       "headline": "Who will be this year's fantasy football 'league winners'?",
       "description": "Michael F. Florio shares his players with breakout potential who could lead fantasy managers to titles in 2026.",
@@ -196,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/0827/r1707807_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:43:55Z",
       "headline": "Mike Clay's Ultimate Draft Board: Perfect picks for every round in a 12-team league",
       "description": "Mike Clay provides his draft blueprint, including ideal selections in each round and overall strategy.",
@@ -204,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2026/0821/fan_clay_draftboard_new_16x9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:32:41Z",
       "headline": "Eric Karabell's 2026 fantasy football flex and superflex rankings",
       "description": "A look at the top 200 QBs, RBs, WRs and TEs for 2026 drafts, updated throughout the fantasy football offseason.",
@@ -212,7 +228,7 @@
       "image": "https://a.espncdn.com/photo/2025/1218/r1591212_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:31:34Z",
       "headline": "Fantasy football draft rankings 2026: Kicker",
       "description": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -220,7 +236,7 @@
       "image": "https://a.espncdn.com/photo/2025/1206/r1585509_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:31:57Z",
       "headline": "Fantasy football draft rankings 2026: Individual defensive players",
       "description": "Fantasy football draft rankings from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
@@ -228,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2026/0427/r1650074_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:31:08Z",
       "headline": "Fantasy football draft rankings 2026: Defense/special teams",
       "description": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -236,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2025/0925/r1551036_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:30:41Z",
       "headline": "Fantasy football draft rankings 2026: Tight end",
       "description": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -244,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2025/1005/r1555816_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:30:04Z",
       "headline": "Fantasy football draft rankings 2026: Wide receiver",
       "description": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -252,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2025/1017/r1561488_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:29:33Z",
       "headline": "Fantasy football draft rankings 2026: Running back",
       "description": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -260,7 +276,7 @@
       "image": "https://a.espncdn.com/photo/2025/1130/r1583040_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:29:03Z",
       "headline": "Fantasy football draft rankings 2026: Quarterback",
       "description": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -268,7 +284,7 @@
       "image": "https://a.espncdn.com/photo/2026/0105/r1596890_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:28:41Z",
       "headline": "2026 fantasy football rankings: PPR leagues",
       "description": "Fantasy football rankings for the upcoming season, for PPR leagues, as well as IDP and dynasty setups.",
@@ -276,7 +292,7 @@
       "image": "https://a.espncdn.com/photo/2026/0421/fan_composite-rankings_16x9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:27:55Z",
       "headline": "Fantasy football cheat sheets: PPR, non-PPR, depth charts",
       "description": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
@@ -284,7 +300,7 @@
       "image": "https://a.espncdn.com/photo/2026/0601/r1666642_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:09:58Z",
       "headline": "Fantasy football buzz: Drafting in a deep/keeper league? Read up on the names to know",
       "description": "Michael F. Florio breaks down the players to keep on your later-round radar in deep or keeper league drafts.",
@@ -292,7 +308,7 @@
       "image": "https://a.espncdn.com/photo/2026/0904/r1711367_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:52:15Z",
       "headline": "What the new Seahawks owners can learn from the Allens' legacy",
       "description": "The Khoslas are now officially the new owners of the Seahawks. And the previous team owners -- Paul and Jody Allen -- can be a blueprint for success.",
@@ -300,7 +316,7 @@
       "image": "https://a.espncdn.com/photo/2026/0901/r1710173_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T15:41:47Z",
       "headline": "Dopp: Justin Herbert is an 'easy' top-7 fantasy QB",
       "description": "Dopp: Justin Herbert is an 'easy' top-7 fantasy QB",
@@ -308,7 +324,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_110645787_3646326/ss_20260904_110645787_3646326.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:14:00Z",
       "headline": "Pro Football HOF makes sweeping changes to selection process",
       "description": "The Pro Football Hall of Fame has made sweeping changes to its selection process that include a significant reduction in the number of selectors and the elimination of the separate Seniors category.",
@@ -316,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2026/0806/r1698431_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T15:42:21Z",
       "headline": "Why Field Yates thinks Wan'Dale Robinson can be a top-10 WR this season",
       "description": "Why Field Yates thinks Wan'Dale Robinson can be a top-10 WR this season",
@@ -324,7 +340,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_105722276_3646319/ss_20260904_105722276_3646319.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T15:43:01Z",
       "headline": "The parameters needed for Jadarian Price to be a fantasy success",
       "description": "The parameters needed for Jadarian Price to be a fantasy success",
@@ -332,7 +348,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_104426091_3646308/ss_20260904_104426091_3646308.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T23:00:19Z",
       "headline": "Fantasy football rankings for Week 1: D/ST",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -340,7 +356,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-05T00:01:24Z",
       "headline": "Fantasy football rankings for Week 1: IDP",
       "description": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
@@ -348,7 +364,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711080_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T14:36:19Z",
       "headline": "Fantasy football rankings for Week 1: Kicker",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -356,7 +372,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711066_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T15:16:41Z",
       "headline": "Why Field Yates thinks Rico Dowdle could be a hidden gem for fantasy managers",
       "description": "Why Field Yates thinks Rico Dowdle could be a hidden gem for fantasy managers",
@@ -364,7 +380,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_103548559_3646300/ss_20260904_103548559_3646300.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T14:35:50Z",
       "headline": "Fantasy football rankings for Week 1: Tight end",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -372,7 +388,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711063_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T16:19:26Z",
       "headline": "Fantasy football rankings for Week 1: Wide receiver",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -380,28 +396,12 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
+      "captured_at": "2026-09-05T20:20:06.044736+00:00",
       "published": "2026-09-04T14:34:36Z",
       "headline": "Fantasy football rankings for Week 1: Quarterback",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
       "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
       "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
-      "published": "2026-09-04T14:35:00Z",
-      "headline": "Fantasy football rankings for Week 1: Running back",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711047_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-05T15:13:37.662594+00:00",
-      "published": "2026-09-04T12:53:07Z",
-      "headline": "Get hyped for the MNF opener Broncos-Chiefs on ESPN and ABC",
-      "description": "Get hyped for the MNF opener Broncos-Chiefs on ESPN and ABC",
-      "url": "https://www.espn.com/video/clip/_/id/49824449/get-hyped-mnf-opener-broncos-chiefs-espn-abc",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Broncos_Chiefs_promo/dm_260904_Broncos_Chiefs_promo.jpg"
     }
   ]
 }

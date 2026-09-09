@@ -1,10 +1,18 @@
 {
-  "captured_at": "2026-09-09T04:41:27.834355+00:00",
+  "captured_at": "2026-09-09T11:22:27.893553+00:00",
   "source_ok": true,
   "source": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/news?region=us&lang=en&contentorigin=espn&limit=100",
   "articles": [
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
+      "published": "2026-09-09T03:52:08Z",
+      "headline": "49ers' Alfred Collins (knee) injured in practice, out for season",
+      "description": "49ers starting defensive tackle Alfred Collins suffered a torn patellar tendon in the team's Tuesday practice in Australia, an injury that will keep him out for the 2026 season.",
+      "url": "https://www.espn.com/nfl/story/_/id/49875661/49ers-alfred-collins-knee-injured-practice-season",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713603_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-09T02:21:54Z",
       "headline": "Fantasy football Knockout league rankings: The 252 players to draft",
       "description": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
@@ -12,7 +20,7 @@
       "image": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T23:29:43Z",
       "headline": "Respectful Lions eager to tangle with Saints in opener",
       "description": "Campbell spent five seasons as an assistant to Payton and credits the Saints coach as the reason he was hired  in Detroit.",
@@ -20,7 +28,7 @@
       "image": "https://a.espncdn.com/photo/2026/0908/r1713410_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-09T00:19:08Z",
       "headline": "Ann Michael Maye dishes on skyrocketing profile with Drake's ascent",
       "description": "One of the organic trickle-down effects of Maye's rapid ascent to stardom is how his wife, Ann Michael, has seen her own profile skyrocket.",
@@ -28,7 +36,7 @@
       "image": "https://a.espncdn.com/photo/2026/0908/r1713462_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-09T00:00:39Z",
       "headline": "Buccaneers extend Baker Mayfield: Key intel and a grade",
       "description": "Why did Mayfield change his mind about a negotiating deadline, and what does it mean for other QBs?",
@@ -36,7 +44,7 @@
       "image": "https://a.espncdn.com/photo/2026/0908/r1713424_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T22:56:37Z",
       "headline": "Travis Hunter, wife give gifts to nurses who helped with birth of their child",
       "description": "The nurses who helped care for the couple's son's while he was in the Wolfson Children's Hospital neonatal ICU left a lasting impression.",
@@ -44,7 +52,7 @@
       "image": "https://a.espncdn.com/photo/2026/0803/r1697286_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T23:00:24Z",
       "headline": "Source: Steelers' Iheanachor had home burglarized last month",
       "description": "Steelers rookie OT Max Iheanachor had his home burglarized late last month, a team source confirmed to ESPN's Brooke Pryor.",
@@ -52,7 +60,7 @@
       "image": "https://a.espncdn.com/photo/2026/0806/r1698526_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-09T01:41:39Z",
       "headline": "Joe Burrow in it for 'long haul' with Cincinnati Bengals",
       "description": "As the season opener nears, Cincinnati veteran quarterback Joe Burrow, 29, affirmed his desire to remain with the Bengals, telling the team's website that he's \"here for the long haul\" and ready to \"attack the day with a championship mindset.\"",
@@ -60,7 +68,7 @@
       "image": "https://a.espncdn.com/photo/2026/0908/r1713453_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T22:02:17Z",
       "headline": "Why Bucs' Mayfield has 'extra motivation' heading into season",
       "description": "The self-imposed deadline has passed for Tampa Bay's quarterback as he now turns his attention to the season.",
@@ -68,7 +76,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711020_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T21:52:51Z",
       "headline": "Wilson calls ending Jets' playoff drought 'very realistic'",
       "description": "Garrett Wilson said breaking the Jets' 15-year playoff drought feels \"very realistic\" and went as far as stating that was the goal this season.",
@@ -76,7 +84,7 @@
       "image": "https://a.espncdn.com/photo/2025/0904/r1541067_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T21:21:05Z",
       "headline": "Highest-paid NFL players: Most guaranteed money at every position",
       "description": "We have seen a fair share of massive contracts in the NFL. So who tops the highest-paid list at every position as of today?",
@@ -84,7 +92,7 @@
       "image": "https://a.espncdn.com/photo/2026/0623/r1678205_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T21:32:02Z",
       "headline": "Vince Young on what No. 4 Texas needs to beat No. 1 Ohio State",
       "description": "Texas legend and national championship-winning QB Young discusses Arch Manning's growth, Steve Sarkisian's leadership and the keys to beating Ohio State.",
@@ -92,15 +100,15 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/dm_260908_SEC_NCF_Interview_Vince_Young_on_PFS_270908/dm_260908_SEC_NCF_Interview_Vince_Young_on_PFS_270908.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
-      "published": "2026-09-09T02:39:47Z",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
+      "published": "2026-09-09T03:12:00Z",
       "headline": "Bucs, Baker Mayfield agree to 3-year extension, sources say",
-      "description": "The Buccaneers and quarterback Baker Mayfield have agreed to a three-year, $165 million extension, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+      "description": "The Buccaneers and quarterback Baker Mayfield agreed to a three-year, $165 million extension, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
       "url": "https://www.espn.com/nfl/story/_/id/49872379/bucs-baker-mayfield-agree-3-year-extension-sources-say",
       "image": "https://a.espncdn.com/photo/2025/0904/r1540818_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T21:47:05Z",
       "headline": "Patriots' Henderson, Seahawks' Okada ruled out for SB rematch",
       "description": "Patriots running back TreVeyon Henderson won't play in the regular-season opener against the Seahawks, while the defending Super Bowl champions might have to begin their title defense without two of their top three safeties.",
@@ -108,7 +116,7 @@
       "image": "https://a.espncdn.com/photo/2026/0908/r1713415_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T20:52:29Z",
       "headline": "NFL depth charts for all 32 teams for 2026 season",
       "description": "Here are the latest NFL depth charts for all 32 teams.",
@@ -116,7 +124,7 @@
       "image": "https://a.espncdn.com/photo/2023/0413/r1158435_2_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T22:06:11Z",
       "headline": "Allen, Jackson, Burrow lead MVP faves; non-QBs lead OROY odds",
       "description": "Quarterbacks Josh Allen, Lamar Jackson and Joe Burrow lead an early list of NFL MVP favorites, while RB Jeremiyah Love and WR Carnell Tate top Offensive Rookie of the Year odds.",
@@ -124,7 +132,7 @@
       "image": "https://a.espncdn.com/photo/2024/0926/r1392224_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T20:27:25Z",
       "headline": "What does Aaron Donald being inactive mean for 49ers-Rams?",
       "description": "What does Aaron Donald being inactive mean for 49ers-Rams?",
@@ -132,15 +140,15 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_162135943_3652699/ss_20260908_162135943_3652699.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
-      "published": "2026-09-08T22:14:38Z",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
+      "published": "2026-09-09T03:13:23Z",
       "headline": "Rams' Donald won't travel to Australia; Garrett 'ready to go'",
       "description": "Rams standout defensive tackle Aaron Donald will not travel to Australia for Thursday night's opener against the San Francisco 49ers and will be inactive, coach Sean McVay announced Tuesday.",
       "url": "https://www.espn.com/nfl/story/_/id/49871629/rams-aaron-donald-travel-australia-week-1",
       "image": "https://a.espncdn.com/photo/2026/0907/r1712630_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T21:50:31Z",
       "headline": "Bears' Braxton Jones to start at left tackle in season opener",
       "description": "The Bears will be starting Braxton Jones at left tackle for their season opener Sunday after the veteran won the training camp position battle.",
@@ -148,7 +156,7 @@
       "image": "https://a.espncdn.com/photo/2026/0122/r1604179_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T19:25:57Z",
       "headline": "Bijan Robinson on what his new deal means for the RB position",
       "description": "Bijan Robinson on what his new deal means for the RB position",
@@ -156,7 +164,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_150550814_3652628/ss_20260908_150550814_3652628.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T18:49:45Z",
       "headline": "Does Sam Darnold have to prove himself over and over?",
       "description": "Does Sam Darnold have to prove himself over and over?",
@@ -164,7 +172,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_143441812_3652602887/ss_20260908_143441812_3652602887.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T18:55:07Z",
       "headline": "Ravens QB Jackson: Success this season means 'us winning it all'",
       "description": "Ravens quarterback Lamar Jackson said Tuesday that \"winning it all\" would constitute a successful season in his eyes.",
@@ -172,7 +180,7 @@
       "image": "https://a.espncdn.com/photo/2026/0812/r1700789_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T18:22:25Z",
       "headline": "Andy Reid shares an update on Patrick Mahomes, Josh Simmons",
       "description": "Andy Reid shares an update on Patrick Mahomes, Josh Simmons",
@@ -180,7 +188,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_140906157_3652580/ss_20260908_140906157_3652580.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T18:22:50Z",
       "headline": "Patrick Mahomes expected to start Chiefs' opener vs. Broncos on MNF",
       "description": "Patrick Mahomes is expected to start the Chiefs' season opener Monday against the Broncos.",
@@ -188,7 +196,7 @@
       "image": "https://a.espncdn.com/photo/2026/0807/r1698843_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T17:31:47Z",
       "headline": "The Seahawks open their title defense with a rare Week 1 Super Bowl rematch vs the Patriots",
       "description": "The Seattle Seahawks have gotten an offseason full of congratulations, their Super Bowl rings and...",
@@ -196,7 +204,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872656.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T17:19:35Z",
       "headline": "Aikman on Eisen: This is the best 'MNF' schedule we've ever had",
       "description": "Aikman on Eisen: This is the best 'MNF' schedule we've ever had",
@@ -204,7 +212,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_130635736_3652544795/ss_20260908_130635736_3652544795.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T21:05:58Z",
       "headline": "Eagles' Brandon Graham announces he is retiring from NFL for 2nd time",
       "description": "Longtime Eagles defensive end Brandon Graham announced he is retiring from the NFL again.",
@@ -212,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2025/1021/r1563282_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T16:54:16Z",
       "headline": "Stephen A.: Aaron Rodgers has gotten a bad rap to some degree",
       "description": "Stephen A.: Aaron Rodgers has gotten a bad rap to some degree",
@@ -220,7 +228,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_123917597_3652531/ss_20260908_123917597_3652531.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T17:10:35Z",
       "headline": "What Patrick Surtain II's pay raise means for the NFL corner market",
       "description": "What Patrick Surtain II's pay raise means for the NFL corner market",
@@ -228,7 +236,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_123152884_3652525784/ss_20260908_123152884_3652525784.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T16:17:56Z",
       "headline": "How to bet the 2026 NFL season: Odds, tips and our best picks",
       "description": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
@@ -236,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2026/0826/nfl_how_to_bet_the_2026_season_16x9_608x342.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T15:18:14Z",
       "headline": "Puka vs. Chase vs. JSN: Who should be WR1?",
       "description": "Puka vs. Chase vs. JSN: Who should be WR1?",
@@ -244,7 +252,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_111342477_3652487/ss_20260908_111342477_3652487.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T16:40:16Z",
       "headline": "Cowboys have 'serious' financial room to make a trade, says Jones",
       "description": "Cowboys owner Jerry Jones told 105.3 The Fan on Tuesday that the team has \"serious room financially\" to make a trade after restructuring several veteran contracts last week.",
@@ -252,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2024/1118/r1416421_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T15:13:53Z",
       "headline": "Stephen A.: What can go wrong will go wrong for Cowboys",
       "description": "Stephen A.: What can go wrong will go wrong for Cowboys",
@@ -260,7 +268,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_105708022_3652473/ss_20260908_105708022_3652473.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T15:29:25Z",
       "headline": "Is Parker Washington or Stefon Diggs a better PPR player?",
       "description": "Is Parker Washington or Stefon Diggs a better PPR player?",
@@ -268,7 +276,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_105420175_3652467664/ss_20260908_105420175_3652467664.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T15:31:44Z",
       "headline": "How Field Yates would approach Josh Jacobs in fantasy drafts",
       "description": "How Field Yates would approach Josh Jacobs in fantasy drafts",
@@ -276,7 +284,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_104500626_3652461651/ss_20260908_104500626_3652461651.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T15:32:52Z",
       "headline": "Is Luther Burden III primed for a big fantasy season?",
       "description": "Is Luther Burden III primed for a big fantasy season?",
@@ -284,7 +292,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_104139589_3652458655/ss_20260908_104139589_3652458655.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T15:33:45Z",
       "headline": "Dopp, Yates disagree over Josh Allen's Week 1 fantasy ranking",
       "description": "Dopp, Yates disagree over Josh Allen's Week 1 fantasy ranking",
@@ -292,7 +300,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_103824141_3652457647/ss_20260908_103824141_3652457647.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T13:04:57Z",
       "headline": "Peyton, Eli Manning take 'ManningCast' to new heights in 'ManningCast: Heist'",
       "description": "\"ManningCast\" is back with a new season on Monday Night Football -- and the Manning brothers with a new look.",
@@ -300,7 +308,7 @@
       "image": "https://a.espncdn.com/photo/2026/0907/r1712794_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T13:25:07Z",
       "headline": "'This is massive!': Saturday discusses Cowboys' big loss before the season",
       "description": "'This is massive!': Saturday discusses Cowboys' big loss before the season",
@@ -308,7 +316,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_084946516_3652393533/ss_20260908_084946516_3652393533.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T12:53:33Z",
       "headline": "How Christian Gonzalez became the NFL\u2019s highest-paid cornerback",
       "description": "How Christian Gonzalez became the NFL\u2019s highest-paid cornerback",
@@ -316,7 +324,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_083720563_3652384/ss_20260908_083720563_3652384.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T10:47:22Z",
       "headline": "Four keys for betting the 2026 NFL season, plus three early prop plays",
       "description": "Ben Solak offers his keys to betting the 2026 NFL season, strategies and early bets before Week 1.",
@@ -324,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2026/0128/nfl_betting-wrapped_fc_16x9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T12:24:34Z",
       "headline": "Panthers banking on RBs Hubbard, Brooks despite injury histories",
       "description": "Carolina wants to run the ball more, but how will each back -- including AJ Dillon -- handle the workload?",
@@ -332,7 +340,7 @@
       "image": "https://a.espncdn.com/photo/2026/0907/r1712828_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T10:00:03Z",
       "headline": "NFC East: Sizing up the Cowboys, Eagles, Giants and Commanders",
       "description": "Our reporters discuss what needs to go right for the Eagles, Cowboys, Commanders and Giants in 2026.",
@@ -340,7 +348,7 @@
       "image": "https://a.espncdn.com/photo/2025/0619/nfc_east_roundtable_1296x729.png"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T12:39:15Z",
       "headline": "Todd Monken, QBs, the Browns and a lifetime in pursuit",
       "description": "At age 60, the first-time head coach brings to Cleveland a gritty resolve, an ability to cut through to QBs and a dream that this will be \"my last job.\"",
@@ -348,7 +356,7 @@
       "image": "https://a.espncdn.com/photo/2026/0907/r1712894_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T16:33:47Z",
       "headline": "Can Patriots QB Drake Maye repeat MVP-caliber season in 2026?",
       "description": "The New England quarterback is letting the Super Bowl loss motivate him in 2026, starting with the rematch at Seahawks on Wednesday.",
@@ -356,7 +364,7 @@
       "image": "https://a.espncdn.com/photo/2026/0907/r1712924_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T14:56:14Z",
       "headline": "NFL execs predict 2026 award winners: MVP, top rookies, more",
       "description": "Who will win MVP? Who will take offensive and defensive rookie of the year? Who is primed for a breakout? We asked execs and scouts for their picks.",
@@ -364,7 +372,7 @@
       "image": "https://a.espncdn.com/photo/2026/0904/r1711551_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T16:41:09Z",
       "headline": "Sources: Christian Gonzalez, Patriots reach 4-year, $135M deal",
       "description": "The Patriots and Christian Gonzalez agreed to terms on a four-year, $135 million extension that makes him the highest-paid CB in NFL history.",
@@ -372,7 +380,7 @@
       "image": "https://a.espncdn.com/photo/2025/0101/r1433646_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T04:10:55Z",
       "headline": "49ers' Nick Bosa set to face Rams; George Kittle 'looks good'",
       "description": "All signs point toward San Francisco's Nick Bosa and George Kittle playing in Thursday's season opener versus the Rams.",
@@ -380,7 +388,7 @@
       "image": "https://a.espncdn.com/photo/2026/0908/r1713083_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-08T03:06:17Z",
       "headline": "Aaron Donald pleased with progress as Rams' opener nears",
       "description": "After two seasons out of football, defensive lineman Aaron Donald, 35, has been pleasantly surprised by how his body has reacted since rejoining the Los Angeles Rams last month, telling reporters on Monday that he is \"feeling good. Feeling really good.\"",
@@ -388,20 +396,12 @@
       "image": "https://a.espncdn.com/photo/2026/0908/r1713071_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
+      "captured_at": "2026-09-09T11:22:27.893553+00:00",
       "published": "2026-09-07T22:25:09Z",
       "headline": "Titans' Cedric Gray in concussion protocol after UTV accident",
       "description": "Titans placed LB Cedric Gray under the NFL's concussion protocol after he was involved in a UTV accident in Tennessee over the weekend.",
       "url": "https://www.espn.com/nfl/story/_/id/49862818/titans-cedric-gray-concussion-protocol-utv-accident",
       "image": "https://a.espncdn.com/photo/2026/0907/r1712982_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-09-09T04:41:27.834355+00:00",
-      "published": "2026-09-07T23:18:39Z",
-      "headline": "Fantasy football buzz: What Tua Tagovailoa being named starter means for Falcons",
-      "description": "Matt Bowen looks at what Tua Tagovailoa starting means for Bijan Robinson, Drake London and Kyle Pitts Sr.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712973_608x342_16-9.jpg"
     }
   ]
 }

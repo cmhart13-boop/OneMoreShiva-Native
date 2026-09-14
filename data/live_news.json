@@ -1,26 +1,162 @@
 {
-  "captured_at": "2026-09-14T12:45:59.881064+00:00",
+  "captured_at": "2026-09-14T21:49:01.699796+00:00",
   "source_ok": true,
   "source": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/news?region=us&lang=en&contentorigin=espn&limit=100",
   "articles": [
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T12:44:20Z",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:38:27Z",
+      "headline": "Fantasy football waiver wire: Shough, Black, Coker highlight top picks for Week 2",
+      "description": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/49939032/fantasy-football-waiver-wire-free-agent-pickups-nfl-week-2",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716580_576x324_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:38:43Z",
+      "headline": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
+      "description": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
+      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+      "image": "https://a.espncdn.com/photo/2026/0909/nfl_rodgers-final-season_16x9.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:25:52Z",
+      "headline": "NFL Week 2 betting: Odds, lines and totals for every game",
+      "description": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 2.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49940340/2026-nfl-week-2-schedule-odds-betting-point-spreads-totals",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716584_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:19:33Z",
+      "headline": "Baker Mayfield's struggles raises questions",
+      "description": "Jenna Laine breaks down Tampa Bay's season opener and Baker Mayfield's rough performance in the loss.",
+      "url": "https://www.espn.com/video/clip/_/id/49941035/baker-mayfield-struggles-raises-questions",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_Bucs_IA_Week_1/dm_260914_Bucs_IA_Week_1.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:01:18Z",
+      "headline": "Lamar Jackson looks like old self in Ravens' new offense",
+      "description": "In his first season with new OC Declan Doyle, Jackson has embraced changes to how he played football for most of his life.",
+      "url": "https://www.espn.com/nfl/story/_/id/49940318/lamar-jackson-looks-old-self-baltimore-ravens-new-offense-vs-colts",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716547_2_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:27:48Z",
+      "headline": "Should fantasy managers be concerned about Jayden Daniels?",
+      "description": "Should fantasy managers be concerned about Jayden Daniels?",
+      "url": "https://www.espn.com/video/clip/_/id/49940648/should-fantasy-managers-concerned-jayden-daniels",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_112446141_3660816732/ss_20260914_112446141_3660816732.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:04:52Z",
+      "headline": "Mike Clay: Justin Jefferson the only clear fantasy starter in Vikings' offense",
+      "description": "Mike Clay: Justin Jefferson the only clear fantasy starter in Vikings' offense",
+      "url": "https://www.espn.com/video/clip/_/id/49940646/justin-jefferson-only-clear-fantasy-starter-vikings-offense",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_112431359_3660815718/ss_20260914_112431359_3660815718.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:28:29Z",
+      "headline": "Touchdowns galore, awards market moves and a great Sunday for NFL bettors",
+      "description": "A high-scoring Week 1 with a variety of players scoring TDs made for a bettor-friendly Sunday.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49940225/nfl-week-1-betting-recap-odds-props-scores-mvp-super-bowl",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716543_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:38:33Z",
+      "headline": "Stephen A. to Michael Irvin: The Cowboys didn't show up vs. Giants",
+      "description": "Stephen A. to Michael Irvin: The Cowboys didn't show up vs. Giants",
+      "url": "https://www.espn.com/video/clip/_/id/49940453/cowboys-show-vs-giants",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_105901484_3660799665/ss_20260914_105901484_3660799665.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:39:58Z",
+      "headline": "Stephen A.: Josh Allen, Bills made a statement with win over Texans",
+      "description": "Stephen A.: Josh Allen, Bills made a statement with win over Texans",
+      "url": "https://www.espn.com/video/clip/_/id/49940425/josh-allen-bills-made-statement-win-texans",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_105555997_3660797663/ss_20260914_105555997_3660797663.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T15:11:03Z",
+      "headline": "How to bet Broncos-Chiefs on MNF: Mahomes back, KC a field goal fave",
+      "description": "Odds, bets and analysis to help you bet Broncos-Chiefs on \"Monday Night Football.\"",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49490554/nfl-week-1-odds-best-betting-tips-picks-denver-broncos-kansas-city-chiefs",
+      "image": "https://a.espncdn.com/photo/2025/1110/r1573694_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:01:55Z",
+      "headline": "Early bets for NFL Week 2: The plays we targeted once odds came out",
+      "description": "Which Week 2 lines offered immediate value once odds came out? Here are four early bets to track.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49940029/nfl-week-2-betting-odds-props-early-picks-predictions-first-bet",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716542_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T14:35:46Z",
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "description": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "image": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T14:33:10Z",
+      "headline": "Fantasy football buzz: Who got the ball Sunday, and which RBs are rising?",
+      "description": "Don't panic about Colston Loveland in Chicago, while David Montgomery asserts lead role in Houston.",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716522_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:39:07Z",
+      "headline": "Bruschi, Rex marvel at Bears after big offensive game in Week 1",
+      "description": "Bruschi, Rex marvel at Bears after big offensive game in Week 1",
+      "url": "https://www.espn.com/video/clip/_/id/49940083/bruschi-rex-marvel-bears-big-offensive-game-week-1",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_100556956_3660767625/ss_20260914_100556956_3660767625.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T13:12:17Z",
+      "headline": "Ben Johnson, Ravens DBs lead top NFL quotes from NFL Week 1",
+      "description": "Sometimes the highlights come from the postgame pressers. Here's a look at the top quips and comments from around the league in Week 1.",
+      "url": "https://www.espn.com/nfl/story/_/id/49934701/best-nfl-quotes-week-1-ben-johnson-marlon-humphrey-malaki-starks",
+      "image": ""
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:37:28Z",
+      "headline": "Why Rex isn't surprised by Giants' win over Cowboys",
+      "description": "Why Rex isn't surprised by Giants' win over Cowboys",
+      "url": "https://www.espn.com/video/clip/_/id/49939587/why-rex-surprised-giants-win-cowboys",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_085035970_3660738549/ss_20260914_085035970_3660738549.jpg"
+    },
+    {
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T12:53:01Z",
       "headline": "NFL Week 1 offense explosion: Bears, Ravens, Bills, Jaguars",
       "description": "Chicago (59), Baltimore (41), Buffalo (36) and Jacksonville (34) were among 10 teams that scored 30-plus points Sunday. What happened, and can it continue?",
       "url": "https://www.espn.com/nfl/story/_/id/49930014/week-1-offenses-bears-ravens-bills-jaguars-barnwell",
       "image": "https://a.espncdn.com/photo/2026/0913/r1716308_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T10:00:03Z",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:23:19Z",
       "headline": "Inside Patrick Mahomes' remarkable return from knee injury",
       "description": "Exactly 274 days ago, Mahomes, after suffering the most significant injury of his career, vowed to be back for Week 1. Here's how he did it.",
       "url": "https://www.espn.com/nfl/story/_/id/49894461/patrick-mahomes-chiefs-return-knee-injury-nfl-week-1",
       "image": "https://a.espncdn.com/photo/2026/0914/r1716323_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T12:02:18Z",
       "headline": "Broncos using the same formula as the 2015 Super Bowl team?",
       "description": "The 2015 Broncos used a united front office, shutdown defense and clutch play to win Super Bowl 50. And the 2026 Broncos have a similar makeup -- and goal.",
@@ -28,7 +164,7 @@
       "image": "https://a.espncdn.com/photo/2026/0910/broncos_split_608x342.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T10:00:02Z",
       "headline": "Is Jaguars QB Trevor Lawrence's hot start sustainable?",
       "description": "Jacksonville's QB looked dominant vs. the Browns in Week 1. Can he shake his career September woes as tough matchups loom?",
@@ -36,7 +172,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716441_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T08:18:37Z",
       "headline": "NFL Melbourne success proves day time Grand final must stay",
       "description": "On the ESPN Footy Podcast, the boys debate that the NFL Melbourne game was the best possible advertisement to keep the AFL Grand Final in the afternoon slot forever",
@@ -44,7 +180,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_AFL_Analysis_NFL_Melbourne_success_proves_day_time_Grand_final_must_stay_20260914/dm_260914_AFL_Analysis_NFL_Melbourne_success_proves_day_time_Grand_final_must_stay_20260914.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T06:48:41Z",
       "headline": "John Harbaugh: Giants' win over Cowboys in debut 'really special'",
       "description": "John Harbaugh came away pleased with his team's performance in his Big Apple debut.",
@@ -52,23 +188,23 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716449_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T06:43:08Z",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:37:23Z",
       "headline": "Cowboys fall flat in Week 1 loss, vow it's 'a long season'",
       "description": "After a lackluster 28-20 loss to the Giants on Sunday night, Dallas Cowboys coach Brian Schottenheimer told reporters, \"We just didn't perform the way we're capable of playing,\" as New York converted 9 of 11 third-down chances.",
       "url": "https://www.espn.com/nfl/story/_/id/49937394/cowboys-fall-flat-week-1-loss-vow-long-season",
       "image": "https://a.espncdn.com/photo/2026/0914/r1716447_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T09:25:12Z",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:19:36Z",
       "headline": "NFL Week 1: Takeaways, questions, fantasy spin for Sunday games",
       "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 1.",
       "url": "https://www.espn.com/nfl/story/_/id/49871987/week-1-sunday-games-takeaways-questions-2026",
       "image": "https://a.espncdn.com/photo/2026/0914/r1716426_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T04:35:02Z",
       "headline": "Giants' jab at Cowboys following SNF victory tops NFL Week 1 trolls",
       "description": "Early season rust didn't apply to teams around the NFL trolling their opponents after a victory.",
@@ -76,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716437_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T04:00:30Z",
       "headline": "Week 1 winners and losers: Caleb Williams and Josh Allen dominate; Ja'Marr Chase disappoints",
       "description": "Caleb Williams, Josh Allen and Trevor Lawrence came up big in Week 1, while Ja'Marr Chase, Drake London and Colston Loveland had very quiet days.",
@@ -84,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2026/0913/r1716200_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T03:42:26Z",
       "headline": "Giants open season with win over Cowboys on SNF",
       "description": "Giants open season with win over Cowboys on SNF",
@@ -92,15 +228,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0914/a013fd41-bd1a-4eac-bf6d-3dc179a2ae19/a013fd41-bd1a-4eac-bf6d-3dc179a2ae19.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T03:38:16Z",
-      "headline": "Fantasy buzz: The top 10 highest scorers after Sunday Night Football",
-      "description": "Taking a look at the top 10 fantasy scorers through Sunday Night Football.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716175_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T03:52:42Z",
       "headline": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
       "description": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
@@ -108,7 +236,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716405_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T04:41:39Z",
       "headline": "Giants' offense rolls over the Cowboys to give coach John Harbaugh a 28-20 win in his debut",
       "description": "\u2014 Several months before coaching his first game for the New York Giants, John Harbaugh told fans he wanted to build a team that could beat...",
@@ -116,7 +244,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872930.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T03:43:18Z",
       "headline": "Packers searching for answers after blowing another lead late",
       "description": "The Packers' late-game woes from last season continued in Week 1 after they blew yet another big lead in Sunday's 39-22 loss to the Vikings.",
@@ -124,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716420_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T03:11:42Z",
       "headline": "Jalen Hurts makes plays, leads Eagles by Commanders in Week 1",
       "description": "Jalen Hurts threw three touchdown passes and did not commit a turnover while operating offensive coordinator Sean Mannion's system for the first time in a game setting Sunday.",
@@ -132,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716416_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T02:46:36Z",
       "headline": "Harbaugh: Chargers 'sloppy' in loss to Cardinals",
       "description": "The Chargers fell apart Sunday after their opening drive, with coach Jim Harbaugh calling the performance \"uncharacteristic.\"",
@@ -140,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2026/0913/r1716241_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T03:34:52Z",
       "headline": "Ashton Jeanty puts away concern about his ankle in dominant game",
       "description": "Raiders RB Ashton Jeanty began his second year gloriously, rushing for 102 yards and catching two touchdown passes in Las Vegas' 27-13 victory on Sunday.",
@@ -148,15 +276,15 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716410_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T04:12:30Z",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:38:05Z",
       "headline": "Cardinals defeat Chargers, pull off Week 1's biggest upset",
       "description": "On Sunday afternoon, Mike LaFleur became the first Cardinals full-time coach to win his debut since Don Coryell did it in 1973, as Arizona authored a 26-14 victory over the heavily favored Los Angeles Chargers at SoFi Stadium in Inglewood, California.",
       "url": "https://www.espn.com/nfl/story/_/id/49935970/cardinals-defeat-chargers-pull-week-1-biggest-upset",
       "image": "https://a.espncdn.com/photo/2026/0914/r1716406_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T01:59:54Z",
       "headline": "Ben Johnson doubles down on his aspirations for the Bears' offense",
       "description": "Ben Johnson doubles down on his aspirations for the Bears' offense",
@@ -164,7 +292,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_dm_260913_NFL_Ben_Johnson_sound_pub2tag_rev/dm_260913_dm_260913_NFL_Ben_Johnson_sound_pub2tag_rev.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T02:29:46Z",
       "headline": "Commanders back Stefon Diggs after costly unsportsmanlike flag",
       "description": "Commanders WR Stefon Diggs knew the moment he hugged the goalpost to celebrate a fourth-quarter touchdown Sunday that he had committed a penalty that cost his team.",
@@ -172,7 +300,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716368_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T01:53:11Z",
       "headline": "NFL Week 1's best arrivals, led by Dak Prescott and Cam Skattebo",
       "description": "From Spiderman to a Navy nod, players around the NFL brought the heat ahead of their Week 1 matchups.",
@@ -180,7 +308,7 @@
       "image": "https://a.espncdn.com/photo/2026/0913/r1716179_688x387_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T02:00:26Z",
       "headline": "Bears' offense makes statement with 'amazing' 59-point opener",
       "description": "The Bears walked away from their opener with a historic 59-37 win over the Panthers, one that saw them score the fourth-most points in a game in franchise history and saw the teams combine for 96 points, most ever in a season opener.",
@@ -188,7 +316,7 @@
       "image": "https://a.espncdn.com/photo/2026/0913/r1716268_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T01:52:48Z",
       "headline": "Joey Porter Jr. trade fits: Which NFL teams could target CB?",
       "description": "Joey Porter Jr. is open to a trade. We look at five teams that could trade for the star Steelers CB.",
@@ -196,7 +324,7 @@
       "image": "https://a.espncdn.com/photo/2024/1026/r1406080_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T01:19:19Z",
       "headline": "Key NFL Week 1 stats on Bears, Bills, Texans, Bucs, Cardinals",
       "description": "We found six of the coolest advanced stats to come out of Sunday's games, from the Bears' electric day on offense to Baker Mayfield's struggles pushing the ball downfield.",
@@ -204,15 +332,15 @@
       "image": "https://a.espncdn.com/photo/2026/0913/r1716162_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T01:39:29Z",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
+      "published": "2026-09-14T16:20:29Z",
       "headline": "Vikings close with 29 straight points to beat rival Packers as Wentz replaces injured Murray",
       "description": "\u2014 Carson Wentz has had little time to practice with Minnesota's voluminous playbook, a late arrival to the team last season who returned this year in more of a mentor role as Kyler Murray and J.J. McCarthy competed for the starting quarterback job",
       "url": "http://www.espn.com/nfl/recap?gameId=401872927",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872927.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T01:13:42Z",
       "headline": "Saints irked by overturned defensive TD in OT loss to Lions",
       "description": "In New Orleans' wild 31-30 overtime loss to the Detroit Lions on Sunday afternoon at Ford Field, there was a controversial overturned defensive touchdown that Saints coach Kellen Moore labeled \"a little bit of a challenging circumstance.\"",
@@ -220,7 +348,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716320_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T01:30:22Z",
       "headline": "Jalen Coker starts season strong with 'exceptional' Week 1 in fantasy",
       "description": "Jalen Coker starts season strong with 'exceptional' Week 1 in fantasy",
@@ -228,7 +356,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/ss_20260913_200428361_36604431287/ss_20260913_200428361_36604431287.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T12:31:22Z",
       "headline": "DJ Moore showed in Week 1 that he has 'immense upside' in fantasy",
       "description": "DJ Moore showed in Week 1 that he has 'immense upside' in fantasy",
@@ -236,15 +364,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/ss_20260913_200417881_36604421277/ss_20260913_200417881_36604421277.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T00:31:12Z",
-      "headline": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-      "description": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
-      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-      "image": "https://a.espncdn.com/photo/2026/0909/nfl_rodgers-final-season_16x9.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T01:05:49Z",
       "headline": "Breece Hall showed why fantasy managers will 'be rewarded' for picking him",
       "description": "Breece Hall showed why fantasy managers will 'be rewarded' for picking him",
@@ -252,7 +372,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/ss_20260913_195603511_36604311262/ss_20260913_195603511_36604311262.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T00:54:50Z",
       "headline": "How Caleb Williams showed Week 1 that he's a fantasy 'league winner'",
       "description": "How Caleb Williams showed Week 1 that he's a fantasy 'league winner'",
@@ -260,7 +380,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/ss_20260913_195558620_36604301252/ss_20260913_195558620_36604301252.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-13T23:57:27Z",
       "headline": "Vikings come back and beat the Packers in Week 1",
       "description": "Vikings come back and beat the Packers in Week 1",
@@ -268,7 +388,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/55f528ae-96cb-4d2e-bd9b-935a82cfac78/55f528ae-96cb-4d2e-bd9b-935a82cfac78.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T01:41:51Z",
       "headline": "Judging the biggest overreactions to NFL Week 1 games",
       "description": "Is Jackson going to reset the market? What's up in L.A.? And which class of 2023 QB will be extended first? We sized up potential Week 1 overreactions.",
@@ -276,132 +396,12 @@
       "image": "https://a.espncdn.com/photo/2026/0913/r1716188_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
+      "captured_at": "2026-09-14T21:49:01.699796+00:00",
       "published": "2026-09-14T01:48:29Z",
       "headline": "Jalen Hurts throws 3 TD passes and Eagles stuff Commanders' late 2-point try for 24-22 win",
       "description": "\u2014 Jalen Hurts can count on a few guarantees in each season opener.",
       "url": "http://www.espn.com/nfl/recap?gameId=401872929",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872929.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T23:55:06Z",
-      "headline": "Miami Dolphins vs. Las Vegas Raiders Game Highlights",
-      "description": "Miami Dolphins vs. Las Vegas Raiders Game Highlights",
-      "url": "https://www.espn.com/video/clip/_/id/49934861/miami-dolphins-vs-las-vegas-raiders-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/89e3dc89-59d5-46dd-af70-102b34b24478/89e3dc89-59d5-46dd-af70-102b34b24478.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T23:53:00Z",
-      "headline": "Arizona Cardinals vs. Los Angeles Chargers: Game Highlights",
-      "description": "Arizona Cardinals vs. Los Angeles Chargers: Game Highlights",
-      "url": "https://www.espn.com/video/clip/_/id/49934743/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/d3056127-565e-4b49-ad61-d36d5850fe70/d3056127-565e-4b49-ad61-d36d5850fe70.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T01:38:29Z",
-      "headline": "Kirk Cousins hits 301 career TD passes as Raiders open the season with a 27-13 win over Dolphins",
-      "description": "\u2014 Kirk Cousins was brought in to be Las Vegas' present and a bridge to a future where top draft pick",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872928",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872928.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T01:05:29Z",
-      "headline": "Cardinals beat Chargers 26-14 as Mike LaFleur wins his head coaching debut",
-      "description": "\u2014 Coming off an injury-riddled three-win season and with a new coaching staff, the Arizona Cardinals were the NFL's biggest underdog going into Week 1.",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872926",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872926.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T23:43:32Z",
-      "headline": "Eagles take down the Commanders in Week 1",
-      "description": "Eagles take down the Commanders in Week 1",
-      "url": "https://www.espn.com/video/clip/_/id/49934691/eagles-take-commanders-week-1",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/f7c5ecfa-1ea4-486c-bfeb-f87d60ed1840/f7c5ecfa-1ea4-486c-bfeb-f87d60ed1840.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T23:53:42Z",
-      "headline": "Who keeps the ball? Trevor Lawrence's 100th TD is rookie's first catch",
-      "description": "Trevor Lawrence's 100th NFL touchdown pass went to rookie wide receiver Josh Cameron, who hauled it in for his first NFL catch.",
-      "url": "https://www.espn.com/nfl/story/_/id/49933848/trevor-lawrence-100th-career-nfl-touchdown-rookie-josh-cameron-jaguars",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716245_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T00:06:10Z",
-      "headline": "Jahmyr Gibbs happy to help Lions, not worried about workload",
-      "description": "After a career-high 29 carries for 156 rushing yards and two touchdowns -- to go with five receptions for 30 receiving yards -- Lions running back Jahmyr Gibbs said he felt \"fine\" physically after Sunday's opener.",
-      "url": "https://www.espn.com/nfl/story/_/id/49934534/jahmyr-gibbs-happy-help-lions-not-worried-workload",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716285_600x600_1-1.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-14T07:41:35Z",
-      "headline": "Giants WR Malik Nabers makes return in opener vs. Cowboys",
-      "description": "Giants standout wide receiver Malik Nabers caught six passes on nine targets for 69 yards in Sunday night's win over the Cowboys, his first game action since last September.",
-      "url": "https://www.espn.com/nfl/story/_/id/49934374/giants-wr-malik-nabers-knee-active-opener-vs-cowboys",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716454_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T23:11:55Z",
-      "headline": "Colts QB Jones 'not good enough' in return from Achilles' injury",
-      "description": "Jones successfully made his return to game action from an Achilles' injury against the Baltimore Ravens on Sunday -- a remarkable 280 days after his injury -- in an unremarkable 41-23 loss.",
-      "url": "https://www.espn.com/nfl/story/_/id/49934256/colts-qb-jones-not-good-enough-return-achilles",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716280_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T23:47:44Z",
-      "headline": "Geno Smith praised for 'quarterback efficiency' in Jets re-debut",
-      "description": "Quarterback Geno Smith made his re-debut with the Jets on Sunday -- 3,612 days after his previous start -- and helped New York defeat the Titans.",
-      "url": "https://www.espn.com/nfl/story/_/id/49934280/geno-smith-praised-quarterback-efficiency-jets-re-debut",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716272_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T23:09:50Z",
-      "headline": "Fantasy football Week 1 inactives: Status for Malik Nabers",
-      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-49647166/fantasy-football-injuries-nfl-week-1-inactive-active",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716281_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T23:44:53Z",
-      "headline": "Lawrence, Bengals' other defensive additions key win vs. Bucs",
-      "description": "The Bengals forced four turnovers and scored one defensive touchdown in Sunday's win over the Buccaneers.",
-      "url": "https://www.espn.com/nfl/story/_/id/49934248/lawrence-bengals-other-defensive-additions-key-win-vs-bucs",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716274_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T23:13:54Z",
-      "headline": "McCarthy gets game ball from Rodgers after Steelers' win",
-      "description": "Steelers quarterback Aaron Rodgers gave coach Mike McCarthy a game ball after the Steelers' victory Sunday.",
-      "url": "https://www.espn.com/nfl/story/_/id/49933990/mccarthy-gets-game-ball-rodgers-steelers-win",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716205_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T23:42:03Z",
-      "headline": "Josh Allen, Bills use big plays to score big win vs. Texans",
-      "description": "In a house of Bills horrors -- they hadn't won in Houston since '06 -- vs. a team that battered him last season, Josh Allen uncorked a whopper of an offensive performance as Buffalo outlasted Houston 36-31, giving Joe Brady his first victory as coach.",
-      "url": "https://www.espn.com/nfl/story/_/id/49933980/josh-allen-bills-use-big-plays-score-big-win-vs-texans",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716184_600x600_1-1.jpg"
-    },
-    {
-      "captured_at": "2026-09-14T12:45:59.881064+00:00",
-      "published": "2026-09-13T22:39:35Z",
-      "headline": "Cleveland Browns vs. Jacksonville Jaguars - Game Highlights",
-      "description": "Cleveland Browns vs. Jacksonville Jaguars - Game Highlights",
-      "url": "https://www.espn.com/video/clip/_/id/49933879/cleveland-browns-vs-jacksonville-jaguars-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0913/534142c4-afbd-491f-b3ca-cdbdc553203c/534142c4-afbd-491f-b3ca-cdbdc553203c.jpg"
     }
   ]
 }

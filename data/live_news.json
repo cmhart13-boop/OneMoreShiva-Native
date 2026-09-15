@@ -1,10 +1,10 @@
 {
-  "captured_at": "2026-09-15T11:43:26.098997+00:00",
+  "captured_at": "2026-09-15T16:58:47.531721+00:00",
   "source_ok": true,
   "source": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/news?region=us&lang=en&contentorigin=espn&limit=100",
   "articles": [
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T10:39:09Z",
       "headline": "2027 NFL draft order projections for Round 1, top pick, more",
       "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
@@ -12,7 +12,7 @@
       "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T10:40:17Z",
       "headline": "2026 NFL playoff picture: AFC, NFC seed projections, chances",
       "description": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
@@ -20,7 +20,7 @@
       "image": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T11:39:12Z",
       "headline": "Seven things Solak thinks entering NFL Week 2",
       "description": "Will the Titans score any points against the Eagles? Can Ben Johnson solve Brian Flores' Vikings defense? Get ready for Week 2 with seven takes.",
@@ -28,7 +28,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716650_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T10:26:42Z",
       "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 2",
       "description": "How do all 32 NFL teams stack up ahead of Week 2? Plus, we picked out the top newcomers from each roster.",
@@ -36,7 +36,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/nfl_powerrankings_16x9_608x342.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T10:00:02Z",
       "headline": "Cashing in: Bengals rookie Howell impacts pass rush",
       "description": "Howell believes the SEC made him ready for moments such as Sunday, when he had four QB pressures in the Bengals' win.",
@@ -44,7 +44,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716783_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T11:35:50Z",
       "headline": "Best and worst NFL teams' travel: 49ers, Seahawks, Steelers divulge it all",
       "description": "ESPN spoke with several players and team executives about team travel and the feedback that serves as the basis for the latest NFLPA survey grades.",
@@ -52,7 +52,7 @@
       "image": "https://a.espncdn.com/photo/2026/0911/travel_16x9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T06:50:08Z",
       "headline": "Kenneth Walker III, Patrick Mahomes lead Chiefs' win vs. Broncos",
       "description": "Quarterback Patrick Mahomes, making his return from a torn ACL, and running back Kenneth Walker III, making his Chiefs debut, powered Kansas City to a season-opening blowout win over Denver.",
@@ -60,7 +60,7 @@
       "image": "https://a.espncdn.com/photo/2026/0915/r1716912_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T06:29:25Z",
       "headline": "Bo Nix, Broncos drop opener after 'pretty pitiful' effort",
       "description": "Denver quarterback Bo Nix, when asked to sum up the Broncos' 31-10 season-opening loss to the Kansas City Chiefs on Monday, labeled the effort 'pretty pitiful' after an offseason of optimism placed them among Super Bowl favorites.",
@@ -68,7 +68,7 @@
       "image": "https://a.espncdn.com/photo/2026/0915/r1716909_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T04:29:49Z",
       "headline": "Inside Patrick Mahomes' remarkable return from knee injury",
       "description": "On Dec. 14, Mahomes, after suffering the most significant injury of his career, vowed to be back for Week 1. Here's how he did it.",
@@ -76,7 +76,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716323_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T03:49:10Z",
       "headline": "Who are the winningest NFL coaches of all time?",
       "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
@@ -84,7 +84,7 @@
       "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T03:42:34Z",
       "headline": "Mahomes on first TD in injury return: 'Wasn't planning on using my legs that early'",
       "description": "Mahomes on first TD in injury return: 'Wasn't planning on using my legs that early'",
@@ -92,7 +92,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0915/762b49a6-69ce-4ef8-939d-68a1f1dd19c1/762b49a6-69ce-4ef8-939d-68a1f1dd19c1.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T04:37:24Z",
       "headline": "Kenneth Walker III's dazzling debut leads Chiefs over Broncos",
       "description": "Making his Chiefs debut, Kenneth Walker III powered Patrick Mahomes and the Chiefs past the Broncos on \"Monday Night Football.\"",
@@ -100,7 +100,7 @@
       "image": "https://a.espncdn.com/photo/2026/0915/r1716867_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T04:25:29Z",
       "headline": "Walker runs all over Denver, Mahomes looks healthy as Chiefs beat up Broncos 31-10",
       "description": "\u2014 So many people seemed to be focused on Chiefs quarterback Patrick Mahomes, and how the two-time MVP's surgically repaired left...",
@@ -108,7 +108,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872931.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T03:37:12Z",
       "headline": "Chiefs rout Broncos 31-10 on MNF",
       "description": "Chiefs rout Broncos 31-10 on MNF",
@@ -116,7 +116,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0915/58049edc-7c5b-4913-8166-8a140c2763c6/58049edc-7c5b-4913-8166-8a140c2763c6.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T06:11:56Z",
       "headline": "Chiefs' Travis Kelce now No. 2 among TEs in receiving yards",
       "description": "Travis Kelce reached another milestone Monday night against the Broncos, passing Jason Witten to move into second all time in receiving yards for a tight end.",
@@ -124,7 +124,7 @@
       "image": "https://a.espncdn.com/photo/2026/0915/r1716882_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T03:55:14Z",
       "headline": "Eli tries his hand at replicating John Elway's Nerf football throw",
       "description": "Eli tries his hand at replicating John Elway's Nerf football throw",
@@ -132,7 +132,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0915/5807928f-59c4-4f3f-9325-de46fd4e3695/5807928f-59c4-4f3f-9325-de46fd4e3695.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T02:29:23Z",
       "headline": "Taylor Swift, Tom Cruise share suite at Broncos-Chiefs",
       "description": "The pop star and actor sat side by side while supporting Swift's husband and Kansas City Chiefs tight end, Travis Kelce.",
@@ -140,7 +140,7 @@
       "image": "https://a.espncdn.com/photo/2026/0915/r1716843_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T01:17:43Z",
       "headline": "Peyton, Eli impressed with Mahomes' first touchdown",
       "description": "Peyton, Eli impressed with Mahomes' first touchdown",
@@ -148,7 +148,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/682b1ae019304d04b58b33b662acc4581277/682b1ae019304d04b58b33b662acc4581277.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T01:29:36Z",
       "headline": "Seahawks say Sam Darnold has 'unique soft-tissue' injury",
       "description": "Seahawks QB Sam Darnold is dealing with what the team described as a \"very unique soft-tissue\" injury that is not expected to sideline him long term.",
@@ -156,7 +156,7 @@
       "image": "https://a.espncdn.com/photo/2026/0910/r1714128_2_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T00:19:52Z",
       "headline": "ESPN gifts Missouri firefighter tickets to Super Bowl LXI",
       "description": "ESPN gifts Missouri firefighter tickets to Super Bowl LXI",
@@ -164,7 +164,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_200323439_3661213/ss_20260914_200323439_3661213.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T00:09:22Z",
       "headline": "Schefter: Drew Brees mulled NFL return for Broncos in AFC title game",
       "description": "Schefter: Drew Brees mulled NFL return for Broncos in AFC title game",
@@ -172,7 +172,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_200154014_3661211/ss_20260914_200154014_3661211.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T05:54:32Z",
       "headline": "Sources: Drew Brees mulled playing for Broncos in AFC title game",
       "description": "Broncos assistant coaches had discussions with Drew Brees about the former star QB coming out of retirement to play for Denver in last season's AFC Championship Game, sources told ESPN.",
@@ -180,7 +180,7 @@
       "image": "https://a.espncdn.com/photo/2026/0913/r1715887_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T00:17:10Z",
       "headline": "Eagles placing LG Landon Dickerson (knee) on injured reserve",
       "description": "The Eagles are placing left guard Landon Dickerson on injured reserve because of a knee injury, a source told ESPN's Adam Schefter, meaning he will miss at least the next four games.",
@@ -188,7 +188,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716780_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T22:39:39Z",
       "headline": "Cowboys' Overshown, Hooker to miss time with injuries, coach says",
       "description": "The Cowboys will likely be without starting linebacker DeMarvion Overshown and safety Malik Hooker for the next two games, according to coach Brian Schottenheimer.",
@@ -196,7 +196,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716748_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T22:47:36Z",
       "headline": "Source: Lions' Pacheco to miss 12 weeks after back surgery",
       "description": "Lions running back Isiah Pacheco is expected to miss 12 weeks after recently undergoing back surgery, a source told the NFL Network's Ian Rapoport.",
@@ -204,7 +204,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716731_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T23:47:08Z",
       "headline": "Patriots' Kraft says Macklemore performance would cross line",
       "description": "Robert Kraft said he had Macklemore removed as an opening act for Ed Sheeran's shows at Gillette Stadium due in part to a \"history of antisemitic rhetoric and imagery that we believe has been deeply offensive and hurtful to the Jewish community.\"",
@@ -212,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/0330/r1636045_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T21:56:02Z",
       "headline": "New York Jets, Giants both start 1-0 for first time since 2009",
       "description": "The summer of New York is gaining strength as the Jets and Giants both started off their respective NFL seasons hot.",
@@ -220,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716696_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T22:19:10Z",
       "headline": "Chargers WR Ladd McConkey day-to-day with rib injury",
       "description": "Chargers coach Jim Harbaugh said Monday that wide receiver Ladd McConkey has a rib injury and is considered day-to-day.",
@@ -228,7 +228,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716719_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T21:39:20Z",
       "headline": "Giants' Harbaugh admits tackling Nabers to relax WR's injury fears",
       "description": "Giants coach John Harbaugh says tackling star receiver Malik Nabers was \"all in fun\" and was an effort to help the wideout move beyond his injury fears.",
@@ -236,7 +236,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716454_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T21:31:56Z",
       "headline": "Raiders call Brock Bowers day-to-day ahead of Chargers game",
       "description": "Raiders coach Klint Kubiak said star tight end Brock Bowers is day-to-day after missing the team's Week 1 win over the Miami Dolphins because of a meniscus trim procedure he had last week.",
@@ -244,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2025/1224/r1593348_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T21:15:00Z",
       "headline": "Ravens' Flowers day-to-day, Lane to be out longer, Minter says",
       "description": "Ravens receiver Zay Flowers is considered day-to-day while receiver Ja'Kobi Lane could be out for a longer period with a wrist injury, coach Jesse Minter said.",
@@ -252,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2026/0913/r1716129_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T21:26:59Z",
       "headline": "Steelers' McCarthy noncommittal on timeline for Porter's return",
       "description": "Steelers coach Mike McCarthy was noncommittal on the cornerback's timeline to return to game action.",
@@ -260,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716700_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T20:37:47Z",
       "headline": "Falcons' Da'Shawn Hand needs quad surgery, likely out for '26",
       "description": "Falcons defensive tackle Da'Shawn Hand has a quad injury that will require what is expected to be season-ending surgery.",
@@ -268,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2016/0210/r53355_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T02:30:46Z",
       "headline": "Dave Canales: Panthers need to 'play way better football'",
       "description": "After watching film, the coach said Carolina needed to play smarter and Derrick Brown reminded everyone that it's just one game.",
@@ -276,7 +276,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716680_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T20:12:02Z",
       "headline": "Is there cause for fantasy concern with De'Von Achane?",
       "description": "Is there cause for fantasy concern with De'Von Achane?",
@@ -284,7 +284,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_160513611_3661051968/ss_20260914_160513611_3661051968.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T20:13:25Z",
       "headline": "Vikings' O'Connell doesn't fault Packers for hit on QB Murray",
       "description": "The hit that caused Vikings quarterback Kyler Murray's concussion was a \"violent, physical play\" but was not objectionable, coach Kevin O'Connell said Monday.",
@@ -292,7 +292,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716670_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-15T04:18:49Z",
       "headline": "Bo Nix ready to bounce back from his injury",
       "description": "Bo Nix ready to bounce back from his injury",
@@ -300,7 +300,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_bo_nix_interview/dm_260914_bo_nix_interview.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T20:30:41Z",
       "headline": "Sarkisian says Ohio State should be rewarded for playing Texas",
       "description": "After a dramatic 24-23 comeback victory over then-No. 1 Ohio State, Texas coach Steve Sarkisian said the Buckeyes should be rewarded for playing a marquee matchup in a nonconference game.",
@@ -308,7 +308,7 @@
       "image": "https://a.espncdn.com/photo/2025/1101/r1569366_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T19:16:01Z",
       "headline": "Texans LB Henry To'oTo'o to miss some time with shoulder injury",
       "description": "Texans starting LB Henry To'oTo'o suffered a shoulder injury in Sunday's season opener and will miss some time, coach DeMeco Ryans said Monday.",
@@ -316,7 +316,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716645_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T21:05:26Z",
       "headline": "Schefter to Schrager: Browns coach expecting Watson will start Week 2",
       "description": "Schefter to Schrager: Browns coach expecting Watson will start Week 2",
@@ -324,7 +324,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_145630298_3660971908/ss_20260914_145630298_3660971908.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T18:51:15Z",
       "headline": "QB Malik Willis takes blame for five-sack Dolphins debut",
       "description": "Dolphins coach Jeff Hafley said Willis still has his 'total confidence and faith' after a rough debut for Miami.",
@@ -332,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716631_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T19:17:30Z",
       "headline": "Schefter to McAfee: Steelers, Joey Porter Jr. in a tricky spot with contract talks",
       "description": "Schefter to McAfee: Steelers, Joey Porter Jr. in a tricky spot with contract talks",
@@ -340,7 +340,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_144035374_3660956886/ss_20260914_144035374_3660956886.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T18:49:33Z",
       "headline": "Mike Clay: Jaxson Dart outstanding in win over Cowboys",
       "description": "Mike Clay: Jaxson Dart outstanding in win over Cowboys",
@@ -348,7 +348,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/ss_20260914_143502808_3660950879/ss_20260914_143502808_3660950879.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T18:30:11Z",
       "headline": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
       "description": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
@@ -356,7 +356,7 @@
       "image": "https://a.espncdn.com/photo/2026/0730/r1695455_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T18:21:02Z",
       "headline": "Fantasy football 2026 offensive depth charts",
       "description": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
@@ -364,7 +364,7 @@
       "image": "https://a.espncdn.com/photo/2026/0121/r1603677_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T19:20:49Z",
       "headline": "Coach Monken expects to stick with Watson as Browns' QB1 in Week 2",
       "description": "Browns coach Todd Monken said Monday that he expects Deshaun Watson to remain as the team's starting quarterback this Sunday at the Buccaneers.",
@@ -372,7 +372,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716384_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T18:21:53Z",
       "headline": "ManningCast 2026 schedule: How to watch MNF games and guests",
       "description": "Monday Night Football with Eli and Peyton Manning is back. Here's the 2026 game lineup, special guests and more.",
@@ -380,7 +380,7 @@
       "image": "https://a.espncdn.com/photo/2024/0116/r1278006_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T17:17:15Z",
       "headline": "NFL depth charts for all 32 teams for 2026 season",
       "description": "Here are the latest NFL depth charts for all 32 teams.",
@@ -388,7 +388,7 @@
       "image": "https://a.espncdn.com/photo/2023/0413/r1158435_2_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T16:50:50Z",
       "headline": "Super Bowl LXI odds: Rams' odds lengthen slightly, 49ers enter top 5",
       "description": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
@@ -396,7 +396,7 @@
       "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-15T11:43:26.098997+00:00",
+      "captured_at": "2026-09-15T16:58:47.531721+00:00",
       "published": "2026-09-14T19:29:43Z",
       "headline": "Fantasy football free agent pickups: Shough, Black, Coker highlight top options for Week 2",
       "description": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",

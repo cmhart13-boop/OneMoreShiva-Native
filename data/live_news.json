@@ -1,10 +1,106 @@
 {
-  "captured_at": "2026-09-17T21:21:43.212647+00:00",
+  "captured_at": "2026-09-18T04:43:00.265140+00:00",
   "source_ok": true,
   "source": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/news?region=us&lang=en&contentorigin=espn&limit=100",
   "articles": [
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-18T00:05:55Z",
+      "headline": "Live results, best moments and analysis from Bills-Lions",
+      "description": "The Buffalo Bills host the Detroit Lions in their first game at their new home, Highmark Stadium. Here are all the highlights from Bills vs. Lions in Buffalo.",
+      "url": "https://www.espn.com/nfl/story/_/id/49951448/buffalo-bills-detroit-lions-live-results-analysis-best-moments-highmark-stadium",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717194_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T23:19:29Z",
+      "headline": "After a poor 2025 at home, the Ravens try to turn the page when they host New Orleans",
+      "description": "Jesse Minter wasn't even with the Ravens last season, but the new coach seems to have a healthy grasp of how 2025 went so badly wrong for Baltimore.",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872938",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872938.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T23:38:17Z",
+      "headline": "Eagles' Jalen Carter to wear cast on injured wrist vs. Titans",
+      "description": "Eagles defensive tackle Jalen Carter expects to wear a cast on his injured right wrist for Sunday's Week 2 matchup against the Titans.",
+      "url": "https://www.espn.com/nfl/story/_/id/49968365/eagles-jalen-carter-wear-cast-injured-right-wrist-week-2-game-titans",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718320_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T23:56:59Z",
+      "headline": "Bills' top DT Ed Oliver inactive after injuring hip in warmups",
+      "description": "The Buffalo Bills' standout defensive tackle Ed Oliver was a surprise inactive for Thursday night's game against the Detroit Lions.",
+      "url": "https://www.espn.com/nfl/story/_/id/49968285/bills-top-dt-ed-oliver-inactive-injuring-hip-warmups",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718315_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T22:52:31Z",
+      "headline": "There's sudden urgency for old NFC East rivals as Commanders visit Cowboys following opening losses",
+      "description": "\u2014 There's a sudden sense of urgency as the Washington Commanders and Dallas Cowboys renew an old NFC East rivalry with both teams staring at an 0-2 start in division games.",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872944",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872944.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T23:10:12Z",
+      "headline": "Bo Nix, Broncos 'not freaking out' after mistake-filled loss to Chiefs",
+      "description": "Denver Broncos quarterback Bo Nix said the mistakes were clear to see from Monday night's loss in Kansas City, but \"we're not freaking out'' as the team prepares for Sunday's home opener against the Jacksonville Jaguars.",
+      "url": "https://www.espn.com/nfl/story/_/id/49968173/bo-nix-broncos-not-freaking-mistake-filled-loss-chiefs",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1716884_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T23:33:25Z",
+      "headline": "McVay: Rams 'hopeful' Donald will play against Giants on MNF",
+      "description": "Rams defensive tackle Aaron Donald will practice in full Thursday and the team is \"hopeful\" he will play Monday night against the Giants, coach Sean McVay said.",
+      "url": "https://www.espn.com/nfl/story/_/id/49968127/mcvay-rams-hopeful-donald-play-giants-mnf",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718284_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T22:21:33Z",
+      "headline": "Steelers rolling, Patriots looking to bounce back in latest matchup between franchises",
+      "description": "\u2014 During his 24 seasons with the New England Patriots, Bill Belichick never held back in expressing his affinity for the",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872946",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872946.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T22:53:46Z",
+      "headline": "Record $595 million bet with New York sportsbooks in NFL Week 1",
+      "description": "Bettors wagered approximately $595 million with New York sportsbooks in Week 1 of the NFL season, the most for an opening week since the state launched online betting in 2022, according to revenue numbers released Thursday.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49968039/record-595-million-bet-new-york-sportsbooks-nfl-week-1",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718296_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T22:48:24Z",
+      "headline": "Saints' Alvin Kamara practices, 'moving well' after MCL sprain",
+      "description": "Saints running back Alvin Kamara has \"no limitations,\" was a full participant in practice and says his knee feels good only one month after spraining his MCL in practice.",
+      "url": "https://www.espn.com/nfl/story/_/id/49967979/saints-alvin-kamara-practices-moving-well-mcl-sprain",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672335_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T21:31:30Z",
+      "headline": "Cardinals test-drive newfound confidence against the defending Super Bowl champ Seahawks",
+      "description": "\u2014 Trey McBride is in his fifth season with the Arizona Cardinals and has never been part of a win over the Seattle Seahawks, an NFC West rival...",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872943",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872943.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T21:50:32Z",
+      "headline": "Steelers CB Joey Porter Jr. leaves practice early with trainer",
+      "description": "Steelers cornerback Joey Porter Jr. left Thursday's practice early with an athletic trainer, days after being cleared form a back injury.",
+      "url": "https://www.espn.com/nfl/story/_/id/49967768/steelers-cb-joey-porter-jr-leaves-practice-early-trainer",
+      "image": "https://a.espncdn.com/photo/2026/0602/r1667338_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T21:10:42Z",
       "headline": "The Broncos vow to address defensive miscues ahead of the Jaguars' visit",
       "description": "\u2014 The Denver Broncos have too many things to correct from their opening-week stumble to concern themselves with exacting any sort of revenge for their blowout loss at the hands of the",
@@ -12,7 +108,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872940.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T21:03:39Z",
       "headline": "Chargers face the Raiders at SoFi, with Raider Nation set to flood the stands again",
       "description": "\u2014 Playing the Las Vegas Raiders at home has been good for the",
@@ -20,15 +116,15 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872941.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-17T20:48:29Z",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
+      "published": "2026-09-17T21:28:21Z",
       "headline": "Chargers didn't play up to 'vision' in loss, Mike McDaniel says",
       "description": "Chargers offensive coordinator Mike McDaniel says he was caught off-guard by the team's struggles on offense in the loss to the Cardinals but also expressed confidence it's a short-term issue.",
       "url": "https://www.espn.com/nfl/story/_/id/49967540/chargers-offense-match-vision-mike-mcdaniel-says",
       "image": "https://a.espncdn.com/photo/2026/0909/r1713815_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T19:59:29Z",
       "headline": "Will Anderson calls Texans\u2019 loss to Bills a 'wake-up call' for the defense ahead of Bengals visit",
       "description": "\u2014 Houston Texans defensive end Will Anderson said giving up 36 points in a season-opening loss to the Bills wasn\u2019t a reason to get mad but instead should be a catalyst to improve.",
@@ -36,7 +132,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872934.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T19:55:29Z",
       "headline": "Falcons are looking for better defensive plan against Panthers QB Bryce Young in NFC South showdown",
       "description": "\u2014 The NFC South suffered the indignity of having four teams finish with losing...",
@@ -44,7 +140,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872933.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T20:35:19Z",
       "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
       "description": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
@@ -52,7 +148,7 @@
       "image": "https://a.espncdn.com/photo/2026/0916/16x9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T19:56:26Z",
       "headline": "NFL reminds teams Harris, Wright ineligible to sign in 2026",
       "description": "Zxavian Harris and Dae'Quan Wright are ineligible to join any NFL teams this season after they attempted to return to college and play for LSU, the NFL reminded teams.",
@@ -60,7 +156,7 @@
       "image": "https://a.espncdn.com/photo/2026/0514/r1658220_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T18:57:33Z",
       "headline": "Colts brace for a new-look Chiefs attack after Kenneth Walker III\u2019s 173-yard opener against Denver",
       "description": "\u2014 The Indianapolis Colts had a chance to watch the Kansas City Chiefs open the season with a rout of the Denver Broncos on TV on Monday night, and they came away having learned the same lesson as most everybody else who watched the game.",
@@ -68,7 +164,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872945.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T18:31:30Z",
       "headline": "Ben Johnson and Brian Flores face off again as the Bears take on the Vikings in Week 2",
       "description": "\u2014 It's a stressful week for Chicago Bears coach Ben Johnson. Same for Minnesota Vikings defensive coordinator Brian Flores.",
@@ -76,7 +172,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872937.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T18:25:53Z",
       "headline": "Patriots' TreVeyon Henderson says he's 'ready to go' for Week 2",
       "description": "Patriots running back TreVeyon Henderson said Thursday he's \"ready to go\" for Sunday's game against the Steelers after missing New England's opener with an ankle injury.",
@@ -84,7 +180,7 @@
       "image": "https://a.espncdn.com/photo/2026/0917/r1718186_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T17:53:30Z",
       "headline": "Packers on a 6-game skid going back to last season and face a Jets squad looking for a 2-0 start",
       "description": "\u2014 It has been quite a while since Jordan Love and the Green Bay Packers walked off the field with a victory.",
@@ -92,7 +188,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872936.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T17:30:53Z",
       "headline": "The 49ers return from dominating win in Australia to take on the Dolphins in home opener",
       "description": "\u2014 The scenario to start the season for the San Francisco 49ers couldn't have been much more challenging.",
@@ -100,7 +196,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872942.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T17:01:30Z",
       "headline": "A gritty opener, a missing Pro Bowler and a road test in Tennessee for the Eagles",
       "description": "\u2014 Coach Nick Sirianni wants his Philadelphia Eagles to remember just how hard winning in the",
@@ -108,7 +204,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872939.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T18:09:01Z",
       "headline": "'You have been awful': Stephen A. unloads on Watson's recent comments",
       "description": "'You have been awful': Stephen A. unloads on Watson's recent comments",
@@ -116,7 +212,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_121257604_3663499/ss_20260917_121257604_3663499.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T16:10:59Z",
       "headline": "'They're in trouble': Compton expects Josh Allen to carve up Lions' defense",
       "description": "'They're in trouble': Compton expects Josh Allen to carve up Lions' defense",
@@ -124,7 +220,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_120530852_3663496/ss_20260917_120530852_3663496.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T15:38:19Z",
       "headline": "Why Pat Freiermuth is trending upward after Week 1",
       "description": "Why Pat Freiermuth is trending upward after Week 1",
@@ -132,7 +228,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_113225932_3663472/ss_20260917_113225932_3663472.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T15:08:25Z",
       "headline": "Why Saquon Barkley might not be a top-tier fantasy RB anymore",
       "description": "Why Saquon Barkley might not be a top-tier fantasy RB anymore",
@@ -140,7 +236,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_110117479_3663448665/ss_20260917_110117479_3663448665.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T15:06:44Z",
       "headline": "Daniel Dopp not giving up on Drake London heading into Week 2",
       "description": "Daniel Dopp not giving up on Drake London heading into Week 2",
@@ -148,7 +244,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_105251245_3663440664/ss_20260917_105251245_3663440664.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T14:53:42Z",
       "headline": "Yates and Clay both expect Jaylen Waddle to get 'back on track' in Week 2",
       "description": "Yates and Clay both expect Jaylen Waddle to get 'back on track' in Week 2",
@@ -156,7 +252,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_104255896_3663431649/ss_20260917_104255896_3663431649.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T16:11:13Z",
       "headline": "Will Bucky Irving repeat his Week 1 numbers vs. Browns?",
       "description": "Will Bucky Irving repeat his Week 1 numbers vs. Browns?",
@@ -164,7 +260,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_Bucky_Irving_FFP/dm_260917_Bucky_Irving_FFP.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T15:51:13Z",
       "headline": "Should fantasy managers pick up Kalif Raymond?",
       "description": "Should fantasy managers pick up Kalif Raymond?",
@@ -172,7 +268,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_103141541_3663426/ss_20260917_103141541_3663426.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T13:15:41Z",
       "headline": "Schefter: Nico Collins in jeopardy of missing Texans' Week 2 game",
       "description": "Schefter: Nico Collins in jeopardy of missing Texans' Week 2 game",
@@ -180,7 +276,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_090416654_3663374552/ss_20260917_090416654_3663374552.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T13:02:32Z",
       "headline": "Bills open Highmark Stadium, looking to be latest with notable arena debut",
       "description": "As Buffalo opens its new stadium, here's a look back at notable opening games at NFL teams' active stadiums.",
@@ -188,7 +284,7 @@
       "image": "https://a.espncdn.com/photo/2026/0916/r1717312_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T12:47:08Z",
       "headline": "NFL survivor power rankings: Why you should use 49ers, Eagles in Week 2",
       "description": "ESPN NFL survivor pool strategy, predictions and picks including the 49ers and other cautious picks.",
@@ -196,7 +292,7 @@
       "image": "https://a.espncdn.com/photo/2026/0917/r1717903_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T21:05:06Z",
       "headline": "Source: Texans' Nico Collins (hamstring) uncertain for Week 2",
       "description": "Texans star wide receiver Nico Collins suffered a hamstring injury during Wednesday's practice and is uncertain to play in Week 2 against the Bengals, a source told ESPN.",
@@ -204,7 +300,7 @@
       "image": "https://a.espncdn.com/photo/2026/0526/r1664065_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T14:31:45Z",
       "headline": "Fantasy playbook: NFL Week 2 Shadow Reports, lineup locks and projected scores",
       "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
@@ -212,7 +308,7 @@
       "image": "https://a.espncdn.com/photo/2026/0917/r1717990_576x324_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T15:43:46Z",
       "headline": "Fantasy football buzz: How this formation change is paying off for Dalton Kincaid",
       "description": "Michael F. Florio looks at how Dalton Kincaid's big game is connected to recent Bills formation changes.",
@@ -220,7 +316,7 @@
       "image": "https://a.espncdn.com/photo/2026/0917/r1718010_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T12:52:07Z",
       "headline": "Compton on Burrow's back tightness: 'I would be afraid' as a Bengals fan",
       "description": "Compton on Burrow's back tightness: 'I would be afraid' as a Bengals fan",
@@ -228,7 +324,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_082959254_3663361512/ss_20260917_082959254_3663361512.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T18:09:23Z",
       "headline": "How to bet Lions-Bills on 'TNF': Analysis, tips and favorite plays",
       "description": "Odds, bets and analysis to help you bet Lions-Bills on \"Thursday Night Football.\"",
@@ -236,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2026/0916/r1717604_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T10:40:57Z",
       "headline": "Who will find the end zone? Top predicted TD scorers for Week 2",
       "description": "Mike Clay reveals his top predicted Week 2 TD scorers, including Jonathan Taylor, Christian McCaffrey and more.",
@@ -244,7 +340,7 @@
       "image": "https://a.espncdn.com/photo/2026/0916/r1717667_4_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T16:08:01Z",
       "headline": "Bad game or bad sign: Which players should you be concerned about entering Week 2?",
       "description": "It's easy to overreact to Week 1. Matt Bowen discusses whether concern is warranted for 13 players.",
@@ -252,7 +348,7 @@
       "image": "https://a.espncdn.com/photo/2026/0916/r1717729_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T10:50:24Z",
       "headline": "Why NFL offenses are going under center more often in 2026",
       "description": "Teams such as the Commanders, Eagles, Ravens, Chiefs, Giants and Raiders are going under center more -- and out of the shotgun less and less. Will this trend stick?",
@@ -260,7 +356,7 @@
       "image": "https://a.espncdn.com/photo/2026/0916/r1717516_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T20:45:53Z",
       "headline": "Bryce Young's 4-1 record vs. Falcons a harbinger for Week 2?",
       "description": "The Panthers QB's previous trips to Mercedes-Benz Stadium should keep Falcons fans and coaches up at night.",
@@ -268,7 +364,7 @@
       "image": "https://a.espncdn.com/photo/2026/0917/r1718035_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T14:38:32Z",
       "headline": "How family and fatherhood are fueling Lions QB Jared Goff",
       "description": "The arrival of Goff's daughter, Romy Isabelle, has helped sharpened the quarterback's focus heading into 2026.",
@@ -276,7 +372,7 @@
       "image": "https://a.espncdn.com/photo/2026/0916/r1717645_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T10:00:12Z",
       "headline": "Why the Jets feel their tight end room 'is a weapon'",
       "description": "New York deployed its tight ends in a myriad of ways, including a rushing TD by first-round pick Kenyon Sadiq.",
@@ -284,7 +380,7 @@
       "image": "https://a.espncdn.com/photo/2026/0916/r1717576_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T07:47:05Z",
       "headline": "Macdonald: Seahawks start was 'most difficult stretch of my life'",
       "description": "Mike Macdonald detailed the personal struggles he went through after Seattle hired him in a recent appearance on \"In Depth With Graham Bensinger.\"",
@@ -292,7 +388,7 @@
       "image": "https://a.espncdn.com/photo/2025/0121/r1441606_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T06:55:34Z",
       "headline": "Njoku, Nwosu, Emmanwori, and more - 10 NFL players of Nigerian origin to watch this season",
       "description": "The NFL has long had a significant African presence, but no country is represented quite like Nigeria.",
@@ -300,108 +396,12 @@
       "image": "https://a.espncdn.com/photo/2026/0916/r1717450_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
+      "captured_at": "2026-09-18T04:43:00.265140+00:00",
       "published": "2026-09-17T16:44:29Z",
       "headline": "Browns-Buccaneers matchup Sunday is more than just Baker Mayfield facing his old team",
       "description": "\u2014 Baker Mayfield has become the leader and face of the franchise the Cleveland Browns hoped for when they drafted him No. 1 overall in 2018.",
       "url": "http://www.espn.com/nfl/preview?gameId=401872935",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872935.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-17T03:34:16Z",
-      "headline": "Bryce Young previews divisional showdown with Falcons",
-      "description": "Bryce Young previews divisional showdown with Falcons",
-      "url": "https://www.espn.com/video/clip/_/id/49962145/bryce-young-previews-divisional-showdown-falcons",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0916/dm_260916_bryce_young_sound/dm_260916_bryce_young_sound.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-17T02:38:35Z",
-      "headline": "Kyrie offers to pay Al-Shaair's fine for tribute to Hind Rajab",
-      "description": "Kyrie Irving offered to pay Texans LB Azeez Al-Shaair's $11,941 fine for having the name of a Palestinian girl killed in Gaza in 2024 written on his eye black during a game.",
-      "url": "https://www.espn.com/nfl/story/_/id/49961834/kyrie-offers-pay-al-shaair-fine-tribute-hind-rajab",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717889_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-17T00:40:07Z",
-      "headline": "Source: Saints' Zach Wood to miss time with Grade 2 calf strain",
-      "description": "Saints long-snapper Zach Wood has a Grade II calf strain that could sideline him about 4-6 weeks, a source told ESPN.",
-      "url": "https://www.espn.com/nfl/story/_/id/49961331/saints-long-snapper-zach-wood-miss-extended-grade-2-calf-strain",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1717860_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-17T00:22:47Z",
-      "headline": "Washington Commanders unveil first renderings inside new stadium",
-      "description": "In the latest renderings of the new stadium, the Commanders point to RFK with the intent of re-creating a \"loud, intense and intimate atmosphere.\"",
-      "url": "https://www.espn.com/nfl/story/_/id/49959964/washington-commanders-nfl-share-renderings-new-stadium-seating-bowl",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717726_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-16T23:35:07Z",
-      "headline": "Bucs' Baker Mayfield dons Michigan gear in bet made with Todd Bowles",
-      "description": "The Oklahoma Sooners, who Mayfield played for in college, were stunned by Michigan during Week 2.",
-      "url": "https://www.espn.com/nfl/story/_/id/49959207/baker-mayfield-michigan-wolverines-tank-tampa-bay-buccaneers-todd-bowles-troy-bowles-oklahoma-sooners",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717700_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-17T02:33:17Z",
-      "headline": "Texans' C.J. Stroud dismisses Andre Johnson criticism",
-      "description": "C.J. Stroud took the high road when asked Wednesday about comments Andre Johnson made questioning the quarterback's body language.",
-      "url": "https://www.espn.com/nfl/story/_/id/49960907/texans-cj-stroud-dismisses-andre-johnson-criticism",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1704072_600x600_1-1.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-16T23:57:00Z",
-      "headline": "Bears anticipate 'great challenge' vs. Brian Flores' Vikings defense",
-      "description": "\"Coach [Ben Johnson] calls this 'mental war' when you go against versus him, and that's what it is,\" Bears QB Caleb Williams said of facing a Brian Flores-led defense, which Chicago will do Sunday against Minnesota.",
-      "url": "https://www.espn.com/nfl/story/_/id/49960740/bears-caleb-williams-prepare-great-challenge-facing-brian-flores-led-vikings-defense",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717815_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-17T01:30:00Z",
-      "headline": "Buccaneers' Zampese says Browns messed up by trading Mayfield",
-      "description": "Buccaneers assistant coach Ken Zampease, who was Baker Mayfield's QB coach with the Browns in 2018, says Cleveland messed up by trading the QB.",
-      "url": "https://www.espn.com/nfl/story/_/id/49960637/buccaneers-zampese-says-browns-messed-trading-mayfield",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717790_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-17T00:29:10Z",
-      "headline": "Saints' Alvin Kamara practices in full, 'in a great place'",
-      "description": "Saints coach Kellen Moore said he \"feels good\" about Alvin Kamara's chance of playing Sunday. The veteran RB was a full participant in Wednesday's practice.",
-      "url": "https://www.espn.com/nfl/story/_/id/49960481/saints-alvin-kamara-practices-full-great-place",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692272_600x600_1-1.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-16T22:13:10Z",
-      "headline": "Falcons' Penix 'close' to return, still mum on Week 2 status",
-      "description": "Falcons QB Michael Penix Jr. didn't rule out playing against the Panthers on Sunday but cautioned he needed to clear some benchmarks before deciding.",
-      "url": "https://www.espn.com/nfl/story/_/id/49960213/penix-jr-close-return-mum-week-2-status",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1700111_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-16T21:45:20Z",
-      "headline": "49ers' De'Zhaun Stribling has surgery, to miss about 10 weeks",
-      "description": "49ers receiver De'Zhaun Stribling had surgery on his ankle and is expected to miss about 10 weeks, while tight end Jake Tonges has been ruled out for the season.",
-      "url": "https://www.espn.com/nfl/story/_/id/49960208/49ers-dezhaun-stribling-surgery-miss-10-weeks",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715841_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-17T21:21:43.212647+00:00",
-      "published": "2026-09-16T21:35:42Z",
-      "headline": "Bengals' Burrow: 'Ridiculous' that tight back would keep me out",
-      "description": "Bengals quarterback Joe Burrow said Wednesday that he is dealing with back tightness but expects to play Sunday at the Houston Texans.",
-      "url": "https://www.espn.com/nfl/story/_/id/49960153/bengals-joe-burrow-says-expects-play-tight-back",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717756_1296x729_16-9.jpg"
     }
   ]
 }

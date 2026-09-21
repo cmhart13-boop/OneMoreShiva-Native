@@ -1,10 +1,10 @@
 {
-  "captured_at": "2026-09-21T04:55:10.303426+00:00",
+  "captured_at": "2026-09-21T12:47:24.941541+00:00",
   "source_ok": true,
   "source": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/news?region=us&lang=en&contentorigin=espn&limit=100",
   "articles": [
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T04:46:17Z",
       "headline": "Chiefs down Colts in OT thriller",
       "description": "Chiefs down Colts in OT thriller",
@@ -12,7 +12,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/1d7d3162-fef0-4d38-8ead-debe2c192ecf/1d7d3162-fef0-4d38-8ead-debe2c192ecf.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T04:52:26Z",
       "headline": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
       "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
@@ -20,7 +20,7 @@
       "image": "https://a.espncdn.com/photo/2026/0921/r1719896_2_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T04:38:29Z",
       "headline": "Mahomes and Walker shine, Butker hits winning 40-yarder as Chiefs beat Colts 33-30 in OT",
       "description": "\u2014 Harrison Butker kicked two field goals in overtime, the second a 40-yarder as time expired that Patrick Mahomes and Kenneth Walker III set up with a series of big plays, giving the Kansas City Chiefs a 33-30 victory over the Indianapolis Colts on...",
@@ -28,7 +28,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872945.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T04:24:25Z",
       "headline": "Week 2 winners and losers: Jaxon Smith-Njigba, CeeDee Lamb shine; Bijan Robinson struggles",
       "description": "Jaxon Smith-Njigba and CeeDee Lamb came up big in Week 2, while Bijan Robinson and Justin Jefferson had very quiet days.",
@@ -36,7 +36,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719798_2_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T04:04:09Z",
       "headline": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
       "description": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
@@ -44,7 +44,7 @@
       "image": "https://a.espncdn.com/photo/2026/0921/r1719826_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T03:57:51Z",
       "headline": "Who are the winningest NFL coaches of all time?",
       "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
@@ -52,7 +52,7 @@
       "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T03:57:03Z",
       "headline": "Lock, Smith-Njigba have Seahawks 2-0 with Darnold ahead of schedule",
       "description": "Seahawks coach Mike Macdonald said QB Sam Darnold could return to practice this week and did not rule out the possibility of him playing next Sunday. In the meantime, backup Drew Lock has Seattle 2-0, with plenty of help from receiver Jaxon Smith-Njigba.",
@@ -60,7 +60,7 @@
       "image": "https://a.espncdn.com/photo/2026/0921/r1719886_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:50:49Z",
       "headline": "Sirianni proud of Eagles for battling through Nashville heat",
       "description": "Sirianni proud of Eagles for battling through Nashville heat",
@@ -68,7 +68,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/fc3798f4-d963-47ac-b8be-06072328de6b/fc3798f4-d963-47ac-b8be-06072328de6b.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:45:37Z",
       "headline": "Carolina Panthers vs. Atlanta Falcons: Game Highlights",
       "description": "Carolina Panthers vs. Atlanta Falcons: Game Highlights",
@@ -76,7 +76,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/7b9df6f4-6b43-4438-bdeb-806ba8f5eccc/7b9df6f4-6b43-4438-bdeb-806ba8f5eccc.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T03:12:03Z",
       "headline": "Kirk Cousins' 'phenomenal' play has new-look Raiders at 2-0",
       "description": "Kirk Cousins has done more than just help the Raiders transition through a rebuilding process after two games, leading Las Vegas to its first 2-0 record since 2021.",
@@ -84,7 +84,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719777_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T03:05:25Z",
       "headline": "QB Baker Mayfield says Bucs need to 'fight our way out' of 0-2 start",
       "description": "Buccaneers quarterback Baker Mayfield admitted to being \"pretty shocked\" the Bucs are 0-2 for the first time since he has been their quarterback and the first time since 2014 after losing to his former team, the Browns, 23-19.",
@@ -92,7 +92,7 @@
       "image": "https://a.espncdn.com/photo/2026/0921/r1719853_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T03:39:32Z",
       "headline": "Nashville turf temp of 157 F melts cleats, sends Sirianni for IV",
       "description": "Players' cleats were melting and Eagles coach Nick Sirianni needed an IV as a result of extreme heat conditions at Nissan Stadium during Sunday's game between Philadelphia and the Tennessee Titans, a 24-20 win for the Eagles.",
@@ -100,7 +100,7 @@
       "image": "https://a.espncdn.com/photo/2026/0921/r1719850_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:29:36Z",
       "headline": "Brock Purdy keeps 49ers rolling with 'MVP' game vs. Dolphins",
       "description": "Brock Purdy authored a near-perfect game at quarterback in the 49ers' 35-13 win over the rebuilding Dolphins, ending the day with a 99.7 QBR.",
@@ -108,7 +108,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719711_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T03:58:59Z",
       "headline": "Colts' Alec Pierce hurts heel; X-rays negative, source says",
       "description": "Colts wide receiver Alec Pierce was ruled out of Sunday night's game against the Kansas City Chiefs after suffering a left heel injury with 1:45 left in the first quarter.",
@@ -116,7 +116,7 @@
       "image": "https://a.espncdn.com/photo/2026/0921/r1719846_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T01:42:51Z",
       "headline": "Todd Monken gives fiery response to Mike Tomlin's Browns diss",
       "description": "Todd Monken gives fiery response to Mike Tomlin's Browns diss",
@@ -124,7 +124,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/531cf8cd-5b3e-4478-be98-22db7ec8d051/531cf8cd-5b3e-4478-be98-22db7ec8d051.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T01:21:54Z",
       "headline": "Eagles' Broadway jab at Titans leads NFL Week 2 trolls",
       "description": "Teams across the NFL came with petty postgame energy after wins in Week 2, led by the Philadelphia Eagles.",
@@ -132,7 +132,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719717_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T01:17:18Z",
       "headline": "NFL Week 2's best arrivals, led by Travis Kelce and Patrick Mahomes",
       "description": "Rounding up the top pregame and tunnel arrivals from around the league.",
@@ -140,7 +140,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719778_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T00:58:58Z",
       "headline": "Why Jaylen Waddle is \"firmly on the WR2 radar in fantasy\"",
       "description": "Why Jaylen Waddle is \"firmly on the WR2 radar in fantasy\"",
@@ -148,7 +148,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/ss_20260920_205225043_36697721255/ss_20260920_205225043_36697721255.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T00:32:38Z",
       "headline": "Washington Commanders vs Dallas Cowboys: Game Highlights",
       "description": "Washington Commanders vs Dallas Cowboys: Game Highlights",
@@ -156,7 +156,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/cbe88edf-5491-4ab2-8b21-a6a9c9501062/cbe88edf-5491-4ab2-8b21-a6a9c9501062.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T01:30:08Z",
       "headline": "Deshaun Watson makes case in Browns win with job on line",
       "description": "With rumblings about his starting job being on the line, quarterback Deshaun Watson responded with maybe his best game as a Cleveland Brown.",
@@ -164,7 +164,7 @@
       "image": "https://a.espncdn.com/photo/2026/0921/r1719807_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T00:41:02Z",
       "headline": "The case to pick up Tre Tucker off of waivers in fantasy",
       "description": "The case to pick up Tre Tucker off of waivers in fantasy",
@@ -172,7 +172,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/ss_20260920_202303786_3669731/ss_20260920_202303786_3669731.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T00:25:20Z",
       "headline": "Jacksonville Jaguars vs. Denver Broncos: Game Highlights",
       "description": "Jacksonville Jaguars vs. Denver Broncos: Game Highlights",
@@ -180,7 +180,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/2701347f-22a6-44f2-b285-a973f49d25a0/2701347f-22a6-44f2-b285-a973f49d25a0.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:01:17Z",
       "headline": "DeMeco Ryans urges Texans to 'dig deep' after 0-2 start",
       "description": "Coach DeMeco Ryans challenged his Texans after they fell to 0-2 on Sunday, asking them: If you call yourselves playmakers, where are the plays?",
@@ -188,7 +188,7 @@
       "image": "https://a.espncdn.com/photo/2026/0921/r1719805_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T00:15:07Z",
       "headline": "Las Vegas Raiders vs Los Angeles Chargers: Game Highlights",
       "description": "Las Vegas Raiders vs Los Angeles Chargers: Game Highlights",
@@ -196,7 +196,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/779c32ad-9029-4e29-b2ed-a8988a24797b/779c32ad-9029-4e29-b2ed-a8988a24797b.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T01:11:23Z",
       "headline": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
       "description": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
@@ -204,7 +204,7 @@
       "image": "https://a.espncdn.com/photo/2026/0909/nfl_rodgers-final-season_16x9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:20:50Z",
       "headline": "NFL Week 2 eye-popping stats from Eagles, Pats, Jets, Bears",
       "description": "We found six of the coolest advanced stats to come out of Sunday's games -- from third-down completions to matchup route stats.",
@@ -212,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719688_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:34:49Z",
       "headline": "Dak Prescott breaks Tony Romo's Cowboys passing TDs record",
       "description": "Dak Prescott became the Cowboys' all-time leader in touchdown passes in Sunday's win over the Commanders, surpassing Tony Romo with 249 in his career.",
@@ -220,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719765_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:21:49Z",
       "headline": "NFL betting buzz: Most popular survivor pick loses for second week in a row with Bucs' defeat",
       "description": "With 27% of ESPN survivor picks and 6,601 entries in Circa Survivor, the Bucs lost at home to the Browns.",
@@ -228,7 +228,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719795_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T01:29:47Z",
       "headline": "Prescott throws 4 TD passes as Cowboys beat Commanders, who again lose Daniels to dislocated elbow",
       "description": "\u2014 Dak Prescott celebrated breaking Tony Romo's career franchise record for touchdown passes in a victorious locker room for the Dallas Cowboys.",
@@ -236,7 +236,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872944.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:01:43Z",
       "headline": "Aaron Glenn defends clock management after Jets' collapse",
       "description": "The Jets blew their biggest fourth-quarter lead in six years in a 20-17 overtime loss to the Packers, with coach Aaron Glenn facing scrutiny for his clock management.",
@@ -244,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719794_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-20T23:43:18Z",
       "headline": "What are the longest field goals in NFL history?",
       "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
@@ -252,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-20T23:43:23Z",
       "headline": "Miami Dolphins vs. San Francisco 49ers: Game Highlights",
       "description": "Miami Dolphins vs. San Francisco 49ers: Game Highlights",
@@ -260,7 +260,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/badc336c-dc8f-401e-bdba-d9a6c9cfb4a4/badc336c-dc8f-401e-bdba-d9a6c9cfb4a4.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-20T23:43:48Z",
       "headline": "Fantasy football buzz: Week 2's top 10 scorers through Sunday's late slate",
       "description": "An updated list of the top 10 fantasy scoring leaders in Week 2 through Sunday's late slate.",
@@ -268,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719791_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T00:08:48Z",
       "headline": "Seattle Seahawks vs. Arizona Cardinals Game Highlights",
       "description": "Seattle Seahawks vs. Arizona Cardinals Game Highlights",
@@ -276,7 +276,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/f58f3860-a5af-4002-807f-3e293b28dc92/f58f3860-a5af-4002-807f-3e293b28dc92.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T01:13:29Z",
       "headline": "Drew Lock connects for 3 TDs with Jaxon Smith-Njigba; Seahawks roll past Cardinals 31-7",
       "description": "\u2014 Drew Lock admits he did a little more preparation this week before his first start in nearly two years, watching more film and studying the...",
@@ -284,7 +284,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872943.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T00:36:59Z",
       "headline": "Cowboys' TD record: I caught a TD pass from Dak Prescott",
       "description": "Prescott passed Tony Romo in the record book, so we bring you the best moments from those who helped him make history.",
@@ -292,7 +292,7 @@
       "image": "https://a.espncdn.com/photo/2026/0915/nfl_dak_prescott_608x342.png"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T00:57:29Z",
       "headline": "Kirk Cousins connects with Cody White for 2 TDs and Raiders beat Chargers 26-14",
       "description": "\u2014 Kirk Cousins used to watch Cody White attacking the football at Michigan State. The veteran quarterback figured the same thing would work for the Las Vegas Raiders.",
@@ -300,7 +300,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872941.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T01:03:29Z",
       "headline": "Jaylen Waddle\u2019s quiet Denver debut flips into a 138-yard day in a Broncos' 20-13 comeback over Jags",
       "description": "\u2014 Same winning formula.",
@@ -308,7 +308,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872940.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T00:32:29Z",
       "headline": "49ers score TDs on 1st 5 drives to beat the Dolphins 35-13",
       "description": "\u2014 The San Francisco 49ers handled the return from Australia just as well as the trip there and have started the season with two convincing victories.",
@@ -316,7 +316,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872942.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:02:25Z",
       "headline": "Ravens preach team's resolve despite another collapse in 4th",
       "description": "The Ravens did not want to draw parallels to past teams after Sunday's loss to the Saints, despite losing in a similar manner with a fourth-quarter lead.",
@@ -324,7 +324,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719771_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:03:02Z",
       "headline": "Hurts taunts Titans after Eagles win: Finished what you started",
       "description": "Tennessee Titans defensive tackle Jeffery Simmons approached Jalen Hurts for a postgame dap-up following Philadelphia's 24-20 come-from-behind win Sunday and the Eagles' quarterback was ready for him.",
@@ -332,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719769_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T01:13:48Z",
       "headline": "Judging the biggest overreactions to NFL Week 2 games",
       "description": "Will Aaron Rodgers stay QB1 all season? Is anything different for the Eagles' offense? And could the Lions miss the postseason again? We're judging Week 2 overreactions.",
@@ -340,7 +340,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719706_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:05:02Z",
       "headline": "Tyler Shough, dubbed 'poor man' by Saints, leads win vs. Ravens",
       "description": "After Ravens DC Anthony Weaver attempted to pay Saints QB Tyler Shough a compliment by referring to him as a \"poor man's Josh Allen,\" the New Orleans coaches turned it into a joke, dubbing Shough \"poor man\" for the rest of the week.",
@@ -348,7 +348,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719762_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-20T22:38:21Z",
       "headline": "Browns go on the road and beat the Buccaneers",
       "description": "Browns go on the road and beat the Buccaneers",
@@ -356,7 +356,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0920/7107ecc5-78d4-462a-b66d-6068f25f567b/7107ecc5-78d4-462a-b66d-6068f25f567b.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-20T23:36:44Z",
       "headline": "Deshaun Watson outplays Baker Mayfield, leading the Browns to a 23-19 win over the Buccaneers",
       "description": "\u2014 Deshaun Watson outplayed Baker Mayfield and earned at least a few more starts for the Cleveland Browns.",
@@ -364,7 +364,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872935.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:05:33Z",
       "headline": "McCarthy takes blame for Steelers' offensive struggles in loss",
       "description": "Steelers coach Mike McCarthy shouldered the blame Sunday in the wake of his offense's clunky, uninspired performance in a loss to the Patriots.",
@@ -372,7 +372,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719753_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T03:16:28Z",
       "headline": "Commanders QB Jayden Daniels suffers dislocated elbow vs. Cowboys",
       "description": "Commanders quarterback Jayden Daniels was carted off the field in Sunday's game against the Cowboys after dislocating his left elbow on the final play of the first half.",
@@ -380,7 +380,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719748_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-20T23:29:28Z",
       "headline": "Why Aaron Jones' Week 2 fantasy performance was better than the numbers suggest",
       "description": "Why Aaron Jones' Week 2 fantasy performance was better than the numbers suggest",
@@ -388,7 +388,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/ss_20260920_181531325_3669493/ss_20260920_181531325_3669493.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-20T23:26:59Z",
       "headline": "Why Week 2 was the Ja'Marr Chase fantasy performance \"we've been waiting for\"",
       "description": "Why Week 2 was the Ja'Marr Chase fantasy performance \"we've been waiting for\"",
@@ -396,7 +396,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/ss_20260920_181250080_3669487/ss_20260920_181250080_3669487.jpg"
     },
     {
-      "captured_at": "2026-09-21T04:55:10.303426+00:00",
+      "captured_at": "2026-09-21T12:47:24.941541+00:00",
       "published": "2026-09-21T02:06:02Z",
       "headline": "QB Kyler Murray (concussion) expected to return for Week 3",
       "description": "The Vikings should have QB Kyler Murray available to them next week. Murray is expected to clear concussion protocol \"pretty early in the week,\" coach Kevin O'Connell said.",

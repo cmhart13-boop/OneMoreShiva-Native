@@ -1,10 +1,82 @@
 {
-  "captured_at": "2026-09-24T11:45:06.135961+00:00",
+  "captured_at": "2026-09-24T17:10:21.642333+00:00",
   "source_ok": true,
   "source": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/news?region=us&lang=en&contentorigin=espn&limit=100",
   "articles": [
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:43:12Z",
+      "headline": "How to bet Falcons-Packers on TNF: Analysis, tips and top plays",
+      "description": "Odds, bets and analysis to help you bet Falcons-Packers on \"Thursday Night Football.\"",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49996524/nfl-week-3-odds-betting-tips-picks-atlanta-falcons-green-bay-packers",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721015_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:42:13Z",
+      "headline": "Who will find the end zone? Top predicted TD scorers for Week 3",
+      "description": "Mike Clay reveals his top predicted Week 3 TD scorers, including  Jahmyr Gibbs, Kenneth Walker III and more.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49997138/nfl-week-3-touchdown-betting-odds-end-zone-scoring-predictions",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720966_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:35:02Z",
+      "headline": "Ranking eight winless NFL teams: Texans, Bucs, others at 0-2",
+      "description": "Can the Texans turn it around (again)? Do the Buccaneers, Colts or Chargers have a chance to get right? Is the season already over for the Falcons and Dolphins?",
+      "url": "https://www.espn.com/nfl/story/_/id/50006560/ranking-winless-two-loss-teams-playoffs-barnwell-2026",
+      "image": "https://a.espncdn.com/photo/2026/0923/nfl_teams-0-2_16x9.jpg"
+    },
+    {
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:00:21Z",
+      "headline": "With Kyler Murray back, will Vikings open up passing attack?",
+      "description": "Coach Kevin O'Connell said he is \"still a believer in explosives\" despite a long stretch of tepid air production for Minnesota.",
+      "url": "https://www.espn.com/nfl/story/_/id/50012795/nfl-minnesota-vikings-kyler-murray-justin-jefferson",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720877_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:41:46Z",
+      "headline": "Why Patriots must be better at managing the clock before halftime",
+      "description": "After two straight games with questionable decisions before halftime, the Patriots admit they need to improve on possessions late in the second quarter.",
+      "url": "https://www.espn.com/nfl/story/_/id/50016408/new-england-patriots-clock-management-mike-vrabel",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721074_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:00:21Z",
+      "headline": "Denver Broncos to face another MVP QB in Matthew Stafford",
+      "description": "Sunday marks the 10th time the Broncos have faced an MVP quarterback since Vance Joseph became defensive coordinator in 2023. Can Denver get the best of Stafford?",
+      "url": "https://www.espn.com/nfl/story/_/id/50014884/denver-broncos-defensive-coordinator-vance-joseph-plays-nfl-mvp-matthew-stafford",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720979_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:00:12Z",
+      "headline": "Panthers' Bryce Young to Darren Waller has been money in red zone",
+      "description": "The veteran tight end's height, catch radius and history of red zone success make him a tough cover in big moments.",
+      "url": "https://www.espn.com/nfl/story/_/id/50009540/carolina-panthers-darren-waller-2026-fantasy-outlook",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720642_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:00:05Z",
+      "headline": "Meet Cam Achord: The Packers' secret special teams weapon",
+      "description": "Part old-school coach, part Gen Z analytics savant, Achord is \"just a ball of energy\" as he aims to fix Green Bay's special teams unit.",
+      "url": "https://www.espn.com/nfl/story/_/id/50013943/nfl-green-bay-packers-cam-achord-matt-lafleur-special-teams",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720815_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:00:01Z",
+      "headline": "Baltimore Ravens feel prepared for Rio 'business trip'",
+      "description": "This is the Ravens' first game in Brazil, but coach Jesse Minter was there last season.",
+      "url": "https://www.espn.com/nfl/story/_/id/50015971/baltimore-ravens-prepared-rio-business-trip",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721058_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-24T03:02:12Z",
       "headline": "Harrison Jr. blocking out noise amid slow start for Cardinals",
       "description": "Arizona Cardinals receiver Marvin Harrison Jr. hears and reads what's being said about him after his slow start to his third season, but he remains confident and still has the confidence of his teammates.",
@@ -12,15 +84,15 @@
       "image": "https://a.espncdn.com/photo/2026/0805/r1698039_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-24T01:08:05Z",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:43:00Z",
       "headline": "Herbert shuts down leadership questions amid Chargers' 0-2 start",
       "description": "Justin Herbert was uncharacteristically fiery when asked Wednesday about increased vocal leadership on the Chargers amid the team's 0-2 start.",
       "url": "https://www.espn.com/nfl/story/_/id/50016633/herbert-shuts-leadership-questions-amid-chargers-0-2-start",
       "image": "https://a.espncdn.com/photo/2026/0923/r1720942_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T23:55:53Z",
       "headline": "Veteran Case Keenum practices Wednesday, ready to start if called",
       "description": "Bears veteran QB Case Keenum could be in line to start his first regular-season game since 2023. \"If my name's called, I'm excited to be out there,\" he said.",
@@ -28,23 +100,23 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1721073_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T23:14:22Z",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:49:56Z",
       "headline": "Broncos RB Coleman doesn't practice; Dobbins, Harvey limited",
       "description": "Broncos running backs J.K. Dobbins and RJ Harvey were limited in practice Wednesday, and Jonah Coleman did not practice. Nevertheless, coach Sean Payton said he thinks \"we're going to be all right\" at the position Sunday against the Rams.",
       "url": "https://www.espn.com/nfl/story/_/id/50016115/broncos-running-backs-jk-dobbins-rj-harvey-limited-practice-jonah-coleman-does-not-practice",
       "image": "https://a.espncdn.com/photo/2026/0923/r1721060_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T22:50:11Z",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:49:38Z",
       "headline": "McVay says Nacua's injury not 'long-term' concern, but Rams being cautious",
       "description": "Rams coach Sean McVay said receiver Puka Nacua does not have a hernia, but the team will \"err on the side of caution\" with the injury.",
       "url": "https://www.espn.com/nfl/story/_/id/50016014/mcvay-says-nacua-injury-not-long-term-concern-rams-being-cautious",
       "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T22:50:18Z",
       "headline": "49ers place starting DT C.J. West on IR due to knee injury",
       "description": "49ers defensive tackle C.J. West, who is going to miss at least a chunk of the season with a bone chip in his knee that will require surgery, was placed on injured reserve Wednesday.",
@@ -52,15 +124,15 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1721045_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T22:21:30Z",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:42:46Z",
       "headline": "Commanders say clip didn't reflect team response to Daniels injury",
       "description": "After a short video clip showed a number of Commanders walking past Jayden Daniels as he was being helped by medical personnel Sunday, many players fired back at the takes being spouted on social media, emphasizing, \"It's bulls--- what people are saying.\"",
       "url": "https://www.espn.com/nfl/story/_/id/50015858/commanders-respond-viral-video-clip-reject-notion-abandoned-injured-jayden-daniels",
       "image": "https://a.espncdn.com/photo/2026/0923/r1721044_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-24T00:06:52Z",
       "headline": "How Chiefs TE Travis Kelce turned wedding shape into football shape",
       "description": "Kelce, who leads the NFL in YAC, has had an average route speed of 11.56 mph, the fastest he's been since 2022.",
@@ -68,7 +140,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1721023_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T23:18:29Z",
       "headline": "Seahawks' Darnold 'on a good track' to play vs. Commanders",
       "description": "Seahawks quarterback Sam Darnold is \"on a good track\" to play Sunday against the Commanders, coach Mike Macdonald said Wednesday.",
@@ -76,7 +148,7 @@
       "image": "https://a.espncdn.com/photo/2026/0916/r1717696_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T20:55:29Z",
       "headline": "Mike Macdonald apologizes to Sean Payton for comments",
       "description": "Mike Macdonald apologizes to Sean Payton for comments",
@@ -84,15 +156,15 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_164042784_3671977/ss_20260923_164042784_3671977.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-24T02:33:01Z",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:49:06Z",
       "headline": "Seahawks' Macdonald apologizes to Broncos' Payton for comments",
       "description": "Seahawks coach Mike Macdonald said Wednesday he called Broncos coach Sean Payton and apologized for comments he made in a published video that went viral Tuesday.",
       "url": "https://www.espn.com/nfl/story/_/id/50015234/seahawks-macdonald-apologizes-broncos-payton-comments",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_164042784_3671977/ss_20260923_164042784_3671977.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T19:54:10Z",
       "headline": "In reversal, Chargers not placing Charlie Kolar (forearm) on IR",
       "description": "In a surprising reversal, the Chargers are not placing tight end Charlie Kolar on injured reserve after he injured his left forearm in Sunday's game.",
@@ -100,7 +172,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720978_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T20:11:07Z",
       "headline": "Vikings RB Aaron Jones working through knee injury",
       "description": "The Vikings' offensive backfield is in flux this week as starter Aaron Jones Sr. works through a knee injury and backup Jordan Mason remains on injured reserve.",
@@ -108,7 +180,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720969_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T21:38:32Z",
       "headline": "NFL survivor power rankings: Why you should use 49ers, Chiefs in Week 3",
       "description": "ESPN NFL survivor pool strategy, predictions and picks for Week 3 including the 49ers and Chiefs.",
@@ -116,7 +188,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720941_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T19:03:43Z",
       "headline": "Bills' T.J. Sanders out indefinitely after having appendectomy",
       "description": "Bills defensive lineman T.J. Sanders is out indefinitely after having an appendectomy, coach Joe Brady said on Wednesday.",
@@ -124,7 +196,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720960_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T19:02:35Z",
       "headline": "Lamar Jackson unfazed about field conditions in Brazil",
       "description": "Lamar Jackson unfazed about field conditions in Brazil",
@@ -132,7 +204,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_145212055_3671881/ss_20260923_145212055_3671881.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T20:22:15Z",
       "headline": "Lamar Jackson, Ravens not focusing on field conditions in Rio",
       "description": "A day before the Ravens travel to Brazil to play the Cowboys, quarterback Lamar Jackson said he isn't focusing on the condition of the field at Maracan\u00e3 Stadium.",
@@ -140,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720943_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T18:19:14Z",
       "headline": "Jets starting DT David Onyemata undergoes core muscle surgery",
       "description": "Jets defensive tackle David Onyemata, a starter in the base defense, underwent core-muscle surgery and will be sidelined for several weeks.",
@@ -148,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720929_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T18:13:47Z",
       "headline": "Sources: Bengals' Andrei Iosivas expected to miss 4-6 weeks",
       "description": "Bengals wide receiver Andrei Iosivas is expected to miss four to six weeks because of a thumb injury, sources told ESPN.",
@@ -156,7 +228,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720921_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T20:29:29Z",
       "headline": "Falcons hoping Penix's return sparks their offense as they visit the Packers",
       "description": "\u2014 Michael Penix Jr.'s return comes at a time when the",
@@ -164,7 +236,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872948.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T18:13:07Z",
       "headline": "Former NFL star Antonio Brown to accept plea deal, avoid prison",
       "description": "Former NFL star Antonio Brown will accept a plea deal in his second-degree attempted murder case, resulting in probation, his attorney said.",
@@ -172,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2025/0613/r1506062_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T17:46:24Z",
       "headline": "McAfee and J.J. Watt unsurprised Alec Pierce placed on IR",
       "description": "McAfee and J.J. Watt unsurprised Alec Pierce placed on IR",
@@ -180,7 +252,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_125506222_3671809/ss_20260923_125506222_3671809.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T16:59:43Z",
       "headline": "Devin Lloyd, Anthony Hill Jr. surging up IDP rankings",
       "description": "Devin Lloyd, Anthony Hill Jr. surging up IDP rankings",
@@ -188,7 +260,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_124658274_3671806776/ss_20260923_124658274_3671806776.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T16:41:34Z",
       "headline": "What does Jaxson Dart's season-ending surgery mean for Giants?",
       "description": "What does Jaxson Dart's season-ending surgery mean for Giants?",
@@ -196,7 +268,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_123709983_3671802/ss_20260923_123709983_3671802.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T17:16:11Z",
       "headline": "Browns QB Deshaun Watson 'ready for support' from home crowd",
       "description": "In his first home game since being booed in the preseason, Browns QB Deshaun Watson said Wednesday he's \"ready for support.\"",
@@ -204,7 +276,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719643_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T23:15:45Z",
       "headline": "With Jaxson Dart out, what's next for Giants, Jameis Winston?",
       "description": "New York fans just don't seem to be allowed nice things these days. Our insiders get into the implications of Dart's injury and its effect on the Giants going forward.",
@@ -212,7 +284,7 @@
       "image": "https://a.espncdn.com/photo/2026/0922/r1720555_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T17:01:36Z",
       "headline": "2026 NFL playoff picture: AFC, NFC seed projections, chances",
       "description": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
@@ -220,7 +292,7 @@
       "image": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T16:23:32Z",
       "headline": "'You heard me!': Why Cockcroft has Bryce Young in his top 15 QBs in Week 3",
       "description": "'You heard me!': Why Cockcroft has Bryce Young in his top 15 QBs in Week 3",
@@ -228,7 +300,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_121915790_3671798741/ss_20260923_121915790_3671798741.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T16:21:51Z",
       "headline": "Why Cockcroft recommends managers pick up the Vikings defense",
       "description": "Why Cockcroft recommends managers pick up the Vikings defense",
@@ -236,15 +308,15 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_121722626_3671796/ss_20260923_121722626_3671796.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-24T01:17:59Z",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T11:11:30Z",
       "headline": "Giants' Dart to have knee surgery, out rest of regular season",
-      "description": "Giants quarterback Jaxson Dart will undergo surgery on his left knee and sit out the rest of the regular season, though head coach John Harbaugh didn't rule out the possibility Dart could return if the Giants were to make the playoffs.",
+      "description": "Giants quarterback Jaxson Dart will undergo surgery on his left knee and sit out the rest of the regular season, though coach John Harbaugh didn't rule out the possibility Dart could return if New York makes the playoffs.",
       "url": "https://www.espn.com/nfl/story/_/id/50013861/giants-qb-dart-knee-surgery-miss-rest-regular-season",
       "image": "https://a.espncdn.com/photo/2026/0922/r1720452_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T18:58:28Z",
       "headline": "Steichen defends Colts' handling of WR Pierce's heel injury",
       "description": "The Colts are placing wide receiver Alec Pierce on injured reserve, giving him time to rehab his heel injury, coach Shane Steichen said Wednesday.",
@@ -252,7 +324,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720879_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T16:34:19Z",
       "headline": "Jaguars hope to get Hunter more involved in offense vs. Patriots",
       "description": "Travis Hunter may see an increased role on offense for the Jaguars on Sunday against the Patriots.",
@@ -260,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720871_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T15:25:48Z",
       "headline": "Why Dopp has D'Andre Swift as a low-end RB2 in Week 3",
       "description": "Why Dopp has D'Andre Swift as a low-end RB2 in Week 3",
@@ -268,7 +340,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_111237653_3671759/ss_20260923_111237653_3671759.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T15:21:09Z",
       "headline": "Why Mike Clay has concerns about Rashee Rice",
       "description": "Why Mike Clay has concerns about Rashee Rice",
@@ -276,7 +348,15 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_110710280_3671753/ss_20260923_110710280_3671753.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
+      "published": "2026-09-24T10:57:10Z",
+      "headline": "'Ugh,' a lefty QB: How the Falcons are defying NFL history",
+      "description": "With Michael Penix Jr. starting Thursday and Tua Tagovailoa on the roster, the Falcons enter a rare NFL realm.",
+      "url": "https://www.espn.com/nfl/story/_/id/50013349/nfl-falcons-michael-penix-jr-tua-tagovailoa-left-handed-qbs-steve-young",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720856_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T16:58:28Z",
       "headline": "Will Quinshon Judkins turn things around in Week 3?",
       "description": "Will Quinshon Judkins turn things around in Week 3?",
@@ -284,7 +364,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_104311200_3671742/ss_20260923_104311200_3671742.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T15:15:05Z",
       "headline": "The one concern Daniel Dopp has for Patrick Mahomes vs. Dolphins",
       "description": "The one concern Daniel Dopp has for Patrick Mahomes vs. Dolphins",
@@ -292,7 +372,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_103705255_3671740/ss_20260923_103705255_3671740.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T15:10:53Z",
       "headline": "Field Yates expecting Drake Maye to bounce back in Week 3",
       "description": "Field Yates expecting Drake Maye to bounce back in Week 3",
@@ -300,7 +380,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_103456900_3671739/ss_20260923_103456900_3671739.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T18:01:27Z",
       "headline": "Fantasy football buzz: The best reliable, under-the-radar QB options for Week 3",
       "description": "With injury questions surrounding several QBs in the league, let's take a look at some underrated QBs.",
@@ -308,7 +388,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720827_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T14:13:42Z",
       "headline": "MarShawn Lloyd's fantasy outlook",
       "description": "MarShawn Lloyd's fantasy outlook",
@@ -316,92 +396,12 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_100641957_3671728/ss_20260923_100641957_3671728.jpg"
     },
     {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
+      "captured_at": "2026-09-24T17:10:21.642333+00:00",
       "published": "2026-09-23T14:07:39Z",
       "headline": "'Go stand in the corner!': Kyle Brandt is furious with the Chargers",
       "description": "'Go stand in the corner!': Kyle Brandt is furious with the Chargers",
       "url": "https://www.espn.com/video/clip/_/id/50013146/kyle-brandt-furious-chargers",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_100329814_3671726/ss_20260923_100329814_3671726.jpg"
-    },
-    {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T13:52:06Z",
-      "headline": "Marvin Harrison Jr.'s fantasy outlook",
-      "description": "Marvin Harrison Jr.'s fantasy outlook",
-      "url": "https://www.espn.com/video/clip/_/id/50013089/marvin-harrison-jr-fantasy-outlook",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_094740511_3671717/ss_20260923_094740511_3671717.jpg"
-    },
-    {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T14:01:02Z",
-      "headline": "NFL Week 3 latest intel, buzz questions, news, fantasy tips",
-      "description": "What now for the Giants with Jaxson Dart out? What's the buzz on Patrick Mahomes through two games? Are running back depth charts firming up in Tampa and Carolina?",
-      "url": "https://www.espn.com/nfl/story/_/id/50005797/week-3-buzz-fantasy-predictions-graziano-fowler-2026",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720535_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T13:26:51Z",
-      "headline": "Drake London's Week 3 fantasy outlook",
-      "description": "Drake London's Week 3 fantasy outlook",
-      "url": "https://www.espn.com/video/clip/_/id/50012765/drake-london-week-3-fantasy-outlook",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_090656639_3671696/ss_20260923_090656639_3671696.jpg"
-    },
-    {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T12:50:49Z",
-      "headline": "Chuba Hubbard's Week 3 fantasy outlook",
-      "description": "Chuba Hubbard's Week 3 fantasy outlook",
-      "url": "https://www.espn.com/video/clip/_/id/50012702/chuba-hubbard-week-3-fantasy-outlook",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_084736800_3671685/ss_20260923_084736800_3671685.jpg"
-    },
-    {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T12:46:24Z",
-      "headline": "NFL depth charts for all 32 teams for 2026 season",
-      "description": "Here are the latest NFL depth charts for all 32 teams.",
-      "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-      "image": "https://a.espncdn.com/photo/2023/0413/r1158435_2_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T16:51:25Z",
-      "headline": "Fantasy football matchup rankings: Upgrade Ladd McConkey, Brock Purdy in Week 3",
-      "description": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49998320/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720651_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T12:54:28Z",
-      "headline": "Kenneth Walker III's fantasy outlook",
-      "description": "Kenneth Walker III's fantasy outlook",
-      "url": "https://www.espn.com/video/clip/_/id/50012630/kenneth-walker-iii-fantasy-outlook",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_083052909_3671676/ss_20260923_083052909_3671676.jpg"
-    },
-    {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T17:35:11Z",
-      "headline": "Facts vs. Feelings: Seven start-sit decisions you might be dreading and the facts to guide you through them",
-      "description": "Loza shares facts to help you decide whether to start players you might feel are borderline in Week 3.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50012581/facts-vs-feelings-fantasy-advice-week-3",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720812_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T12:32:55Z",
-      "headline": "Should the Giants consider J.J. McCarthy to replace Jaxson Dart?",
-      "description": "Should the Giants consider J.J. McCarthy to replace Jaxson Dart?",
-      "url": "https://www.espn.com/video/clip/_/id/50012575/should-giants-consider-jj-mccarthy-replace-jaxson-dart",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/ss_20260923_081410416_3671675501/ss_20260923_081410416_3671675501.jpg"
-    },
-    {
-      "captured_at": "2026-09-24T11:45:06.135961+00:00",
-      "published": "2026-09-23T12:51:14Z",
-      "headline": "Fantasy football consistency ratings: 2024 to 2026",
-      "description": "The consistency ratings weigh both how consistent and how start-worthy players have been from 2024 to 2026.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49954186/fantasy-football-rankings-consistency-ratings-start-sit-value",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717401_1296x729_16-9.jpg"
     }
   ]
 }

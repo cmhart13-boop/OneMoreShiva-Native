@@ -1,18 +1,82 @@
 {
-  "captured_at": "2026-09-30T22:15:17.977775+00:00",
+  "captured_at": "2026-10-01T05:52:25.377839+00:00",
   "source_ok": true,
   "source": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/news?region=us&lang=en&contentorigin=espn&limit=100",
   "articles": [
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-30T22:01:04Z",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-10-01T05:22:52Z",
+      "headline": "NFL trade deadline grades: Joey Porter Jr. to Cowboys, J.J. McCarthy to Giants",
+      "description": "Can Joey Porter Jr. clean up the Cowboys' defense? Will J.J. McCarthy improve the Giants' QB situation? We're grading NFL trades ahead of November's deadline.",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724321_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-10-01T05:43:20Z",
+      "headline": "Sources: Steelers to trade Joey Porter Jr. to Cowboys",
+      "description": "The Steelers agreed to trade cornerback Joey Porter Jr. to the Cowboys for a 2027 sixth-round pick and a 2028 second-rounder, sources confirmed to ESPN on Wednesday night.",
+      "url": "https://www.espn.com/nfl/story/_/id/50074351/sources-steelers-trade-joey-porter-jr-cowboys",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706286_600x600_1-1.jpg"
+    },
+    {
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-10-01T04:57:54Z",
+      "headline": "2026 NFL trade deadline updates: Latest on Joey Porter Jr., J.J. McCarthy deals",
+      "description": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including the Steelers sending Joey Porter Jr. to the Cowboys.",
+      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+      "image": "https://a.espncdn.com/photo/2025/0912/r1544507_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-10-01T03:15:33Z",
+      "headline": "Former Steelers HC Mike Tomlin reveals massive Minecraft city",
+      "description": "The former Steelers coach revealed an unexpected longtime hobby that shocked the sports and gaming worlds.",
+      "url": "https://www.espn.com/nfl/story/_/id/50073098/former-steelers-coach-mike-tomlin-minecraft-city-12-year-reveal",
+      "image": "https://a.espncdn.com/photo/2026/0101/r1595449_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-10-01T02:40:34Z",
+      "headline": "Brian Flores set for reunion with Dolphins",
+      "description": "Kevin Seifert breaks down Brian Flores' upcoming matchup against Miami as the Vikings prepare to host his former team.",
+      "url": "https://www.espn.com/video/clip/_/id/50073415/brian-flores-set-reunion-dolphins",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/dm_260930_Watchfolder_vikings/dm_260930_Watchfolder_vikings.jpg"
+    },
+    {
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-09-30T23:33:41Z",
+      "headline": "London game reminds Marcus Mariota of the connection between football and soccer",
+      "description": "For Mariota, who grew up playing soccer, Sunday's game against the Indianapolis Colts at Tottenham Hotspur Stadium is a chance to combine his love of both sports.",
+      "url": "https://www.espn.com/nfl/story/_/id/50071152/marcus-mariota-washington-commanders-london-game-soccer-tottenham-hotspur",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1724120_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-09-30T23:52:33Z",
+      "headline": "Patriots' Drake Maye: Shoulder fine, all OK with Mike Vrabel",
+      "description": "Drake Maye said Wednesday the physical condition of his right shoulder hasn't affected his throwing ability, instead highlighting the need to make better decisions to reverse his early-season struggles in the Patriots' 1-2 start.",
+      "url": "https://www.espn.com/nfl/story/_/id/50072249/patriots-drake-maye-shoulder-fine-all-ok-mike-vrabel",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722785_600x600_1-1.jpg"
+    },
+    {
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-10-01T04:21:09Z",
+      "headline": "Falcons sign DT Gervon Dexter Sr. to four-year extension",
+      "description": "The Falcons signed Gervon Dexter Sr. to a four-year, $78 million contract extension, sources told ESPN.",
+      "url": "https://www.espn.com/nfl/story/_/id/50071951/falcons-sign-dt-gervon-dexter-sr-four-year-extension",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1724161_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-10-01T00:23:47Z",
       "headline": "Sean McVay: NFL told Rams DPI shouldn't have been called",
       "description": "Rams head coach Sean McVay says the NFL told the team that defensive pass interference should not have been called against cornerback Josh Wallace in Sunday night's loss to the Broncos.",
       "url": "https://www.espn.com/nfl/story/_/id/50071616/sean-mcvay-nfl-told-rams-dpi-called",
       "image": "https://a.espncdn.com/photo/2026/0930/r1724141_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T21:50:26Z",
       "headline": "Bears' Ben Johnson: 'Direction already made' on Week 4 QB call",
       "description": "Bears coach Ben Johnson said he knows the \"direction\" the team will go at quarterback in Week 4 but won't publicly declare a starter.",
@@ -20,7 +84,7 @@
       "image": "https://a.espncdn.com/photo/2026/0818/r1703581_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T21:48:29Z",
       "headline": "Giants' Harbaugh explains reasoning for releasing Beckham",
       "description": "Giants coach John Harbaugh on Wednesday explained the team's decision for releasing wide receiver Odell Beckham Jr.",
@@ -28,23 +92,23 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1710929_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-30T20:40:10Z",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-09-30T23:31:35Z",
       "headline": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
       "description": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
       "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
       "image": "https://a.espncdn.com/photo/2026/0730/r1695455_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-30T20:33:19Z",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
+      "published": "2026-09-30T22:44:51Z",
       "headline": "Fantasy football buzz: Jaylen Warren in for heavy workload, 10 trends to know before you set your lineup",
       "description": "Jaylen Warren is in position to build off a solid Week 3 performance with Rico Dowdle out for Thursday's game in Cleveland.",
       "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
       "image": "https://a.espncdn.com/photo/2026/0930/r1724094_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T21:24:50Z",
       "headline": "What's level of concern for Panthers' notable injuries before Week 4 vs. Lions?",
       "description": "Ahead of its first primetime game of the season Sunday, Carolina has seven noteworthy injuries to monitor.",
@@ -52,7 +116,7 @@
       "image": "https://a.espncdn.com/photo/2026/0930/r1724107_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T19:59:33Z",
       "headline": "Steelers head to Cleveland for matchup of 2-1 teams in Aaron Rodgers' final Thursday night game",
       "description": "\u2014 Aaron Rodgers' NFL farewell tour continues with his final scheduled Thursday night game when the Pittsburgh Steelers face the Cleveland Browns.",
@@ -60,7 +124,7 @@
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872964.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T20:12:28Z",
       "headline": "Steelers rule Joey Porter out again; Jalen Ramsey questionable",
       "description": "Steelers cornerback Joey Porter will miss his fourth straight game as he has officially been declared out for Thursday night's game against the Browns.",
@@ -68,7 +132,7 @@
       "image": "https://a.espncdn.com/photo/2026/0930/r1724090_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T19:47:18Z",
       "headline": "Cam Ward reacts to threats made against his family",
       "description": "Cam Ward reacts to threats made against his family",
@@ -76,7 +140,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_153858241_3680063/ss_20260930_153858241_3680063.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T19:15:37Z",
       "headline": "Who will find the end zone? Top predicted TD scorers for Week 4",
       "description": "Mike Clay reveals his top predicted Week 4 TD scorers, including Derrick Henry, Kenneth Walker III and more.",
@@ -84,7 +148,7 @@
       "image": "https://a.espncdn.com/photo/2026/0930/r1724075_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T19:13:01Z",
       "headline": "NFL survivor power rankings: Why you should use Vikings, Seahawks",
       "description": "ESPN NFL survivor pool strategy, predictions and picks for Week 4 including the Vikings and Seahawks.",
@@ -92,7 +156,7 @@
       "image": "https://a.espncdn.com/photo/2026/0930/r1724016_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T18:36:07Z",
       "headline": "Chiefs LT Simmons recovering from bulging disk, Reid says",
       "description": "Chiefs coach Andy Reid said on Wednesday that left tackle Josh Simmons, who has not practiced with his teammates since Aug. 17, is recovering from a bulging disc.",
@@ -100,7 +164,7 @@
       "image": "https://a.espncdn.com/photo/2026/0129/r1607445_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T18:19:50Z",
       "headline": "Derrick Henry: Titans still family, but not much love on Sunday",
       "description": "Derrick Henry: Titans still family, but not much love on Sunday",
@@ -108,7 +172,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0930/faf30316-870c-4518-a610-6b5d98d6a66d/faf30316-870c-4518-a610-6b5d98d6a66d.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T19:48:09Z",
       "headline": "Titans' Cam Ward on fans' threats to family: 'People are weird'",
       "description": "Titans quarterback Cam Ward on Wednesday addressed fans' threats to his family on social media.",
@@ -116,7 +180,7 @@
       "image": "https://a.espncdn.com/photo/2026/0930/r1724028_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T18:20:11Z",
       "headline": "Ravens' Henry: 'Always love' for Titans, but not much this Sunday",
       "description": "Ravens RB Derrick Henry faces his former team, the Titans, on Sunday for the first time since leaving Tennessee after the 2023 season. He said it's \"always love\" for the Titans, just not much when they play on Sunday.",
@@ -124,7 +188,7 @@
       "image": "https://a.espncdn.com/photo/2026/0916/r1717653_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T16:19:10Z",
       "headline": "Jadarian Price's fantasy outlook",
       "description": "Jadarian Price's fantasy outlook",
@@ -132,7 +196,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_121144083_3679925/ss_20260930_121144083_3679925.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T16:27:06Z",
       "headline": "Why Stephen A. is skeptical of 3-0 Raiders ahead of Chiefs matchup",
       "description": "Why Stephen A. is skeptical of 3-0 Raiders ahead of Chiefs matchup",
@@ -140,7 +204,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_120617862_3679924732/ss_20260930_120617862_3679924732.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T17:12:43Z",
       "headline": "Packers WR Jayden Reed to undergo season-ending neck surgery",
       "description": "Packers wide receiver Jayden Reed will undergo season-ending neck surgery and be placed on injured reserve, coach Matt LaFleur said Wednesday.",
@@ -148,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/0424/r1648697_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T16:00:07Z",
       "headline": "Kalif Raymond's Week 4 fantasy preview",
       "description": "Kalif Raymond's Week 4 fantasy preview",
@@ -156,7 +220,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_115141155_3679912/ss_20260930_115141155_3679912.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T15:51:18Z",
       "headline": "Follow your feelings, but here are the facts on these Week 4 fantasy football start-sit decisions",
       "description": "Winning at fantasy or at life requires following your feelings. Liz Loza makes sure you have the facts to inform those decisions.",
@@ -164,7 +228,7 @@
       "image": "https://a.espncdn.com/photo/2026/0930/r1723938_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T15:37:09Z",
       "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
       "description": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
@@ -172,7 +236,7 @@
       "image": "https://a.espncdn.com/photo/2026/0928/r1722971_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T20:39:03Z",
       "headline": "Panthers CBs Jaycee Horn, Mike Jackson placed on IR",
       "description": "The Panthers have placed starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) on injured reserve after both were injured in the Week 3 loss to the Browns.",
@@ -180,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2026/0930/r1723952_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T16:12:25Z",
       "headline": "Commanders' Jayden Daniels limited at practice, status up in air",
       "description": "Jayden Daniels returned to practice in a limited capacity, but his status for games remains up in the air.",
@@ -188,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2026/0920/r1719748_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T15:23:09Z",
       "headline": "Buccaneers put WR McMillan on IR, add QB Rypien to practice squad",
       "description": "The Buccaneers placed wide receiver Jalen McMillan on injured reserve Wednesday, sidelining him for at least the next four games.",
@@ -196,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2026/0930/r1723926_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T15:19:03Z",
       "headline": "Will Luther Burden III or Ladd McConkey perform better this week?",
       "description": "Will Luther Burden III or Ladd McConkey perform better this week?",
@@ -204,7 +268,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_110320450_3679877/ss_20260930_110320450_3679877.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T15:25:19Z",
       "headline": "Bucky Irving or Chase Brown in Week 4? Clay and Dopp debate the 2 RBs",
       "description": "Bucky Irving or Chase Brown in Week 4? Clay and Dopp debate the 2 RBs",
@@ -212,7 +276,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_105935824_3679874/ss_20260930_105935824_3679874.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T15:11:22Z",
       "headline": "Is Kyler Murray or Patrick Mahomes a better fantasy play in Week 4?",
       "description": "Is Kyler Murray or Patrick Mahomes a better fantasy play in Week 4?",
@@ -220,7 +284,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_105649442_3679871/ss_20260930_105649442_3679871.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T15:03:53Z",
       "headline": "Why Darren Waller is a top-10 TE for Daniel Dopp in Week 4",
       "description": "Why Darren Waller is a top-10 TE for Daniel Dopp in Week 4",
@@ -228,7 +292,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_105126705_3679866/ss_20260930_105126705_3679866.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T14:58:39Z",
       "headline": "Field Yates: Tetairoa McMillan is my WR10 in Week 4",
       "description": "Field Yates: Tetairoa McMillan is my WR10 in Week 4",
@@ -236,7 +300,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_104545993_3679862/ss_20260930_104545993_3679862.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T14:51:10Z",
       "headline": "Stephen A. putting Cowboys' loss to Ravens more on Dak than Schottenheimer",
       "description": "Stephen A. putting Cowboys' loss to Ravens more on Dak than Schottenheimer",
@@ -244,7 +308,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_103313624_3679854641/ss_20260930_103313624_3679854641.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T14:13:23Z",
       "headline": "Michael Wilson's Week 4 fantasy outlook",
       "description": "Michael Wilson's Week 4 fantasy outlook",
@@ -252,7 +316,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_100809191_3679840/ss_20260930_100809191_3679840.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T14:29:40Z",
       "headline": "Ex-NFL star Antonio Brown's hearing for expected plea deal postponed",
       "description": "Former NFL star wide receiver Antonio Brown's court hearing where he was expected to accept a plea deal allowing him to avoid prison time in an attempted murder case was postponed Wednesday.",
@@ -260,7 +324,7 @@
       "image": "https://a.espncdn.com/photo/2025/0613/r1506062_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T20:34:57Z",
       "headline": "Packers, guard Kevin Zeitler agree to one-year deal",
       "description": "Veteran guard Kevin Zeitler signed a one-year deal with the Packers.",
@@ -268,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2026/0125/r1605514_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T13:35:57Z",
       "headline": "Aaron Jones' Week 4 fantasy outlook",
       "description": "Aaron Jones' Week 4 fantasy outlook",
@@ -276,7 +340,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_092950161_3679825/ss_20260930_092950161_3679825.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T13:32:43Z",
       "headline": "Trevor Lawrence's Week 4 preview",
       "description": "Trevor Lawrence's Week 4 preview",
@@ -284,7 +348,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_091933070_3679820/ss_20260930_091933070_3679820.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T13:30:33Z",
       "headline": "McCourty: I feel like an idiot for doubting Mahomes, Chiefs",
       "description": "McCourty: I feel like an idiot for doubting Mahomes, Chiefs",
@@ -292,7 +356,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/ss_20260930_091422435_3679817563/ss_20260930_091422435_3679817563.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T13:02:04Z",
       "headline": "Fantasy football consistency ratings: 2024 to 2026",
       "description": "The consistency ratings weigh both how consistent and how start-worthy players have been from 2024 to 2026.",
@@ -300,7 +364,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720966_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T12:41:05Z",
       "headline": "Sources: Ravens starting center Jovaughn Gwyn out for 2-3 months",
       "description": "Ravens starting center Jovaughn Gwyn is expected to miss two to three months with a fractured fibula that will likely require surgery, a source told ESPN.",
@@ -308,7 +372,7 @@
       "image": "https://a.espncdn.com/photo/2026/0907/r1712955_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T12:27:28Z",
       "headline": "Fantasy football matchup rankings: Upgrade Tyler Warren, Tetairoa McMillan in Week 4",
       "description": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
@@ -316,7 +380,7 @@
       "image": "https://a.espncdn.com/photo/2026/0929/r1723595_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T16:11:51Z",
       "headline": "Why Geno Smith's hot start has been a bright spot for the Jets",
       "description": "Despite being 1-2, the 35-year-old QB is completing over 75% of his passes.",
@@ -324,7 +388,7 @@
       "image": "https://a.espncdn.com/photo/2026/0929/r1723258_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T14:55:41Z",
       "headline": "Can the 0-3 Texans defy history again to make playoffs?",
       "description": "Houston became the first team in the common playoff format to make the postseason after starting 0-3 in 2025.",
@@ -332,76 +396,12 @@
       "image": "https://a.espncdn.com/photo/2026/0929/r1723470_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
+      "captured_at": "2026-10-01T05:52:25.377839+00:00",
       "published": "2026-09-30T14:35:46Z",
       "headline": "NFL Week 4 latest intel, buzz questions, news, fantasy tips",
       "description": "Alarm bells for Justin Herbert and Drake Maye? More QB trades on the way? Growing injury concerns for the 49ers and Panthers? Here's the latest for Week 4.",
       "url": "https://www.espn.com/nfl/story/_/id/50058901/week-4-buzz-fantasy-predictions-graziano-fowler-2026",
       "image": "https://a.espncdn.com/photo/2026/0929/r1723596_3_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-30T12:22:02Z",
-      "headline": "Can the Broncos keep pulling off unlikely comeback victories?",
-      "description": "Somehow, the Broncos keep finding ways to overcome their slow first-half starts, pulling off frenetic second-half comeback wins -- including in Week 3 against the Rams.",
-      "url": "https://www.espn.com/nfl/story/_/id/50060329/denver-broncos-comeback-victories-large-deficits-fourth-quarter-confidence",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723575_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-30T12:44:30Z",
-      "headline": "Case Keenum or Tyson Bagent? Bears face a QB decision",
-      "description": "Keenum stepped up in a big way against the Eagles, but Bagent is healthy and Ben Johnson won't reveal his QB1.",
-      "url": "https://www.espn.com/nfl/story/_/id/50061765/chicago-bears-case-keenum-tyson-bagent",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723302_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-30T09:04:00Z",
-      "headline": "Christian Izien stars in strong defensive week for NFL stars with Africa ties",
-      "description": "Detroit Lions safety Christian Izien - who is from Far Rockaway, Queens, but has always proudly represented Nigeria too - was a standout among many NFL stars with ties to Africa who shone in Week 3.",
-      "url": "https://www.espn.com/espn/story/_/id/50065515/christian-izien-stars-strong-defensive-week-nfl-stars-africa-ties",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723818_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-30T10:21:27Z",
-      "headline": "Guard Sam Cosmi, safety Nick Cross out for London game vs. Colts",
-      "description": "Commanders guard Sam Cosmi and safety Nick Cross did not travel with the team to London on Tuesday night for their Week 4 game against the Colts.",
-      "url": "https://www.espn.com/nfl/story/_/id/50062628/guard-sam-cosmi-safety-nick-cross-london-game-vs-colts",
-      "image": "https://a.espncdn.com/photo/2024/0827/r1378227_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-30T01:33:08Z",
-      "headline": "Ravens-Cowboys in Brazil averaged record 24.9M viewers",
-      "description": "The Ravens' 34-31 victory over the Cowboys in Rio de Janeiro, Brazil, averaged 24.9 million viewers on CBS on Sunday, making it the most-watched NFL international game in history.",
-      "url": "https://www.espn.com/nfl/story/_/id/50062493/ravens-cowboys-brazil-averaged-record-299m-viewers",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722786_600x600_1-1.jpg"
-    },
-    {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-29T23:44:05Z",
-      "headline": "Steelers' Ramsey says he has broken wrist, uncertain for Thursday",
-      "description": "Steelers cornerback Jalen Ramsey said he would \"try\" to play Thursday night against the Browns despite saying he broke his wrist in the team's Week 3 win.",
-      "url": "https://www.espn.com/nfl/story/_/id/50062199/steelers-ramsey-says-broken-wrist-uncertain-thursday",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694671_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-30T00:41:41Z",
-      "headline": "Cowboys' Schottenheimer 'aligned' with Jones after Rio gaffes",
-      "description": "Cowboys coach Brian Schottenheimer said he would \"be better\" after meeting with Jerry Jones about questionable late-game coaching decisions in Sunday's loss to the Ravens.",
-      "url": "https://www.espn.com/nfl/story/_/id/50062115/cowboys-schottenheimer-aligned-jones-rio-gaffes",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673539_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-09-30T22:15:17.977775+00:00",
-      "published": "2026-09-29T21:31:29Z",
-      "headline": "Get ready for Colts-Commanders in London, Falcons-Saints on MNF",
-      "description": "Get ready for Colts-Commanders in London, Falcons-Saints on MNF",
-      "url": "https://www.espn.com/video/clip/_/id/50061571/get-ready-colts-commanders-london-falcons-saints-mnf",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_nfl_week4promo/dm_260929_nfl_week4promo.jpg"
     }
   ]
 }

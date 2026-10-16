@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-16T16:38:43.541127+00:00",
+  "checked_at": "2026-10-16T21:06:56.435657+00:00",
   "source_ok": true,
   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=100",
   "error": null,
   "article_count": 50,
   "article_image_count": 50,
-  "injury_mention_count": 1466
+  "injury_mention_count": 1477
 }

@@ -1,34 +1,138 @@
 {
-  "captured_at": "2026-10-18T11:03:34.495668+00:00",
+  "captured_at": "2026-10-18T15:51:47.846735+00:00",
   "source_ok": true,
   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=100",
   "articles": [
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-18T11:00:32Z",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T14:20:54Z",
+      "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+      "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
+      "image": "https://a.espncdn.com/photo/2025/0929/r1552931_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T13:15:42Z",
+      "headline": "Sources: Saints QB Tyler Shough playing with 2 broken bones in non-throwing hand",
+      "description": "Saints quarterback Tyler Shough has been playing with two broken bones in his left hand, sources told ESPN.",
+      "url": "https://www.espn.com/nfl/story/_/id/50200514/sources-saints-tyler-shough-broken-bones-left-hand",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1731913_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T15:49:41Z",
+      "headline": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
+      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1732147_2_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T11:11:33Z",
+      "headline": "Fantasy football flex and superflex rankings for Week 6",
+      "description": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1723051_2_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T11:09:00Z",
+      "headline": "Fantasy football rankings Week 6: PPR and superflex",
+      "description": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T11:08:39Z",
+      "headline": "Fantasy football rankings for Week 6: Wide receiver",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+      "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T11:12:15Z",
+      "headline": "Fantasy football rankings for Week 6: Running back",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T11:07:17Z",
+      "headline": "Fantasy football rankings for Week 6: Tight end",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T11:07:40Z",
+      "headline": "Fantasy football rankings for Week 6: Quarterback",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+      "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T11:08:01Z",
+      "headline": "Fantasy football rankings for Week 6: D/ST",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+      "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T11:06:26Z",
+      "headline": "Fantasy football rankings for Week 6: Kicker",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T11:06:54Z",
+      "headline": "Fantasy football rankings for Week 6: IDP",
+      "description": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720597_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T11:16:20Z",
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "description": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T14:46:52Z",
       "headline": "Gayle Benson endorses Kellen Moore, coaches after comments about state of Saints",
       "description": "Saints owner Gayle Benson endorsed Kellen Moore and the coaching staff Friday, three days after her pointed comments about the state of the team.",
       "url": "https://www.espn.com/nfl/story/_/id/50207241/gayle-benson-endorses-kellen-moore-saints-coaches",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732292_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-18T10:00:01Z",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T13:29:38Z",
       "headline": "Jets great Mark Gastineau wants rookie David Bailey to celebrate after sacks",
       "description": "Gastineau's sack dances led to the NFL penalizing excessive celebrations for over 30 years.",
       "url": "https://www.espn.com/nfl/story/_/id/50197835/jets-david-bailey-sacks-mark-gastineau",
       "image": "https://a.espncdn.com/photo/2026/1016/r1731809_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-18T10:25:54Z",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T12:55:51Z",
       "headline": "Ranking the top 10 rookie performances in Super Bowl history",
-      "description": "Which rookies made a name from themselves in the Super Bowl? We list 10 standout performances, plus honorable mentions.",
+      "description": "Which rookies made a name from themselves in the Super Bowl over the years? We listed 10 standout performances, plus honorable mentions.",
       "url": "https://www.espn.com/nfl/story/_/id/50197687/top-10-super-bowl-rookie-performances-history",
       "image": "https://a.espncdn.com/photo/2024/1224/r1431509_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-18T10:00:04Z",
       "headline": "Patriots' 2026 rookies: Who has made an impact through five weeks?",
       "description": "With two rookies assuming starting roles, let's take a look at how this year's draft class has panned out.",
@@ -36,15 +140,15 @@
       "image": "https://a.espncdn.com/photo/2026/1017/r1731890_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-18T02:58:11Z",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T14:58:03Z",
       "headline": "Ex-Broncos exec John Beake, who helped land John Elway, dies at 87",
       "description": "John Beake, who was instrumental in the trade for John Elway and helped guide the Denver Broncos to back-to-back Super Bowl titles in the late 1990s, has died at age 87, the team said Saturday.",
       "url": "https://www.espn.com/nfl/story/_/id/50206700/ex-broncos-exec-john-beake-helped-land-john-elway-dies-87",
       "image": "https://a.espncdn.com/photo/2022/0608/r1022916_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T23:11:15Z",
       "headline": "49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk",
       "description": "The San Francisco 49ers will have to wait at least another week for the return of defensive end Nick Bosa, though there's at least a chance they'll have both receiver Mike Evans and fullback Kyle Juszczyk for Monday's game vs. the Washington Commanders.",
@@ -52,23 +156,15 @@
       "image": "https://a.espncdn.com/photo/2026/1017/r1732188_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T21:14:58Z",
-      "headline": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
-      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
-      "image": "https://a.espncdn.com/photo/2026/1017/r1732147_2_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T20:47:43Z",
-      "headline": "Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons",
-      "description": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T15:35:48Z",
+      "headline": "Bears start QB Caleb Williams in Week 6 against Falcons",
+      "description": "The Bears will start Caleb Williams on Sunday against the Falcons after the star quarterback missed the past three games due to a torn hamstring.",
       "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
       "image": "https://a.espncdn.com/photo/2026/0920/r1719616_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T22:48:14Z",
       "headline": "Eagles QB Jalen Hurts on IR due to blood clot, expected to be out indefinitely",
       "description": "The Eagles have placed Jalen Hurts on injured reserve after consultations with numerous doctors and experts, sources told ESPN and NFL Network.",
@@ -76,7 +172,7 @@
       "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T20:00:08Z",
       "headline": "Steelers place Wilson on IR with finger injury",
       "description": "The Pittsburgh Steelers placed Roman Wilson on the injured reserve list, their second key receiver lost to injury in as many weeks.",
@@ -84,7 +180,7 @@
       "image": "https://a.espncdn.com/photo/2026/0728/r1694789_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T19:23:52Z",
       "headline": "Taylor Moton among 3 Panthers activated ahead of Eagles game",
       "description": "The Panthers will have RT Taylor Moton and DE Tershawn Wharton available Sunday against the Eagles. RB Trevor Etienne was also activated off IR.",
@@ -92,7 +188,7 @@
       "image": "https://a.espncdn.com/photo/2026/1013/r1730380_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T19:48:14Z",
       "headline": "Bears CB Kyler Gordon set for 2026 debut after PUP activation",
       "description": "Bears nickel corner Kyler Gordon has been activated off the PUP list and could make his season debut against the Falcons.",
@@ -100,7 +196,7 @@
       "image": "https://a.espncdn.com/photo/2025/1213/r1588944_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T17:50:22Z",
       "headline": "Commanders RB Jacory Croskey-Merritt out vs. 49ers with groin injury",
       "description": "Commanders running back Jacory Croskey-Merritt won't play against the 49ers because of a groin injury, coach Dan Quinn said.",
@@ -108,79 +204,7 @@
       "image": "https://a.espncdn.com/photo/2026/1008/r1727688_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T16:53:27Z",
-      "headline": "Fantasy football flex and superflex rankings for Week 6",
-      "description": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1723051_2_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T16:46:13Z",
-      "headline": "Fantasy football rankings Week 6: PPR and superflex",
-      "description": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T16:45:22Z",
-      "headline": "Fantasy football rankings for Week 6: Wide receiver",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T16:44:59Z",
-      "headline": "Fantasy football rankings for Week 6: Running back",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T16:44:04Z",
-      "headline": "Fantasy football rankings for Week 6: Quarterback",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T16:43:43Z",
-      "headline": "Fantasy football rankings for Week 6: D/ST",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T16:43:25Z",
-      "headline": "Fantasy football rankings for Week 6: IDP",
-      "description": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720597_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T16:42:52Z",
-      "headline": "Fantasy football rankings for Week 6: Tight end",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T16:42:26Z",
-      "headline": "Fantasy football rankings for Week 6: Kicker",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T20:14:34Z",
       "headline": "Patriots activate WR A.J. Brown for Sunday's game vs. Jets",
       "description": "Patriots wide receiver A.J. Brown was activated from injured reserve Saturday after missing the past four games with a right high ankle sprain, the team announced.",
@@ -188,15 +212,15 @@
       "image": "https://a.espncdn.com/photo/2026/0907/r1712916_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-17T15:42:14Z",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
+      "published": "2026-10-18T13:05:21Z",
       "headline": "Jags unlikely to play 3 international games in 2027 during EverBank renovations",
       "description": "The Jaguars are unlikely to play three international home games in 2027 while renovations to EverBank Stadium continue, team president Mark Lamping said.",
       "url": "https://www.espn.com/nfl/story/_/id/50200792/jaguars-unlikely-play-3-international-home-games-2027",
       "image": "https://a.espncdn.com/photo/2023/1211/r1265144_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T11:53:37Z",
       "headline": "Where to watch NFL London Games: Texans vs. Jaguars",
       "description": "Texans vs. Jaguars is a part of the NFL's games in London this season.",
@@ -204,7 +228,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_nfl_week6_promo/dm_261012_nfl_week6_promo.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T16:08:46Z",
       "headline": "Sources: Eagles' Jalen Hurts, out indefinitely with blood clot, not planned for IR",
       "description": "The Eagles are not planning to put Jalen Hurts on injured reserve, sources told ESPN, even as he remains sidelined indefinitely with a superficial blood clot.",
@@ -212,7 +236,7 @@
       "image": "https://a.espncdn.com/photo/2026/1016/r1731826_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T13:47:30Z",
       "headline": "NFL Week 6 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
       "description": "First touchdown of 2026 for Drake London? Aaron Rodgers climbing the NFL record books? The Texans pulling an upset? Let's predict 15 things for Week 6.",
@@ -220,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2026/1015/r1731282_2_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T10:00:10Z",
       "headline": "Ravens believe Browns' Todd Monken wants 'to kick our tail'",
       "description": "When Cleveland's coach takes the sideline Sunday, Baltimore players will face off against their fiery former OC.",
@@ -228,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2026/1016/r1731709_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T10:41:15Z",
       "headline": "Rams can't seem to fix their special teams",
       "description": "Special teams have played a significant role in five of the Rams' nine losses since the start of last season, including the playoffs.",
@@ -236,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2026/1015/r1731275_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T10:00:01Z",
       "headline": "Why is Chargers RB Omarion Hampton's snap count decreasing?",
       "description": "Coach Jim Harbaugh and OC Mike McDaniel on why RB Omarion Hampton is being used differently.",
@@ -244,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2026/1015/r1731370_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-16T10:00:00Z",
       "headline": "Five takeaways from five weeks of the Raiders' season",
       "description": "What should be taken away from the first five weeks of the Raiders' 2026 season?",
@@ -252,7 +276,7 @@
       "image": "https://a.espncdn.com/photo/2026/1015/r1731243_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T10:38:28Z",
       "headline": "Where is the Tennessee Titans' pass rush?",
       "description": "The Titans invested more in the defensive front than any other area when Robert Saleh took over. So far, there hasn't been a significant ROI.",
@@ -260,7 +284,7 @@
       "image": "https://a.espncdn.com/photo/2026/1015/r1731181_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T10:00:02Z",
       "headline": "What Cowboys-Packers' Micah Parsons trade means a year later",
       "description": "We examine the fallout and lingering impact on both franchises more than a year after the blockbuster deal.",
@@ -268,7 +292,7 @@
       "image": "https://a.espncdn.com/photo/2026/1016/r1731576_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T03:53:00Z",
       "headline": "Commanders vs. 49ers: Where to watch 'Monday Night Football'",
       "description": "Here's what to know about the Week 6 matchup.",
@@ -276,7 +300,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Commanders_choke_job/dm_261012_Commanders_choke_job.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T14:38:25Z",
       "headline": "Titans CEO apologizes to fans, supports Robert Saleh, GM",
       "description": "Titans CEO Burke Nihill said the organization believes that coach Robert Saleh and GM Mike Borgonzi are \"ultimately going to get this team out of the woods.\"",
@@ -284,7 +308,7 @@
       "image": "https://a.espncdn.com/photo/2026/0913/r1716091_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-16T20:51:48Z",
       "headline": "Decked-out, diehard Jaguars fans swarm London for pub takeover",
       "description": "Jaguars fans roll deep in the United Kingdom, and the fandom showed up big at London's briefly renamed ''Tealwood'' pub Thursday night.",
@@ -292,7 +316,7 @@
       "image": "https://a.espncdn.com/photo/2026/1016/r1731659_481x271_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-16T20:50:14Z",
       "headline": "Fantasy football 12-team Knockout league rankings: The 168 players to draft",
       "description": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
@@ -300,7 +324,7 @@
       "image": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T11:17:58Z",
       "headline": "Eagles' Saquon Barkley ruled out; DeVonta Smith likely to return",
       "description": "Eagles RB Saquon Barkley has been ruled out for Sunday's game against the Panthers with a hamstring injury, but it appears WR DeVonta Smith will return.",
@@ -308,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2025/1015/r1559714_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T19:45:14Z",
       "headline": "Broncos' Jonathon Cooper off commissioner exempt list, could return Week 7",
       "description": "Broncos linebacker Jonathon Cooper was removed from the commissioner exempt list Friday, meaning he's available to play in Week 7. Cooper, who was arrested twice in a seven-day span in June on domestic violence charges, has been on the list since Aug. 30.",
@@ -316,7 +340,7 @@
       "image": "https://a.espncdn.com/photo/2026/1016/r1731783_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-17T11:15:38Z",
       "headline": "Packers' Josh Jacobs eligible to return next week amid investigation",
       "description": "Packers RB Josh Jacobs will be removed from the commissioner exempt list Monday, the league announced, making him eligible to practice and play next week.",
@@ -324,7 +348,7 @@
       "image": "https://a.espncdn.com/photo/2026/0107/r1597762_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-16T20:49:09Z",
       "headline": "Bears' Caleb Williams questionable after 3 days of practice",
       "description": "The quarterback said there are several hurdles to clear before he would be able to face the Falcons on Sunday.",
@@ -332,7 +356,7 @@
       "image": "https://a.espncdn.com/photo/2026/1016/r1731766_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-16T20:04:22Z",
       "headline": "Cardinals 'do what's right,' rule RB Jeremiyah Love (ankle) out vs. Rams",
       "description": "The Cardinals say they're doing \"what's right\" for RB Jeremiyah Love by ruling the prized rookie out for Sunday's game against the Rams due to his injured left ankle.",
@@ -340,7 +364,7 @@
       "image": "https://a.espncdn.com/photo/2026/0508/r1655540_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-16T20:16:31Z",
       "headline": "Jalen Hurts' health bigger than football, as teammates, coach detail QB concern",
       "description": "Eagles coach Nick Sirianni declined to offer much detail about Jalen Hurts' health, instead focusing on his connection with the quarterback.",
@@ -348,7 +372,7 @@
       "image": "https://a.espncdn.com/photo/2022/1213/r1106138_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-16T19:33:47Z",
       "headline": "Seahawks sticking with Sam Darnold as starter despite INTs",
       "description": "Seahawks coach Mike Macdonald is standing behind Sam Darnold as the team's starting quarterback despite his seven interceptions over the past four games.",
@@ -356,7 +380,7 @@
       "image": "https://a.espncdn.com/photo/2026/1016/r1731410_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-16T19:19:10Z",
       "headline": "Chiefs WR Rashee Rice out Sunday vs. Chargers with hamstring injury",
       "description": "Kansas City's top receiver Rashee Rice will miss Sunday's game against the Chargers with a right hamstring injury.",
@@ -364,7 +388,7 @@
       "image": "https://a.espncdn.com/photo/2026/0616/r1674306_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-16T19:21:50Z",
       "headline": "Pettine ready to lend support, experience to Cowboys' defense",
       "description": "Mike Pettine was traveling through Italy, celebrating his 60th birthday when he got a call from Cowboys defensive coordinator Christian Parker a few weeks ago seeing if he would take a role on the staff.",
@@ -372,36 +396,12 @@
       "image": "https://a.espncdn.com/photo/2019/1017/r614438_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
+      "captured_at": "2026-10-18T15:51:47.846735+00:00",
       "published": "2026-10-16T18:46:05Z",
       "headline": "Falcons' Michael Penix Jr. (ribs) cleared to play vs. Bears",
       "description": "Falcons quarterback Michael Penix Jr., who left last week's game with injured ribs, has been fully cleared to play against the Bears on Sunday.",
       "url": "https://www.espn.com/nfl/story/_/id/50197497/falcons-michael-penix-jr-ribs-cleared-play-vs-bears",
       "image": "https://a.espncdn.com/photo/2026/1006/r1726713_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-16T18:45:28Z",
-      "headline": "Ravens rule out QB Lamar Jackson; Tyler Huntley to start vs. Browns",
-      "description": "The Ravens have ruled quarterback Lamar Jackson out for a second straight week, elevating Tyler Huntley to the starting role for Sunday's game in Cleveland.",
-      "url": "https://www.espn.com/nfl/story/_/id/50197342/ravens-rule-qb-jackson-huntley-start-browns",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731712_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-16T17:56:29Z",
-      "headline": "Kyle Hamilton: Everybody has the utmost confidence in Tyler Huntley",
-      "description": "Kyle Hamilton: Everybody has the utmost confidence in Tyler Huntley",
-      "url": "https://www.espn.com/video/clip/_/id/50197297/everybody-utmost-confidence-tyler-huntley",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/ss_20261016_134917884_3698300/ss_20261016_134917884_3698300.jpg"
-    },
-    {
-      "captured_at": "2026-10-18T11:03:34.495668+00:00",
-      "published": "2026-10-16T18:33:53Z",
-      "headline": "Browns WR KC Concepcion clears concussion protocol, will play vs. Ravens",
-      "description": "Browns rookie wide receiver KC Concepcion has cleared the concussion protocol and will play against the Ravens.",
-      "url": "https://www.espn.com/nfl/story/_/id/50197266/browns-wr-concepcion-clears-protocol-play-vs-ravens",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1724000_600x400_3-2.jpg"
     }
   ]
 }

@@ -1,407 +1,407 @@
 {
-  "captured_at": "2026-10-25T20:50:02.797547+00:00",
+  "captured_at": "2026-10-26T04:45:43.312184+00:00",
   "source_ok": true,
   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=100",
   "articles": [
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:45:02Z",
-      "headline": "Singletary's 30-yard run in OT gives Giants 27-21 win over Texans",
-      "description": "\u2014 Devin Singletary\u2019s 30-yard touchdown run in overtime lifted the New York Giants to a 27-21 win over the Houston Texans on Sunday.",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873016",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873016.png?templateId=espn.applewatch.awayhome.1"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T04:27:47Z",
+      "headline": "Jaxon Smith-Njigba, stifling defense help Seahawks hand Chiefs first loss",
+      "description": "Seattle's bread and butter from its Super Bowl championship season -- Jaxon Smith-Njigba and defense -- was too much for the Chiefs.",
+      "url": "https://www.espn.com/nfl/story/_/id/50252989/seahawks-beat-chiefs-sunday-night-football-smith-njigba",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736317_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:43:25Z",
-      "headline": "Why Adam Rank is starting Bucky Irving every week",
-      "description": "Adam Rank: Bucky Irving one of the most disrespected players in fantasy",
-      "url": "https://www.espn.com/video/clip/_/id/50280305/why-adam-rank-starting-bucky-irving-every-week",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_fantasy_buckyirving/dm_261025_fantasy_buckyirving.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T04:29:51Z",
+      "headline": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
+      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
+      "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736250_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:46:08Z",
-      "headline": "Game Highlights: Cincinnati Bengals vs. Baltimore Ravens",
-      "description": "Game Highlights: Cincinnati Bengals vs. Baltimore Ravens",
-      "url": "https://www.espn.com/video/clip/_/id/50280298/cincinnati-bengals-vs-baltimore-ravens",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/d2a4e266-f6db-4584-bcc1-a61bdef8ce67/d2a4e266-f6db-4584-bcc1-a61bdef8ce67.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T03:52:57Z",
+      "headline": "Week 7 winners and losers: Pollard, Burrow lead the way; Walker III, Purdy struggle",
+      "description": "Tony Pollard, Joe Burrow and Zay Flowers came up big in Week 7, while Brock Purdy, Derrick Henry and Kenneth Walker III all had quiet days.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50280888/nfl-week-7-fantasy-football-winners-losers-injuries-rankings-more",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736146_2_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:35:47Z",
-      "headline": "Deshaun Watson leads another game-winning drive as the Browns beat the Titans 27-24",
-      "description": "\u2014 Deshaun Watson led his fifth game-winning drive in the fourth quarter this season, connecting with Harold Fannin Jr. on a 36-yard catch-and run that set up Andre Szmyt's 32-yard field goal...",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873013",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873013.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:41:07Z",
-      "headline": "New York Giants vs. Houston Texans: Game Highlights",
-      "description": "New York Giants vs. Houston Texans: Game Highlights",
-      "url": "https://www.espn.com/video/clip/_/id/50280213/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/0d47d46c-a6a9-4481-a18d-5cab550d3de5/0d47d46c-a6a9-4481-a18d-5cab550d3de5.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:25:47Z",
-      "headline": "Malik Willis sparks Dolphins' first win, holding off a late Jets rally 28-25",
-      "description": "\u2014 Malik Willis threw two touchdown passes and ran for a score, leading the Miami Dolphins to their first win of the season with a 28-25 victory over the New York Jets on Sunday.",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873015",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873015.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:40:01Z",
-      "headline": "Fantasy football buzz: Week 7 scoring leaders through Sunday's early games",
-      "description": "A closer look at the Week 7 scoring leaders through Sunday's early games.",
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T03:57:50Z",
+      "headline": "Fantasy football buzz: Week 7 scoring leaders through 'Sunday Night Football'",
+      "description": "A closer look at the Week 7 scoring leaders through Sunday's 4 p.m. ET games.",
       "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
       "image": "https://a.espncdn.com/photo/2026/1025/r1736075_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:22:47Z",
-      "headline": "Michael Penix Jr. throws 3 TD passes, Falcons force 4 turnovers to give 49ers first loss, 29-20",
-      "description": "\u2014 Michael Penix Jr. threw three touchdown passes, Atlanta scored 13 points off four turnovers and the Falcons handed the San Francisco 49ers their first loss, 29-20 on Sunday.",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873017",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873017.png?templateId=espn.applewatch.awayhome.1"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T04:35:25Z",
+      "headline": "Seahawks troll Taylor Swift, Travis Kelce to top NFL Week 7's petty posts",
+      "description": "The Seattle Seahawks' petty post at Taylor Swift and Kansas City Chiefs' Travis Kelce leads the way for NFL's Week 7 trolls.",
+      "url": "https://www.espn.com/nfl/story/_/id/50280779/nfl-week-7-trolls",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736348_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:25:18Z",
-      "headline": "San Francisco 49ers vs. Atlanta Falcons: Game Highlights",
-      "description": "San Francisco 49ers vs. Atlanta Falcons: Game Highlights",
-      "url": "https://www.espn.com/video/clip/_/id/50280050/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/4cb4b353-bc8a-4ac4-bbb1-ea09d4313692/4cb4b353-bc8a-4ac4-bbb1-ea09d4313692.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:16:53Z",
-      "headline": "Vikings defense clamps down on Daniel Jones and the Colts for a 16-10 victory to stay undefeated",
-      "description": "\u2014 Harrison Smith capped another dominant performance by Minnesota's defense with the game-sealing interception, and the Vikings overcame another sluggish start to stay unbeaten with a 16-10...",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873014",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873014.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:17:07Z",
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T04:06:05Z",
       "headline": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
       "description": "Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor, Aaron Rodgers and more.",
       "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
-      "image": "https://a.espncdn.com/photo/2026/1025/r1736070_608x342_16-9.jpg"
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736302_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:12:59Z",
-      "headline": "Burrow throws 4 TD passes as Bengals storm past Jackson-less Ravens 35-13 in 2nd half",
-      "description": "\u2014 Joe Burrow threw four touchdown passes in the second half, and the Cincinnati Bengals rebounded from a desultory first two quarters to beat Baltimore 35-13 on Sunday, handing the Ravens a second straight divisional loss with Lamar Jackson sidelined.",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873012",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873012.png?templateId=espn.applewatch.awayhome.1"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T04:13:47Z",
+      "headline": "Jaxon Smith-Njigba has 150 receiving yards and a score in the Seahawks' 20-3 win over the Chiefs",
+      "description": "\u2014 Frustrated by a two-game skid, the Seattle Seahawks went into playoff mode.",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873022",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873022.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:06:47Z",
-      "headline": "Bucky Irving runs for 2 TDs and Bucs force 4 turnovers in 43-13 rout of Panthers",
-      "description": "\u2014 Bucky Irving ran for 106 yards and two touchdowns, and Tampa Bay forced four turnovers as the Buccaneers hammered the Carolina Panthers 43-13 on Sunday in Baker Mayfield\u2019s return.",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873018",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873018.png?templateId=espn.applewatch.awayhome.1"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T03:32:08Z",
+      "headline": "Seahawks knock off Chiefs 20-3, giving KC its first loss",
+      "description": "Seahawks knock off Chiefs 20-3, giving KC its first loss",
+      "url": "https://www.espn.com/video/clip/_/id/50284399/seahawks-knock-chiefs-20-3-giving-kc-first-loss",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1026/5fb0a3f2-07cb-4839-a854-38bfd8757ffc/5fb0a3f2-07cb-4839-a854-38bfd8757ffc.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T19:38:17Z",
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T04:00:14Z",
+      "headline": "Packers rip officiating after roughing penalties prove costly in loss",
+      "description": "Several Packers players lit up the crew that officiated Sunday's game in Detroit, arguing against roughing penalties that have plagued the team all season.",
+      "url": "https://www.espn.com/nfl/story/_/id/50284205/packers-rip-officiating-roughing-penalties-prove-costly-loss",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736334_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T03:12:59Z",
+      "headline": "Bo Nix wows with 62-yard run as Broncos stand by 'our guy' at QB after win",
+      "description": "Sean Payton issued a firm vote of confidence for his embattled quarterback Bo Nix after Sunday's win over the Cardinals.",
+      "url": "https://www.espn.com/nfl/story/_/id/50284110/bo-nix-breaks-slump-carries-broncos-cardinals",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736274_600x600_1-1.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T04:22:57Z",
+      "headline": "Raiders' Kubiak on switching to QB Mendoza: 'We're thinking about everything'",
+      "description": "Raiders coach Klint Kubiak said the team is thinking about everything, including turning to QB Fernando Mendoza, amid a four-game losing streak.",
+      "url": "https://www.espn.com/nfl/story/_/id/50284090/thinking-everything",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736325_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T03:03:21Z",
+      "headline": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
+      "description": "The Pittsburgh QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
+      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736300_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T01:42:26Z",
+      "headline": "Matthew Stafford makes history after 3-TD showing for Rams",
+      "description": "Matthew Stafford on Sunday became the first player to hold the franchise record for passing scores for multiple active teams (Rams, Lions).",
+      "url": "https://www.espn.com/nfl/story/_/id/50283596/matthew-stafford-makes-history-3-td-showing-rams",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736279_600x600_1-1.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T01:07:28Z",
+      "headline": "Las Vegas Raiders vs Los Angeles Rams: Game Highlights",
+      "description": "Las Vegas Raiders vs Los Angeles Rams: Game Highlights",
+      "url": "https://www.espn.com/video/clip/_/id/50283411/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1026/6f33a0bf-bf66-4974-88fb-97a1e82ce730/6f33a0bf-bf66-4974-88fb-97a1e82ce730.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T00:53:03Z",
+      "headline": "National Tight Ends Day 2026: Davis Allen, Mason Taylor put on a show during holiday",
+      "description": "The fourth weekend in October means National Tight Ends Day, and the NFL's tight ends made sure to bring their best.",
+      "url": "https://www.espn.com/nfl/story/_/id/50281768/national-tight-end-day-highlights",
+      "image": ""
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T04:10:54Z",
+      "headline": "Green Bay Packers vs. Detroit Lions: Game Highlight",
+      "description": "Green Bay Packers vs. Detroit Lions: Game Highlight",
+      "url": "https://www.espn.com/video/clip/_/id/50282971/game-highlight",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/a7bd171485344e25b8861f050b20144b10/a7bd171485344e25b8861f050b20144b10.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T02:03:04Z",
+      "headline": "Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?",
+      "description": "Are Giants playoff bound? Are Vikings the NFC top seed? How bad do 49ers need Mike Evans back? We're judging overreactions to Sunday's games.",
+      "url": "https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736134_2_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T01:05:46Z",
+      "headline": "Lions beat Packers 20-17 on last-play field goal to bail out Dan Campbell's failed 4th-down gamble",
+      "description": "\u2014 Dan Campbell's latest gamble did not pan out and the Detroit Lions made plays in all three phases \u2014 with some yellow flags that went their way \u2014 to bail out the aggressive coach.",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873020",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:58:15Z",
+      "headline": "Why fantasy managers should be excited about Greg Dulcich",
+      "description": "Why fantasy managers should be excited about Greg Dulcich",
+      "url": "https://www.espn.com/video/clip/_/id/50282626/why-fantasy-managers-excited-greg-dulcich",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/ss_20261025_195308770_3711540/ss_20261025_195308770_3711540.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T01:37:46Z",
+      "headline": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
+      "description": "\u2014 This was, especially in the first half, the kind of Rams team many expected to see all along.",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873021",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873021.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T00:55:47Z",
+      "headline": "Bo Nix runs for a 62-yard TD, leads Broncos past the Cardinals for a 30-16 win",
+      "description": "\u2014 Bo Nix has insisted throughout the past few months that the right ankle he injured during last season's playoffs is now healthy, even...",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873019",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873019.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:44:20Z",
+      "headline": "Denver Broncos vs. Arizona Cardinals: Game Highlights",
+      "description": "Denver Broncos vs. Arizona Cardinals: Game Highlights",
+      "url": "https://www.espn.com/video/clip/_/id/50282508/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/6109f463-2e8c-4429-8ea3-cda8602a311c/6109f463-2e8c-4429-8ea3-cda8602a311c.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:51:49Z",
+      "headline": "Should fantasy managers trust C.J. Stroud after performance vs. Giants?",
+      "description": "Should fantasy managers trust C.J. Stroud after performance vs. Giants?",
+      "url": "https://www.espn.com/video/clip/_/id/50282505/should-fantasy-managers-trust-cj-stroud-performance-vs-giants",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/ss_20261025_194207474_3711518/ss_20261025_194207474_3711518.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:41:34Z",
+      "headline": "Fantasy football Week 7 inactives: Kelce active for Sunday Night Football",
+      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50229729/fantasy-football-injuries-nfl-week-7-inactive-active",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736241_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T00:21:27Z",
+      "headline": "Cam Skattebo & Co. answer John Harbaugh's call, lead Giants to OT win",
+      "description": "The Giants' running back group was called out this past week by coach John Harbaugh. They all stepped up Sunday in Houston.",
+      "url": "https://www.espn.com/nfl/story/_/id/50282376/cam-skattebo-co-answer-john-harbaugh-call-pace-giants",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736135_600x600_1-1.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:48:14Z",
+      "headline": "Even Tyler Shough can't save Saints as run game falls to new lows",
+      "description": "The Saints' run game wasn't just bad in the loss to Pittsburgh -- it struggled on levels unseen in several decades.",
+      "url": "https://www.espn.com/nfl/story/_/id/50281161/tyler-shough-cant-save-new-orleans-saints-run-game-lows",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1735879_576x324_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:56:06Z",
+      "headline": "Baker Mayfield needs to attempt only 11 passes in Buccaneers' blowout win",
+      "description": "Baker Mayfield needed to attempt only 11 passes in the Buccaneers' 43-13 victory against the Carolina Panthers on Sunday.",
+      "url": "https://www.espn.com/nfl/story/_/id/50282250/buccaneers-mayfield-only-attempts-11-passes-winning-return",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736149_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:18:29Z",
+      "headline": "Harrison Smith reaches milestone interception",
+      "description": "Kevin Seifert recaps Harrison Smith's performance against the Colts.",
+      "url": "https://www.espn.com/video/clip/_/id/50282231/harrison-smith-reaches-milestone-interception",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_16x9_Vikings_IA/dm_261025_16x9_Vikings_IA.jpg"
+    },
+    {
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:18:44Z",
       "headline": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
       "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
       "image": "https://a.espncdn.com/photo/2026/1025/r1735940_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:19:18Z",
-      "headline": "Panthers RT Taylor Moton carted off field with fractured fibula",
-      "description": "Panthers right tackle Taylor Moton left Sunday's matchup against the Buccaneers on a cart in the third quarter with a left ankle and fibula injury.",
-      "url": "https://www.espn.com/nfl/story/_/id/50279064/panthers-taylor-moton-carted-ankle-fibula-injury",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730380_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T00:24:18Z",
+      "headline": "Jets' Garrett Wilson says sideline screaming wasn't directed at Geno Smith",
+      "description": "Garrett Wilson said he was just expressing frustration after cameras caught the Jets star WR screaming on the sideline during a disappointing loss to Miami.",
+      "url": "https://www.espn.com/nfl/story/_/id/50282050/jets-garrett-wilson-says-sideline-screaming-directed-geno-smith",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736113_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T18:59:40Z",
-      "headline": "Fantasy football Week 7 inactives: Puka Nacua uncertain, DeVonta Smith out",
-      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50229729/fantasy-football-injuries-nfl-week-7-inactive-active",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1734974_576x324_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:14:32Z",
+      "headline": "After collapsing vs. Bengals, Jesse Minter says Ravens need identity check",
+      "description": "After the Ravens' 35-13 loss to the Bengals on Sunday -- which included the worst half in team history -- coach Jesse Minter said his team is at a crossroads.",
+      "url": "https://www.espn.com/nfl/story/_/id/50281972/after-loss-jesse-minter-says-ravens-need-identity-check",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736200_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T18:04:25Z",
-      "headline": "Pittsburgh Steelers vs. New Orleans Saints: Full Game Highlight",
-      "description": "Pittsburgh Steelers vs. New Orleans Saints: Full Game Highlight",
-      "url": "https://www.espn.com/video/clip/_/id/50277973/full-game-highlight",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/8bd53edd-9909-4a39-abae-81e5f234b16a/8bd53edd-9909-4a39-abae-81e5f234b16a.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T00:00:52Z",
+      "headline": "Colts' Shane Steichen says he's not considering benching QB Daniel Jones",
+      "description": "Colts coach Shane Steichen said Sunday he hasn't thought about a quarterback change following Daniel Jones' struggles.",
+      "url": "https://www.espn.com/nfl/story/_/id/50281882/colts-shane-steichen-says-not-considering-qb-change",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736147_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T17:33:18Z",
-      "headline": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
-      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
-      "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
-      "image": "https://a.espncdn.com/photo/2026/1025/r1735950_608x342_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T00:18:58Z",
+      "headline": "49ers 'took a step back' in first loss of season against Falcons",
+      "description": "On Sunday, after the Niners blew an 11-point lead and lost their first game of the season to the Atlanta Falcons, Warner had the distinct feeling that the outcome directly aligned with a lack of progress.",
+      "url": "https://www.espn.com/nfl/story/_/id/50281333/49ers-step-back-first-loss-season-falcons",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736189_1024x576_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T18:49:59Z",
-      "headline": "Aaron Rodgers breaks tie with Peyton Manning for third-most TD passes",
-      "description": "Aaron Rodgers threw one touchdown pass to move alone to third on the career list during the Steelers' 16-10 win over the Saints as the NFL held its first regular-season game in France.",
-      "url": "https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game",
-      "image": "https://a.espncdn.com/photo/2026/1025/r1735904_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:16:34Z",
+      "headline": "Vikings rally to reach 6-0 even as offense hits historic lows for unbeaten team",
+      "description": "As his offense continued to grind Sunday at historically low levels for an undefeated team, Vikings coach Kevin O'Connell had a simple message: \"We're not far off.\"",
+      "url": "https://www.espn.com/nfl/story/_/id/50281597/vikings-rally-beat-colts-reach-6-0-lagging-offense",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736184_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T18:28:01Z",
-      "headline": "Rodgers throws TD pass in Paris as Steelers beat Saints 16-10 in NFL's regular-season France debut",
-      "description": "\u2014 Pittsburgh Steelers quarterback Aaron Rodgers knew a protective slide was out of the question when he scrambled on a key fourth-quarter play in New Orleans territory Sunday.",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873011",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873011.png?templateId=espn.applewatch.awayhome.1"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T02:05:32Z",
+      "headline": "Chase's fiery halftime speech inspires Bengals to comeback win vs. Ravens",
+      "description": "Ja'Marr Chase unloaded on his Bengals teammates in a halftime speech that inspired Cincinnati to a comeback victory over the Ravens.",
+      "url": "https://www.espn.com/nfl/story/_/id/50281493/jamarr-chase-fiery-half-speech-inspires-bengals-win",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736166_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T17:06:37Z",
-      "headline": "2027 NFL draft questions, latest intel, risers, CFB standouts",
-      "description": "What are the odds Trey'Dez Green -- who scored in his return -- ends up as TE1? What's a good comp for Dylan Stewart? Here's draft spin off CFB Week 8.",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
-      "image": "https://a.espncdn.com/photo/2026/1025/r1735912_608x342_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-26T00:08:50Z",
+      "headline": "Jeff Hafley, Dolphins hold off Jets, then revel in first win of season",
+      "description": "The Dolphins snapped a five-game losing streak to win their first game of the season, holding off a late New York Jets rally for a 28-25 victory.",
+      "url": "https://www.espn.com/nfl/story/_/id/50281453/jeff-hafley-dolphins-revel-first-win-season",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736098_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T16:21:45Z",
-      "headline": "NFL depth charts for all 32 teams for 2026 season",
-      "description": "Here are the latest NFL depth charts for all 32 teams.",
-      "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-      "image": "https://a.espncdn.com/photo/2023/0413/r1158435_2_608x342_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T22:11:32Z",
+      "headline": "Daniel Dopp: Malik Nabers a set-it-and-forget-it WR1 the rest of the way",
+      "description": "Daniel Dopp: Malik Nabers a set-it-and-forget-it WR1 the rest of the way",
+      "url": "https://www.espn.com/video/clip/_/id/50281203/malik-nabers-set-forget-wr1-rest-way",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_nabers/dm_261025_nabers.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T14:14:37Z",
-      "headline": "NFL, NFLPA handling joint review of Jalen Hurts' blood clot diagnosis",
-      "description": "The NFL and NFL Players Association are working together to review the handling of Jalen Hurts' blood clot diagnosis.",
-      "url": "https://www.espn.com/nfl/story/_/id/50276432/nfl-nflpa-handling-joint-review-jalen-hurts-diagnosis",
-      "image": "https://a.espncdn.com/photo/2026/1019/r1732959_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T22:18:03Z",
+      "headline": "Breaking down Cowboys-Eagles MNF matchup in wide-open NFC East",
+      "description": "Both teams enter the game 2-4, looking far from formidable and staring up at the 4-2-1 division-leading Giants.",
+      "url": "https://www.espn.com/nfl/story/_/id/50257820/cowboys-eagles-matchup-wide-open-nfc-east-mnf-week-7",
+      "image": "https://a.espncdn.com/photo/2026/1022/nfl_cowboys-eagles_16x9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T12:44:52Z",
-      "headline": "Fantasy football flex and superflex rankings for Week 7",
-      "description": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710593_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T21:52:00Z",
+      "headline": "Why Daniel Dopp believes better days are ahead for Isaiah Likely",
+      "description": "Why Daniel Dopp believes better days are ahead for Isaiah Likely",
+      "url": "https://www.espn.com/video/clip/_/id/50280911/why-daniel-dopp-believes-better-days-ahead-isaiah-likely",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_fantasy_likely/dm_261025_fantasy_likely.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T20:05:11Z",
-      "headline": "Sources: Peyton Manning not expected to be candidate for Colts' vacant GM job",
-      "description": "The Colts have not approached Peyton Manning about their vacant GM job nor would the ex-QB be expected to be interested in the position, according to sources.",
-      "url": "https://www.espn.com/nfl/story/_/id/50267058/sources-peyton-manning-not-candidate-colts-gm-job",
-      "image": "https://a.espncdn.com/photo/2026/1024/r1735483_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T23:58:06Z",
+      "headline": "Kendal Daniels seals Falcons' win with INT one week after trip to hospital",
+      "description": "Kendal Daniels had the game-sealing interception to help the Falcons beat the 49ers one week after he was immobilized by medical personnel.",
+      "url": "https://www.espn.com/nfl/story/_/id/50280836/kendal-daniels-seals-falcons-win-fourth-quarter-int",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736093_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T12:23:08Z",
-      "headline": "Fantasy football rankings Week 7: PPR and superflex",
-      "description": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711051_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T21:38:35Z",
+      "headline": "Why Zay Flowers is on WR1 radar for Week 8 in fantasy football",
+      "description": "Why Zay Flowers is on WR1 radar for Week 8 in fantasy football",
+      "url": "https://www.espn.com/video/clip/_/id/50280783/why-zay-flowers-wr1-radar-week-8-fantasy-football",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_zay_flowers_fantasy/dm_261025_zay_flowers_fantasy.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T12:22:49Z",
-      "headline": "Fantasy football rankings for Week 7: Wide receiver",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T21:26:59Z",
+      "headline": "How should fantasy managers view Tony Pollard after big Week 7?",
+      "description": "How should fantasy managers view Tony Pollard after big Week 7?",
+      "url": "https://www.espn.com/video/clip/_/id/50280715/how-fantasy-managers-view-tony-pollard-big-week-7",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_fantasy_pollard_moody/dm_261025_fantasy_pollard_moody.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T12:22:10Z",
-      "headline": "Fantasy football rankings for Week 7: D/ST",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T21:08:24Z",
+      "headline": "Should fantasy managers consider trading Jaylen Warren?",
+      "description": "Should fantasy managers consider trading Jaylen Warren?",
+      "url": "https://www.espn.com/video/clip/_/id/50280475/should-fantasy-managers-consider-trading-jaylen-warren",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_Jaylen_Warren/dm_261025_Jaylen_Warren.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T12:22:33Z",
-      "headline": "Fantasy football rankings for Week 7: Running back",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T21:00:58Z",
+      "headline": "Miami Dolphins vs. New York Jets Game Highlights",
+      "description": "Miami Dolphins vs. New York Jets Game Highlights",
+      "url": "https://www.espn.com/video/clip/_/id/50280433/miami-dolphins-vs-new-york-jets-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/95a9921a-9d18-4fac-b09b-28b5bf7c2be9/95a9921a-9d18-4fac-b09b-28b5bf7c2be9.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T12:21:24Z",
-      "headline": "Fantasy football rankings for Week 7: Tight end",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T21:07:10Z",
+      "headline": "Why fantasy managers should hold onto Christian McCaffery",
+      "description": "Why fantasy managers should hold onto Christian McCaffery",
+      "url": "https://www.espn.com/video/clip/_/id/50280423/why-fantasy-managers-hold-christian-mccaffery",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_CMC/dm_261025_CMC.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T12:21:48Z",
-      "headline": "Fantasy football rankings for Week 7: Quarterback",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T21:28:33Z",
+      "headline": "Browns win in epic fashion for second week in a row",
+      "description": "Browns win in epic fashion for second week in a row",
+      "url": "https://www.espn.com/video/clip/_/id/50280322/browns-win-epic-fashion-second-week-row",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/62d63cb4-adf9-41eb-bbdb-78003de8c61b/62d63cb4-adf9-41eb-bbdb-78003de8c61b.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T12:20:43Z",
-      "headline": "Fantasy football rankings for Week 7: Kicker",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T21:28:56Z",
+      "headline": "Indianapolis Colts vs. Minnesota Vikings Game Highlights",
+      "description": "Indianapolis Colts vs. Minnesota Vikings Game Highlights",
+      "url": "https://www.espn.com/video/clip/_/id/50280319/indianapolis-colts-vs-minnesota-vikings-game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/e1014b40-594a-408a-b3e2-51bc70b7eb9c/e1014b40-594a-408a-b3e2-51bc70b7eb9c.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T12:21:05Z",
-      "headline": "Fantasy football rankings for Week 7: IDP",
-      "description": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711080_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T22:41:46Z",
+      "headline": "Singletary's 30-yard run in OT gives Giants 27-21 win over Texans",
+      "description": "\u2014 Two weeks ago, Cam Skattebo's fumble in overtime cost the New York Giants a chance at a win.",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873016",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873016.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T19:02:25Z",
-      "headline": "Rams star WR Puka Nacua will play against Raiders",
-      "description": "Rams star wide receiver Puka Nacua will play Sunday against the Raiders.",
-      "url": "https://www.espn.com/nfl/story/_/id/50275162/source-rams-optimistic-puka-nacua-play-vs-raiders",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720500_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T21:06:03Z",
+      "headline": "Aaron Rodgers worth starting in fantasy despite lackluster performance",
+      "description": "Aaron Rodgers worth starting in fantasy despite lackluster performance",
+      "url": "https://www.espn.com/video/clip/_/id/50280307/aaron-rodgers-worth-starting-fantasy-lackluster-performance",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_Rodgers/dm_261025_Rodgers.jpg"
     },
     {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T12:51:57Z",
-      "headline": "Sources: Colts face big decisions on star players as NFL trade deadline looms",
-      "description": "The Colts are expected to field trade inquiries on some of their star players, including Jonathan Taylor, DeForest Buckner and Quenton Nelson.",
-      "url": "https://www.espn.com/nfl/story/_/id/50272352/sources-decisions-loom-colts-nfl-trade-deadline",
-      "image": "https://a.espncdn.com/photo/2025/1202/r1583590_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T14:30:18Z",
-      "headline": "Browns DT Maliek Collins lands 2-year extension worth $30 million, agent says",
-      "description": "The Browns and DT Maliek Collins have agreed to terms on a two-year, $30M extension that includes $23M guaranteed, his agent told ESPN and NFL Network.",
-      "url": "https://www.espn.com/nfl/story/_/id/50275489/browns-maliek-collins-lands-2-year-extension-agent-says",
-      "image": "https://a.espncdn.com/photo/2026/1025/r1735839_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T15:18:38Z",
-      "headline": "Sources: Cam Skattebo expected to resume role as Giants' lead RB vs. Texans",
-      "description": "Cam Skattebo is expected to return to his role as the Giants' lead running back against the Texans, sources told NFL Network.",
-      "url": "https://www.espn.com/nfl/story/_/id/50268018/sources-cam-skattebo-expected-giants-lead-rb",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731276_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T16:21:08Z",
-      "headline": "Sources: Josh Simmons told to leave Chiefs meeting by Andy Reid, Patrick Mahomes",
-      "description": "Josh Simmons was kicked out of a team meeting by Chiefs coach Andy Reid and QB Patrick Mahomes, but the OT later apologized, sources told NFL Network.",
-      "url": "https://www.espn.com/nfl/story/_/id/50268181/sources-josh-simmons-told-leave-chiefs-team-meeting",
-      "image": "https://a.espncdn.com/photo/2026/0129/r1607445_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T10:21:27Z",
-      "headline": "How to bet Chiefs-Seahawks: Analysis, tips and top prop plays",
-      "description": "Odds, bets and analysis to help you bet Kansas City Chiefs at Seattle Seahawks on Sunday night.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50234491/nfl-week-7-odds-betting-tips-chiefs-seahawks-preview",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734660_2_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T10:00:01Z",
-      "headline": "NFL execs, coaches rank the league's top five MVP candidates entering Week 7",
-      "description": "Brock Purdy? Josh Allen? Or maybe even a non-QB? Sixteen execs and coaches voted on the top five contenders for the MVP award through six weeks.",
-      "url": "https://www.espn.com/nfl/story/_/id/50239053/2026-nfl-season-mvp-early-ranking-watch-list-execs-coaches",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734042_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T13:38:22Z",
-      "headline": "Why Derrick Henry has taken Jets RB Braelon Allen under his wing",
-      "description": "After Henry saw Allen wearing his shirt in college, he reached out to him, and the two running backs have kept in touch since.",
-      "url": "https://www.espn.com/nfl/story/_/id/50260368/jets-braelon-allen-encouraged-derrick-henry",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1735194_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T16:04:47Z",
-      "headline": "How Bengals star QB Joe Burrow brings a chess mindset to football",
-      "description": "How Bengals star QB Joe Burrow brings a chess mindset to football",
-      "url": "https://www.espn.com/video/clip/_/id/50274377/how-bengals-star-qb-joe-burrow-brings-chess-mindset-football",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_joey_b/dm_261025_joey_b.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T16:20:13Z",
-      "headline": "Mahomes and Kelce the Chiefs dynamic duo",
-      "description": "Mahomes and Kelce the Chiefs dynamic duo",
-      "url": "https://www.espn.com/video/clip/_/id/50274245/mahomes-kelce-chiefs-dynamic-duo",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_Mahomes_Kelce_Interview/dm_261025_Mahomes_Kelce_Interview.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T03:11:57Z",
-      "headline": "NFL Week 7 betting guide: the value bets to make on lines, props and anytime TDs",
-      "description": "Our experts dive into the odds and player props for Week 7 and offer their betting tips and favorite plays.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50229578/week-7-nfl-odds-touchdown-props-best-bets-sunday-games",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734771_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-25T00:13:05Z",
-      "headline": "Larry Fitzgerald set to enter Cardinals Ring of Honor",
-      "description": "Joshua Weinfuss details what Larry Fitzgerald discussed before his Ring of Honor induction with the Cardinals this weekend.",
-      "url": "https://www.espn.com/video/clip/_/id/50271544/larry-fitzgerald-set-enter-cardinals-ring-honor",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/dm_261024_CARDS_ROH/dm_261024_CARDS_ROH.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-24T23:35:44Z",
-      "headline": "Inside the silent messages Boye Mafe sends every game day",
-      "description": "The Bengals defensive end uses sign language to say \"I love you\" to his mother, Bola, who died of pancreatic cancer in 2018.",
-      "url": "https://www.espn.com/nfl/story/_/id/50258881/cincinnati-bengals-boye-mafe-sign-language",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1735047_1238x697_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-24T21:17:02Z",
-      "headline": "Eagles' DeVonta Smith, Dontayvion Wicks out vs. Cowboys",
-      "description": "The Eagles' top two receivers -- DeVonta Smith and Dontayvion Wicks -- have been ruled out of Monday night's game against the Cowboys.",
-      "url": "https://www.espn.com/nfl/story/_/id/50269752/eagles-devonta-smith-dontayvion-wicks-vs-cowboys",
-      "image": "https://a.espncdn.com/photo/2026/1024/r1735604_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-24T22:15:19Z",
-      "headline": "Vikings activate RB Jordan Mason off injured reserve",
-      "description": "The Vikings activated running back Jordan Mason from injured reserve Saturday, completing his recovery from a fractured thumb that required surgery last month.",
-      "url": "https://www.espn.com/nfl/story/_/id/50269656/vikings-activate-rb-jordan-mason-injured-reserve",
-      "image": "https://a.espncdn.com/photo/2025/1221/r1592349_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-24T21:01:12Z",
-      "headline": "Packers activate RB Josh Jacobs for 2026 debut",
-      "description": "Packers running back Josh Jacobs will make his 2026 season debut against the Lions after spending the first six weeks on the NFL's commissioner exempt list.",
-      "url": "https://www.espn.com/nfl/story/_/id/50269266/packers-activate-rb-josh-jacobs-2026-debut",
-      "image": "https://a.espncdn.com/photo/2026/1019/r1733122_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-10-25T20:50:02.797547+00:00",
-      "published": "2026-10-24T20:41:27Z",
-      "headline": "Ravens rule out Lamar Jackson (ankle) vs. Bengals; Tyler 'Snoop' Huntley to start",
-      "description": "The Baltimore Ravens have ruled QB Lamar Jackson out of Sundays game vs. the Cincinnati Bengals as he continues to deal with a high ankle sprain. Tyler \"Snoop\" Huntley will get the start.",
-      "url": "https://www.espn.com/nfl/story/_/id/50268816/ravens-rule-lamar-jackson-high-ankle-sprain-vs-bengals",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726483_1296x729_16-9.jpg"
+      "captured_at": "2026-10-26T04:45:43.312184+00:00",
+      "published": "2026-10-25T20:43:25Z",
+      "headline": "Why Adam Rank is starting Bucky Irving every week",
+      "description": "Adam Rank: Bucky Irving one of the most disrespected players in fantasy",
+      "url": "https://www.espn.com/video/clip/_/id/50280305/why-adam-rank-starting-bucky-irving-every-week",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_fantasy_buckyirving/dm_261025_fantasy_buckyirving.jpg"
     }
   ]
 }

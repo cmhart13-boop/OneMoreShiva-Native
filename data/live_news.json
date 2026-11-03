@@ -1,18 +1,186 @@
 {
-  "captured_at": "2026-11-03T00:57:00.646332+00:00",
+  "captured_at": "2026-11-03T14:12:32.823587+00:00",
   "source_ok": true,
   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=100",
   "articles": [
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-03T00:52:44Z",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T13:34:11Z",
+      "headline": "Fantasy buzz: No stopping Bears, Seahawks ease Charbonnet back, Minshew impact",
+      "description": "The Bears' offense is full of must-start players, Seahawks backfield still in flux as Charbonnet, Price return",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740464_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T13:41:44Z",
+      "headline": "The team Domonique Foxworth says needs Jonathan Taylor the most",
+      "description": "The team Domonique Foxworth says needs Jonathan Taylor the most",
+      "url": "https://www.espn.com/video/clip/_/id/50368456/the-team-domonique-foxworth-says-needs-jonathan-taylor-most",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_083034129_3723670515/ss_20261103_083034129_3723670515.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T13:24:53Z",
+      "headline": "Are the Bears the best team in the NFL?",
+      "description": "Are the Bears the best team in the NFL?",
+      "url": "https://www.espn.com/video/clip/_/id/50368412/are-bears-best-team-nfl",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_082122016_3723669/ss_20261103_082122016_3723669.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T12:19:30Z",
+      "headline": "Cleats, controversy and the choice of Bears QB Caleb Williams",
+      "description": "Williams wore Caddix cleats Monday night in Seattle, but the logo was not visible as he tries to 'calm things down.'",
+      "url": "https://www.espn.com/nfl/story/_/id/50320658/caddix-shoes-bears-caleb-williams-fines",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740451_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T11:50:22Z",
+      "headline": "Seven things Solak thinks for NFL Week 9: Bucs atop NFC South? RB trades coming?",
+      "description": "Get ready for Week 9 with takes on the Bucs' division chances, why RBs could dominate the trade deadline and which teams should at least ask about Justin Herbert.",
+      "url": "https://www.espn.com/nfl/story/_/id/50355612/week-9-seven-things-solak-thinks-trades-standings",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740368_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T11:28:43Z",
+      "headline": "How the NFL trade deadline went from quiet to exciting over the past decade",
+      "description": "There were eight trades on deadline day in 2025, a long way from the zero we saw in 2015. We asked execs and agents what set off this big NFL trade deadline boom.",
+      "url": "https://www.espn.com/nfl/story/_/id/50349677/trade-deadline-rise-quiet-chaotic-more-deals-2026",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740336_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T11:25:47Z",
+      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 9, plus best in-season trades",
+      "description": "How does every NFL team stack up heading into Week 9? We made our 1-32 list and picked the best trade deadline acquisitions of all time.",
+      "url": "https://www.espn.com/nfl/story/_/id/50359434/nfl-power-rankings-week-9-teams-best-season-trades-deadline",
+      "image": "https://a.espncdn.com/photo/2026/1102/nfl_power_rankings_608x342.png"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T14:06:14Z",
+      "headline": "Bears' Caleb Williams dims cleat controversy with all-black custom pair",
+      "description": "Caleb Williams wore all-black Caddix cleats after being fined by the NFL for wearing cleats with an \"unauthorized logo\" in weeks 6 and 7.",
+      "url": "https://www.espn.com/nfl/story/_/id/50367609/chicago-bears-williams-dims-controversy-surrounding-cleats-all-black-custom-pair",
+      "image": "https://a.espncdn.com/photo/2026/1029/r1738238_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T11:00:10Z",
+      "headline": "John Harbaugh pushing all the right buttons for Giants",
+      "description": "The coach's culture of accountability and expectations has New York (4-2-1) in first place in the NFC East.",
+      "url": "https://www.espn.com/nfl/story/_/id/50309394/john-harbaugh-new-york-giants-pushing-right-buttons",
+      "image": "https://a.espncdn.com/photo/2026/1028/r1737586_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T11:00:10Z",
+      "headline": "Drake Maye digs the long ball: Patriots QB's success on deep passes keying surge",
+      "description": "After struggling on deep passes early, Maye has been one of the best in the league at producing chunk plays in the pass game over the past few weeks.",
+      "url": "https://www.espn.com/nfl/story/_/id/50358866/patriots-drake-maye-deep-passes-20-plus-yards-turnaround",
+      "image": "https://a.espncdn.com/photo/2026/1102/r1740172_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T11:00:01Z",
+      "headline": "Trio brought in to replace All-Pro DE has shined for Bengals",
+      "description": "Hendrickson has two sacks in Baltimore; Lawrence, Allen and Mafe have produced 13.5 in Cincinnati.",
+      "url": "https://www.espn.com/nfl/story/_/id/50361464/cincinnati-bengals-hendrickson",
+      "image": "https://a.espncdn.com/photo/2026/1102/r1740256_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T11:26:43Z",
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T11:00:03Z",
+      "headline": "Why Colts are right to consider trading Jonathan Taylor",
+      "description": "As the Colts begin their rebuild, they need draft picks, and Taylor is their most valuable asset.",
+      "url": "https://www.espn.com/nfl/story/_/id/50360528/colts-jonathan-taylor-trade-deadline",
+      "image": "https://a.espncdn.com/photo/2026/1102/r1740175_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T11:00:03Z",
+      "headline": "Five things Saints must fix entering Week 9 vs. Browns",
+      "description": "Protecting QB Tyler Shough, getting the run game going and igniting slow starts are among areas coach Kellen Moore is fixated on repairing.",
+      "url": "https://www.espn.com/nfl/story/_/id/50362526/5-things-new-orleans-saints-fix-entering-week-9-browns",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740299_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T11:26:58Z",
+      "headline": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
+      "description": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+      "image": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T14:07:17Z",
+      "headline": "Jeffery Simmons stymies QB Sam Darnold, Seahawks in Bears debut",
+      "description": "New Bears DT Jeffery Simmons had a sack, six tackles and deflected a pass as Chicago won its third straight Monday, and he also earned a game ball.",
+      "url": "https://www.espn.com/nfl/story/_/id/50367539/dt-jeffery-simons-immediate-boon-chicago-bears-defense-win-seattle-seahawks",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740381_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T10:40:25Z",
+      "headline": "Foyesade Oluokun continues to quietly excel as Jaguars return to winning ways",
+      "description": "Foyesade Oluokun may not be one of the most talked about defensive players in the NFL, but his performances this season have been up there with the most consistent.",
+      "url": "https://www.espn.com/espn/story/_/id/50367528/foyesade-oluokun-continues-quietly-excel-jaguars-return-winning-ways",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720143_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T05:40:17Z",
+      "headline": "Jeffery Simmons, Bears' defense handle Seahawks",
+      "description": "Caleb Williams and Jeffery Simmons had the Bears controlling both sides of the ball on MNF.",
+      "url": "https://www.espn.com/nfl/story/_/id/50364209/chicago-bears-seattle-seahawks-mnf-jeffery-simmons-sam-darnold",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740359_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T05:55:55Z",
+      "headline": "Caleb Williams and Jeffery Simmons lead the Bears past the Seahawks 34-17",
+      "description": "\u2014 Jeffery Simmons ran out of the tunnel for the first time since joining the Chicago Bears with a new uniform, orange sleeves and a wide smile as he welcomed the move that put right into contention...",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873036",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873036.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T13:53:10Z",
+      "headline": "Bears outduel Seahawks 34-17 on MNF",
+      "description": "Bears outduel Seahawks 34-17 on MNF",
+      "url": "https://www.espn.com/video/clip/_/id/50365054/bears-outduel-seahawks-34-17-mnf",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/4828be659815489f9e252ea180fe9d9f1406/4828be659815489f9e252ea180fe9d9f1406.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T13:54:14Z",
+      "headline": "If Brian Urlacher could play another snap he'd like to sack Peyton Manning",
+      "description": "If Brian Urlacher could play another snap he'd like to sack Peyton Manning",
+      "url": "https://www.espn.com/video/clip/_/id/50364315/if-brian-urlacher-play-another-snap-sack-peyton-manning",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_221901485_3723139/ss_20261102_221901485_3723139.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T01:22:16Z",
       "headline": "Ravens QB Joe Fagnano (ankle) has chance to play Thursday, per Jesse Minter",
       "description": "Ravens quarterback Joe Fagnano is dealing with an ankle injury but has \"a chance\" to play Thursday night, coach Jesse Minter said.",
       "url": "https://www.espn.com/nfl/story/_/id/50362530/ravens-qb-joe-fagnano-ankle-chance-play-thursday",
       "image": "https://a.espncdn.com/photo/2026/1103/r1740289_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-03T00:36:29Z",
       "headline": "The evolution of Seahawks All-Pro CB Devon Witherspoon",
       "description": "The evolution of Seahawks All-Pro CB Devon Witherspoon",
@@ -20,7 +188,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_193033240_3722526/ss_20261102_193033240_3722526.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-03T00:14:23Z",
       "headline": "Falcons' James Pearce back from suspension, expected to play",
       "description": "Pearce served an eight-game league suspension stemming from a February domestic violence arrest.",
@@ -28,7 +196,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740274_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T23:57:49Z",
       "headline": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
       "description": "Here's a look at the best-dressed players around the NFL in Week 8.",
@@ -36,7 +204,7 @@
       "image": "https://a.espncdn.com/photo/2026/1101/r1739714_2_608x342_16-9.png"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-03T00:20:19Z",
       "headline": "Harbaugh reached out on Simmons trade, says Giants 'open for any call'",
       "description": "John Harbaugh acknowledged calling Titans owner Amy Adams Strunk about the since-traded Jeffery Simmons with New York open for business ahead of the deadline.",
@@ -44,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/0909/r1713902_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-03T00:11:29Z",
       "headline": "Myles Garrett will return to practice this week for Los Angeles Rams",
       "description": "Los Angeles Rams star pass rusher Myles Garrett, who has been on injured reserve since having arthroscopic knee surgery in mid-September, will return to practice this week, coach Sean McVay told reporters Monday.",
@@ -52,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740253_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T23:28:44Z",
       "headline": "Cardinals' Mike LaFleur: Jeremiyah Love's injury to 'new portion' of his ankle",
       "description": "Cardinals rookie running back Jeremiyah Love suffered a new ankle injury in Sunday's win over the Cowboys, coach Mike LaFleur said.",
@@ -60,15 +228,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740255_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T22:32:24Z",
-      "headline": "Fantasy buzz: Minshew takes over in AZ; Charbonnet, Price return; Jackson on IR",
-      "description": "A closer look at the impact of Gardner Minshew II taking over as the Cardinals starting quarterback.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740232_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T21:49:39Z",
       "headline": "NFL depth charts for all 32 teams for 2026 season",
       "description": "Here are the latest NFL depth charts for all 32 teams.",
@@ -76,7 +236,7 @@
       "image": "https://a.espncdn.com/photo/2023/0413/r1158435_2_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-03T00:15:03Z",
       "headline": "Nick Sirianni not making changes at OC or QB despite Eagles' losing streak",
       "description": "Eagles coach Nick Sirianni said Monday that he is not making a change at offensive coordinator or quarterback amid his team's six-game losing streak.",
@@ -84,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740218_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T21:47:45Z",
       "headline": "Dolphins' blown lead another lesson in a season full of them",
       "description": "The Dolphins are hoping to learn another lesson from the Patiots: It takes from kickoff until the final whistle.",
@@ -92,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740204_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T23:48:09Z",
       "headline": "Cardinals name Gardner Minshew as starter, move Jacoby Brissett to QB3",
       "description": "The Cardinals named Gardner Minshew as the team's new starting QB while moving Jacoby Brissett below rookie Carson Beck on the depth chart.",
@@ -100,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2026/1101/r1739737_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T21:49:48Z",
       "headline": "Vikings uncertain of QB Kyler Murray's status vs. Bills due to sore hamstring",
       "description": "Vikings QB Kyler Murray's status for the Week 9 game against the Bills is uncertain due to a sore hamstring.",
@@ -108,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740210_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T22:45:21Z",
       "headline": "Packers expect Parsons at practice 'sometime this week'",
       "description": "Packers defensive end Micah Parsons will practice this week for the first time since he tore the ACL and meniscus in his left knee Dec. 14 of last year.",
@@ -116,7 +276,7 @@
       "image": "https://a.espncdn.com/photo/2026/1012/r1729784_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T22:24:14Z",
       "headline": "Chiefs' Reid says he didn't bench OL Suamataia as punishment",
       "description": "Chiefs coach Andy Reid explained Monday that his decision to bench left guard Kingsley Suamataia for Sunday's game against the Denver Broncos was not punishment toward the three-year player.",
@@ -124,15 +284,15 @@
       "image": "https://a.espncdn.com/photo/2024/0820/r1375593_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T21:08:52Z",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T01:00:41Z",
       "headline": "Packers sticking with RB Josh Jacobs despite latest abuse allegations",
       "description": "Packers coach Matt LaFleur says the team is sticking with RB Josh Jacobs despite new allegations of abuse levied by multiple women in addition to a May incident that led to his arrest.",
       "url": "https://www.espn.com/nfl/story/_/id/50360755/packers-sticking-rb-jacobs-latest-abuse-allegations",
       "image": "https://a.espncdn.com/photo/2026/1101/r1739799_576x324_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T21:32:32Z",
       "headline": "Brandon Aiyuk hires Drew Rosenhaus as agent, eyes return to NFL",
       "description": "Brandon Aiyuk has hired agent Drew Rosenhaus, who told ESPN's Adam Schefter that he is \"working on getting him back to work and playing again in the NFL.\"",
@@ -140,7 +300,7 @@
       "image": "https://a.espncdn.com/photo/2024/0829/r1379504_2_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T20:29:55Z",
       "headline": "Lions LB Jack Campbell still in hospital, but signs positive",
       "description": "Lions linebacker Jack Campbell is still in the hospital for evaluation and monitoring of a neck injury, but the team said in a statement \"preliminary indications are positive.\"",
@@ -148,7 +308,15 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740193_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
+      "published": "2026-11-03T12:02:03Z",
+      "headline": "C.J. Stroud turned down a big contract. A bigger one awaits",
+      "description": "Sources say C.J. Stroud turned down a deal similar to Trevor Lawrence's. He's in line for a bigger one.",
+      "url": "https://www.espn.com/nfl/story/_/id/50360444/cj-stroud-texans-contract",
+      "image": "https://a.espncdn.com/photo/2026/1101/r1739768_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T21:34:31Z",
       "headline": "Shane Steichen sticking with Daniel Jones as Colts' QB1 for Week 9 vs. Cowboys",
       "description": "Daniel Jones will remain the Colts' starting quarterback for Sunday's game against the Cowboys.",
@@ -156,7 +324,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740159_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T19:31:11Z",
       "headline": "Record-setting deal? Trade? A look at Lamar Jackson's cloudy future with Ravens",
       "description": "It's possible that Jackson's final snap with the Ravens ended with injury Sunday night.",
@@ -164,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740144_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T19:59:43Z",
       "headline": "Bengals defensive end Cashius Howell out indefinitely after wrist surgery",
       "description": "Bengals defensive end Cashius Howell will be out indefinitely after having surgery to repair his right wrist, which he injured in Cincinnati's win against the Titans on Sunday.",
@@ -172,7 +340,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740153_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T21:59:07Z",
       "headline": "Kansas City Chiefs' late collapse vs. Denver Broncos opens up AFC West race",
       "description": "Prior to Sunday's game, the Chiefs were 80-2 when leading by 10 or more in the fourth quarter under Patrick Mahomes.",
@@ -180,7 +348,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740138_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T18:57:47Z",
       "headline": "Schefter to McAfee: I don't see Kirk Cousins as a trade option",
       "description": "Schefter to McAfee: I don't see Kirk Cousins as a trade option",
@@ -188,7 +356,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_134704266_3722120/ss_20261102_134704266_3722120.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T18:23:04Z",
       "headline": "Is Chase Brown a buy-low candidate in fantasy?",
       "description": "Is Chase Brown a buy-low candidate in fantasy?",
@@ -196,7 +364,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_130843543_3722095802/ss_20261102_130843543_3722095802.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T18:21:17Z",
       "headline": "Mike Clay: It's hard to trust Dallas Goedert in fantasy",
       "description": "Mike Clay: It's hard to trust Dallas Goedert in fantasy",
@@ -204,7 +372,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_125322726_3722079799/ss_20261102_125322726_3722079799.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T17:50:34Z",
       "headline": "2026 NFL trade deadline updates: Jeffery Simmons, Quenton Nelson on the move",
       "description": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including a blockbuster sending Jeffery Simmons to Chicago.",
@@ -212,7 +380,7 @@
       "image": "https://a.espncdn.com/photo/2025/1215/r1589666_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T18:24:01Z",
       "headline": "Source: Buccaneers pass rusher Yaya Diaby has Grade 2 MCL sprain",
       "description": "Buccaneers outside linebacker Yaya Diaby suffered a Grade 2 MCL sprain in Sunday's 16-0 victory over the Falcons, a source told NFL Network's Ian Rapoport.",
@@ -220,7 +388,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740112_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T17:09:06Z",
       "headline": "Stephen A. proposes a Steelers reunion with George Pickens",
       "description": "Stephen A. proposes a Steelers reunion with George Pickens",
@@ -228,180 +396,12 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_120148528_3722034/ss_20261102_120148528_3722034.jpg"
     },
     {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
+      "captured_at": "2026-11-03T14:12:32.823587+00:00",
       "published": "2026-11-02T17:39:03Z",
       "headline": "Fantasy football free agent pickups: Geno Smith, Mike Washington Jr. top options",
       "description": "The top available players worth adding to your roster or streaming in standard or deeper leagues",
       "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50358651/fantasy-football-waivers-free-agent-pickups-nfl-week-9",
       "image": "https://a.espncdn.com/photo/2026/1102/r1740088_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T16:37:30Z",
-      "headline": "Fantasy football 10-team Knockout league rankings: The 140 players to draft",
-      "description": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T16:53:14Z",
-      "headline": "Jets' Aaron Glenn says he's not worried about job security amid tough start",
-      "description": "Jets coach Aaron Glenn insisted Monday that he's not concerned about his job security amid a three-game losing streak.",
-      "url": "https://www.espn.com/nfl/story/_/id/50359102/jets-aaron-glenn-says-not-worried-job-security",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740087_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T16:24:52Z",
-      "headline": "Stephen A.: Broncos proved they are a team to be reckoned with",
-      "description": "Stephen A.: Broncos proved they are a team to be reckoned with",
-      "url": "https://www.espn.com/video/clip/_/id/50359063/broncos-proved-team-reckoned-with",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_111704701_3722006681/ss_20261102_111704701_3722006681.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T16:29:30Z",
-      "headline": "NFL Week 9 betting odds: Lines and totals for every game",
-      "description": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740078_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T21:39:11Z",
-      "headline": "Early bets for Week 9: Bengals stay hot? Another Cowboys shootout?",
-      "description": "Which Week 9 lines offered immediate value once odds came out? Here are the early bets we like.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50358387/nfl-week-9-betting-odds-props-early-picks-predictions",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740066_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T16:06:43Z",
-      "headline": "Why Stephen A. doesn't think Lamar Jackson is done being a Raven",
-      "description": "Why Stephen A. doesn't think Lamar Jackson is done being a Raven",
-      "url": "https://www.espn.com/video/clip/_/id/50358868/why-stephen-think-lamar-jackson-done-being-raven",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_104615101_3721987654/ss_20261102_104615101_3721987654.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T15:32:35Z",
-      "headline": "Stephen A.: 'Cowboys are trash'",
-      "description": "Stephen A.: 'Cowboys are trash'",
-      "url": "https://www.espn.com/video/clip/_/id/50358738/cowboys-trash",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_102752368_3721972/ss_20261102_102752368_3721972.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T23:10:59Z",
-      "headline": "Jaguars DT DaVon Hamilton (quad), S Eric Murray (elbow) out for season",
-      "description": "Jaguars nose tackle DaVon Hamilton and safety Eric Murray both suffered season-ending injuries during Sunday's win over the Colts, coach Liam Coen announced Monday.",
-      "url": "https://www.espn.com/nfl/story/_/id/50358564/sources-jaguars-dt-hamilton-torn-quad-likely-season",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740065_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T15:10:43Z",
-      "headline": "Cowboys trust their talent but failed again in 'unacceptable' loss",
-      "description": "Despite an embarrassing home loss to Arizona, the Cowboys remain in the NFC East hunt, but they're \"tired of learning this lesson.\"",
-      "url": "https://www.espn.com/nfl/story/_/id/50357980/dallas-cowboys-loss-cardinals-nfc-east",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740044_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T17:17:04Z",
-      "headline": "Saints fire run-game coordinator after Paris flop",
-      "description": "The Saints have fired run game coordinator T.J. Paganetti. The move comes with New Orleans on its bye week after a loss that saw the team rush for 18 yards on 17 attempts.",
-      "url": "https://www.espn.com/nfl/story/_/id/50358473/sources-saints-fire-run-game-coordinator-paris-flop",
-      "image": "https://a.espncdn.com/photo/2016/0210/r53356_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T23:20:29Z",
-      "headline": "How to bet Bears-Seahawks: Game pick and four props to play",
-      "description": "Odds and analysis to help you bet the Chicago Bears-Seattle Seahawks game on Monday night.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50298047/nfl-week-8-odds-betting-tips-bears-seahawks-preview",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1737027_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T14:40:43Z",
-      "headline": "Panthers bring back DeAngelo Hall as CB coach in 1st move since Evero firing",
-      "description": "The Panthers have added DeAngelo Hall to their coaching staff after last week's firing of defensive coordinator Ejiro Evero.",
-      "url": "https://www.espn.com/nfl/story/_/id/50358217/panthers-bring-back-deangelo-hall-cornerbacks-coach",
-      "image": "https://a.espncdn.com/photo/2016/1110/r150773_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T16:44:37Z",
-      "headline": "Sizing up wild NFL Week 8: Lamar Jackson's injury, Bucs' win, Cowboys' collapse",
-      "description": "Lamar Jackson's return lasted one snap, the Cardinals upset the Cowboys with their QB2 and RB2, and the Buccaneers won by 16 despite 0 passing yards.",
-      "url": "https://www.espn.com/nfl/story/_/id/50349483/week-8-barnwell-lamar-bengals-cowboys-buccaneers-chiefs",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1739888_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T13:41:49Z",
-      "headline": "Domonique Foxworth wonders whether if Lamar Jackson ever plays for the Ravens again",
-      "description": "Domonique Foxworth wonders whether if Lamar Jackson ever plays for the Ravens again",
-      "url": "https://www.espn.com/video/clip/_/id/50358018/domonique-foxworth-wonders-whether-lamar-jackson-ever-plays-ravens-again",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_083606751_3721913/ss_20261102_083606751_3721913.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T13:48:39Z",
-      "headline": "Rex calls out Cowboys for 'all-time choke job' loss to the Cardnials",
-      "description": "Rex calls out Cowboys for 'all-time choke job' loss to the Cardnials",
-      "url": "https://www.espn.com/video/clip/_/id/50358007/rex-calls-cowboys-all-choke-job-loss-cardnials",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_083145774_3721911517/ss_20261102_083145774_3721911517.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T17:17:56Z",
-      "headline": "A child playcaller? The Bears' Ben Johnson was born for this",
-      "description": "Johnson was in middle school when he first started diagramming plays, and we have one of the originals.",
-      "url": "https://www.espn.com/nfl/story/_/id/50341080/bears-ben-johnson-playcalling-caleb-williams",
-      "image": "https://a.espncdn.com/photo/2026/1101/nfl_inside_ben_johnson's_path_to_becoming_one_of_the_best_playcallers_16x9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T13:32:56Z",
-      "headline": "Can Seahawks' Rashid Shaheed become a complementary WR to Jaxon Smith-Njigba?",
-      "description": "Shaheed was a big part of the Seahawks' Super Bowl run as a returner and earned a new three-year contract. But he has been quiet as a receiver since his trade to Seattle.",
-      "url": "https://www.espn.com/nfl/story/_/id/50352650/seattle-seahawks-trade-rashid-shadeed-jaxon-smith-njigba",
-      "image": "https://a.espncdn.com/photo/2026/1101/r1739804_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T11:00:02Z",
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T11:00:00Z",
-      "headline": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
-      "description": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-      "image": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T07:21:51Z",
-      "headline": "Jayden Daniels, Commanders 'keep fighting through adversity,' improve to 2-4-1",
-      "description": "After falling behind 10-0 in the first half, quarterback Jayden Daniels led the Washington Commanders on a rousing rally, cruising to a 27-10 win over the Philadelphia Eagles at Northwest Stadium, an effort in which he threw for 217 yards and a touchdown.",
-      "url": "https://www.espn.com/nfl/story/_/id/50356260/daniels-fuels-commanders-comeback-27-10-win-eagles",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1739969_600x600_1-1.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T00:57:00.646332+00:00",
-      "published": "2026-11-02T15:37:15Z",
-      "headline": "Saquon Barkley has assurances he won't be traded, wants to help Eagles 'fix it'",
-      "description": "Speaking after Sunday night's 27-10 loss to the Washington Commanders, Philadelphia Eagles running back Saquon Barkley told reporters he has received assurances from the front office that he will remain with the club beyond the Nov. 10 trade deadline.",
-      "url": "https://www.espn.com/nfl/story/_/id/50356092/saquon-barkley-assurances-eagles-dealt",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1739966_600x600_1-1.jpg"
     }
   ]
 }

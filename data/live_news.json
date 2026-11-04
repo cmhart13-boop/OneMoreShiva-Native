@@ -1,10 +1,26 @@
 {
-  "captured_at": "2026-11-03T23:22:11.452789+00:00",
+  "captured_at": "2026-11-04T06:20:10.508534+00:00",
   "source_ok": true,
   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=100",
   "articles": [
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
+      "published": "2026-11-04T02:41:11Z",
+      "headline": "Panthers defenders: We're in 'great hands' after DC switch-up",
+      "description": "Promoted from defensive line coach to coordinator, Todd Wash already has the support of the unit's leaders.",
+      "url": "https://www.espn.com/nfl/story/_/id/50374068/carolina-panthers-defense-good-hands-coordinator-switch",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740822_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
+      "published": "2026-11-04T02:02:02Z",
+      "headline": "Ex-NFL QB Russell Wilson interviews with NC State for head coaching job",
+      "description": "Russell Wilson interviewed for the head coaching job at NC State on Tuesday, joining Philip Rivers as prominent candidates, sources told ESPN.",
+      "url": "https://www.espn.com/college-football/story/_/id/50373951/russell-wilson-interviews-nc-state-head-coaching-job",
+      "image": "https://a.espncdn.com/photo/2025/1021/r1563708_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T22:13:50Z",
       "headline": "Josh Allen-produced short doc on Buffalo storm gets release date, trailer",
       "description": "The short documentary on the once-in-a-generation Buffalo blizzard will be released on Nov. 24.",
@@ -12,7 +28,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740741_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T22:00:54Z",
       "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
       "description": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
@@ -20,7 +36,7 @@
       "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T21:53:13Z",
       "headline": "NFL Week 9 betting odds: Lines and totals for every game",
       "description": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
@@ -28,7 +44,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740078_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T22:45:59Z",
       "headline": "Bills release C.J. Gardner-Johnson after one-game spitting suspension",
       "description": "The Bills have released safety C.J. Gardner-Johnson, the team announced Tuesday.",
@@ -36,7 +52,7 @@
       "image": "https://a.espncdn.com/photo/2026/1018/r1732647_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T22:52:56Z",
       "headline": "Saints release veteran kicker Daniel Carlson after he posted 2nd-worst FG% in NFL",
       "description": "Veteran kicker Daniel Carlson, whose 66.7% accuracy on field goals was tied for second worst in the NFL this season, was released by the Saints on Tuesday.",
@@ -44,7 +60,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740295_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T22:50:15Z",
       "headline": "Giants, CB Greg Newsome II agree to 3-year, $46M extension",
       "description": "The Giants have reached agreement with cornerback Greg Newsome II on a three-year, $46 million extension, his agents told ESPN's Adam Schefter.",
@@ -52,7 +68,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740719_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T21:40:02Z",
       "headline": "Why the Giants are a good defense to pick up in Week 9",
       "description": "Why the Giants are a good defense to pick up in Week 9",
@@ -60,7 +76,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_163421583_3723976/ss_20261103_163421583_3723976.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T22:51:54Z",
       "headline": "Why Cockcroft is targeting Granderson, Young in IDP leagues",
       "description": "Why Cockcroft is targeting Granderson, Young in IDP leagues",
@@ -68,7 +84,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_163153444_3723975/ss_20261103_163153444_3723975.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T21:37:44Z",
       "headline": "Tristan H. Cockcroft: Don't sleep on Malik Washington in Week 9",
       "description": "Tristan H. Cockcroft: Don't sleep on Malik Washington in Week 9",
@@ -76,7 +92,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_162616616_3723968995/ss_20261103_162616616_3723968995.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T22:23:25Z",
       "headline": "Source: Colts, Adetomiwa Adebawore agree to 2-year, $35M extension",
       "description": "The Colts and defensive tackle Adetomiwa Adebawore have agreed to terms on a two-year, $35 million extension, a source told NFL Network's Mike Garafolo.",
@@ -84,7 +100,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740698_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T21:19:53Z",
       "headline": "Joe Fagnano to put his best foot forward in first NFL start",
       "description": "Joe Fagnano to put his best foot forward in first NFL start",
@@ -92,15 +108,15 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_161633159_3723959/ss_20261103_161633159_3723959.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
-      "published": "2026-11-03T23:01:31Z",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
+      "published": "2026-11-03T23:33:00Z",
       "headline": "Rookie Joe Fagnano to start Thursday night vs. Jaguars, Jesse Minter says",
       "description": "Ravens rookie quarterback Joe Fagnano will start Thursday night's game against the Jaguars, coach Jesse Minter announced Tuesday.",
       "url": "https://www.espn.com/nfl/story/_/id/50371730/rookie-joe-fagnano-start-thursday-night-vs-jaguars",
       "image": "https://a.espncdn.com/photo/2026/1103/r1740681_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T20:35:46Z",
       "headline": "Strength of schedule (SOS) cheat sheet: Every team's year-to-date and rest-of-season ratings",
       "description": "Ranking each team's remaining schedule and how it might impact every position's fantasy performance.",
@@ -108,7 +124,7 @@
       "image": "https://a.espncdn.com/photo/2026/1006/r1726834_576x324_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T20:09:54Z",
       "headline": "Fantasy football 2026 defensive depth charts",
       "description": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
@@ -116,7 +132,7 @@
       "image": "https://a.espncdn.com/photo/2025/0102/r1433853_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T20:08:16Z",
       "headline": "Fantasy football 2026 offensive depth charts",
       "description": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
@@ -124,7 +140,7 @@
       "image": "https://a.espncdn.com/photo/2026/0121/r1603677_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T20:00:55Z",
       "headline": "2026 expected fantasy points against (xFPA) by position",
       "description": "Measuring the best defenses against specific positions by using expected points vs. actual fantasy production.",
@@ -132,7 +148,7 @@
       "image": ""
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T19:56:28Z",
       "headline": "Expected fantasy points (xFP): 2026 leaderboard for TEs",
       "description": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
@@ -140,7 +156,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716394_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T19:55:13Z",
       "headline": "Expected fantasy points (xFP): 2026 leaderboard for WRs",
       "description": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
@@ -148,7 +164,7 @@
       "image": "https://a.espncdn.com/photo/2026/0910/r1714178_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T19:54:41Z",
       "headline": "Expected fantasy points (xFP): 2026 leaderboard for RBs",
       "description": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
@@ -156,7 +172,7 @@
       "image": "https://a.espncdn.com/photo/2026/0914/r1716699_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T19:51:56Z",
       "headline": "Expected fantasy points (xFP): 2026 leaderboard for QBs",
       "description": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
@@ -164,7 +180,7 @@
       "image": "https://a.espncdn.com/photo/2026/1026/r1736699_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T19:51:03Z",
       "headline": "NFL expected touchdown (xTD) leaderboard for 2026",
       "description": "Opportunity-adjusted TD leaders tell you not only who's scoring but who's getting the opportunities to score.",
@@ -172,7 +188,7 @@
       "image": "https://a.espncdn.com/photo/2026/0913/r1716034_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T19:55:24Z",
       "headline": "Who are offensive rookie of the year front-runners after Love's injury?",
       "description": "Who are offensive rookie of the year front-runners after Love's injury?",
@@ -180,7 +196,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_144446337_3723891/ss_20261103_144446337_3723891.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T19:43:31Z",
       "headline": "Fantasy football rankings Week 9: PPR and superflex",
       "description": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
@@ -188,7 +204,7 @@
       "image": "https://a.espncdn.com/photo/2026/1006/r1727003_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T19:42:12Z",
       "headline": "Fantasy football flex and superflex rankings for Week 9",
       "description": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
@@ -196,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/0902/r1710593_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T21:17:22Z",
       "headline": "Cardinals RB Jeremiyah Love placed on IR, out 4-5 weeks with high ankle sprain",
       "description": "Cardinals running back Jeremiyah Love was placed on injured reserve because of a high ankle sprain that will sideline the rookie for four to five weeks.",
@@ -204,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2026/1102/r1740255_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T19:06:35Z",
       "headline": "Why trade deadline rumors are swirling around Jaguars receiver Brian Thomas Jr.",
       "description": "The 2024 first-round pick is sliding down the depth chart. What happened, and could the Jaguars trade him before the Nov. 10 deadline?",
@@ -212,7 +228,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740392_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T18:13:34Z",
       "headline": "Knockout league pickups: Bijan Robinson, Parker Washington lead players to add",
       "description": "Listing the most common players on eliminated teams and advising on which free agents to pursue ... and for how much.",
@@ -220,7 +236,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740579_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T18:24:20Z",
       "headline": "Bengals vs. Falcons in Spain. Bills vs. Vikings on Monday Night. Don't miss it on ESPN",
       "description": "Bengals vs. Falcons in Spain. Bills vs. Vikings on Monday Night. Don't miss it on ESPN",
@@ -228,7 +244,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/dm_261103_MNF_Week_9_Combo_30/dm_261103_MNF_Week_9_Combo_30.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T17:35:03Z",
       "headline": "Fantasy football consistency ratings: 2024 to 2026",
       "description": "The consistency ratings weigh both how consistent and how start-worthy players have been from 2024 to 2026.",
@@ -236,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720966_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T21:42:34Z",
       "headline": "Don't miss Bills vs. Vikings on MNF",
       "description": "Don't miss Bills vs. Vikings on MNF",
@@ -244,7 +260,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/dm_261103_BILLS_VIKINGS_PROMO739/dm_261103_BILLS_VIKINGS_PROMO739.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T17:33:56Z",
       "headline": "Fantasy football consistency ratings for 2026",
       "description": "The consistency ratings weigh how consistent, as well as how start-worthy, players have been in ESPN fantasy football leagues in 2026.",
@@ -252,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2026/1006/r1727003_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T17:03:26Z",
       "headline": "Fantasy football D/ST outlook for Weeks 9-12: Fire up Texans, and how 'bout them Cowboys?",
       "description": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
@@ -260,7 +276,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740531_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T16:39:35Z",
       "headline": "It's time for a Week 8 fantasy football recap",
       "description": "It's time for a Week 8 fantasy football recap",
@@ -268,7 +284,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/dm_261103_fantasy_week8recap/dm_261103_fantasy_week8recap.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T16:36:40Z",
       "headline": "Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status",
       "description": "Need a quick free agent pickup -- or roster overhaul -- after Week 8? These rankings are designed to help.",
@@ -276,7 +292,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740539_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T17:14:21Z",
       "headline": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
       "description": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
@@ -284,7 +300,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740552_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T18:04:44Z",
       "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
       "description": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
@@ -292,7 +308,7 @@
       "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T16:51:22Z",
       "headline": "Fantasy football: Live Week 9 free agent pickups advice with ESPN expert",
       "description": "ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
@@ -300,7 +316,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740553_1296x518_5-2.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T16:09:49Z",
       "headline": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
       "description": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
@@ -308,7 +324,7 @@
       "image": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T16:02:31Z",
       "headline": "Is Adonai Mitchell a good fantasy option vs. Chiefs?",
       "description": "Is Adonai Mitchell a good fantasy option vs. Chiefs?",
@@ -316,7 +332,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_105219481_3723739/ss_20261103_105219481_3723739.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T15:50:13Z",
       "headline": "Stephen A.: Right now, the Bears look like the NFL's best team",
       "description": "Stephen A.: Right now, the Bears look like the NFL's best team",
@@ -324,7 +340,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_104116224_3723732/ss_20261103_104116224_3723732.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T16:04:20Z",
       "headline": "Why Dopp is encouraging fantasy managers to pick up Jonah Coleman",
       "description": "Why Dopp is encouraging fantasy managers to pick up Jonah Coleman",
@@ -332,7 +348,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_103835089_3723731/ss_20261103_103835089_3723731.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T15:56:04Z",
       "headline": "Clay: Malik Willis is the best streaming QB in Week 9",
       "description": "Clay: Malik Willis is the best streaming QB in Week 9",
@@ -340,7 +356,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_103713823_3723729/ss_20261103_103713823_3723729.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T16:19:00Z",
       "headline": "Are any of the Seahawks' RBs startable in fantasy football?",
       "description": "Are any of the Seahawks' RBs startable in fantasy football?",
@@ -348,7 +364,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_102227579_3723721/ss_20261103_102227579_3723721.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T15:23:09Z",
       "headline": "2026 NFL trade deadline updates: Jeffery Simmons, Quenton Nelson on the move",
       "description": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including a blockbuster sending Jeffery Simmons to Chicago.",
@@ -356,7 +372,7 @@
       "image": "https://a.espncdn.com/photo/2025/1215/r1589666_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T15:52:59Z",
       "headline": "Is Caleb Williams a lineup lock for fantasy managers?",
       "description": "Is Caleb Williams a lineup lock for fantasy managers?",
@@ -364,7 +380,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_101738649_3723720/ss_20261103_101738649_3723720.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T15:21:37Z",
       "headline": "Fantasy football rankings for Week 9: Wide receiver",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -372,7 +388,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T15:21:43Z",
       "headline": "Fantasy football rankings for Week 9: Running back",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -380,28 +396,12 @@
       "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
+      "captured_at": "2026-11-04T06:20:10.508534+00:00",
       "published": "2026-11-03T15:21:32Z",
       "headline": "Fantasy football rankings for Week 9: Tight end",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
       "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
       "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
-      "published": "2026-11-03T15:21:25Z",
-      "headline": "Fantasy football rankings for Week 9: D/ST",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1736992_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-03T23:22:11.452789+00:00",
-      "published": "2026-11-03T15:21:50Z",
-      "headline": "Fantasy football rankings for Week 9: Kicker",
-      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711066_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,10 +1,98 @@
 {
-  "captured_at": "2026-11-11T06:16:51.683242+00:00",
+  "captured_at": "2026-11-11T14:31:12.362207+00:00",
   "source_ok": true,
   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=100",
   "articles": [
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T14:30:07Z",
+      "headline": "Was it the right move for the Raiders to name Mendoza QB1 after Cousins trade?",
+      "description": "Was it the right move for the Raiders to name Mendoza QB1 after Cousins trade?",
+      "url": "https://www.espn.com/video/clip/_/id/50452689/was-right-move-raiders-name-mendoza-qb1-cousins-trade",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_091621528_3736635559/ss_20261111_091621528_3736635559.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T14:19:39Z",
+      "headline": "Christian Watson's Week 10 fantasy outlook",
+      "description": "Christian Watson's Week 10 fantasy outlook",
+      "url": "https://www.espn.com/video/clip/_/id/50452660/christian-watson-week-10-fantasy-outlook",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_091059547_3736632/ss_20261111_091059547_3736632.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T14:02:10Z",
+      "headline": "Chuba Hubbard's Week 10 fantasy outlook",
+      "description": "Chuba Hubbard's Week 10 fantasy outlook",
+      "url": "https://www.espn.com/video/clip/_/id/50452604/chuba-hubbard-week-10-fantasy-outlook",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_085520069_3736626/ss_20261111_085520069_3736626.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T12:22:53Z",
+      "headline": "Jacksonville Jaguars' Foyesade Oluokun leads the way again in Africa's Week 9 NFL exploits",
+      "description": "Foyesade Oluokun - a seasoned linebacker of Nigerian heritage - had yet another superb week in Week 9, starring for the Jacksonville Jaguars as they beat the Baltimore Ravens to go 6-2 for the NFL season.",
+      "url": "https://www.espn.com/espn/story/_/id/50452204/jacksonville-jaguars-foyesade-oluokun-leads-way-again-africa-week-9-nfl-exploits",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720143_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T11:41:04Z",
+      "headline": "Why protected picks aren't common in NFL trades",
+      "description": "It's common for NBA teams to protect picks they trade, but things are different in the NFL. Here's why.",
+      "url": "https://www.espn.com/nfl/story/_/id/50434740/nfl-trades-protected-draft-picks",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1744094_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T11:18:10Z",
+      "headline": "Questions on 2026 NFL trade deadline deals: Does Kirk Cousins lift the Vikings?",
+      "description": "Let's make sense of Kirk Cousins to the Vikings, Josh Downs to the Chiefs, the Jaguars getting aggressive, a wild Bengals comp-pick mixup and four teams' deadline silence.",
+      "url": "https://www.espn.com/nfl/story/_/id/50442897/2026-trade-deadline-barnwell-questions-cousins-downs",
+      "image": "https://a.espncdn.com/photo/2026/1110/nfl_trade_16x9.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T11:17:19Z",
+      "headline": "NFL Week 10 latest intel, buzz questions, fantasy tips, post-trade deadline news",
+      "description": "No deals for Jonathan Taylor, Daniel Jones or Brian Thomas Jr.? Vikings seeking QB answers with their Kirk Cousins trade? Here's the latest intel.",
+      "url": "https://www.espn.com/nfl/story/_/id/50442934/week-10-buzz-fantasy-predictions-graziano-fowler-2026-trades",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1744235_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T13:21:30Z",
+      "headline": "Cowboys rave about Quinnen Williams a year after trade deadline deal",
+      "description": "Voted a captain by his teammates, Williams is making a difference in Dallas on and off the field.",
+      "url": "https://www.espn.com/nfl/story/_/id/50445806/cowboys-quinnen-williams-trade-deadline",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1744228_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T13:25:44Z",
+      "headline": "The Philadelphia Eagles' 2026 trade haul is likely to age well over time",
+      "description": "Whether Philadelphia wants to go after its QB of the future or build up around Jalen Hurts, it has options.",
+      "url": "https://www.espn.com/nfl/story/_/id/50447827/philadelphia-eagles-trade-haul-2027-draft-picks",
+      "image": "https://a.espncdn.com/photo/2026/1111/r1744284_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T11:00:10Z",
+      "headline": "Big plays by Broncos defense in late-game situations keying Denver's 7-2 start",
+      "description": "The offense has gotten a lot of the credit for the Broncos' late-game heroics, but the defense's knack for big plays is just as important.",
+      "url": "https://www.espn.com/nfl/story/_/id/50443533/denver-broncos-defense-seals-wins-big-plays-2026-season",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1744041_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T12:54:01Z",
+      "headline": "Where does Cam Ward stand coming out of the bye?",
+      "description": "Ward has nine games left to convince the Titans he should be their QB when they open the new stadium in 2027.",
+      "url": "https://www.espn.com/nfl/story/_/id/50442969/titans-cam-ward-bye",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1744011_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-11T04:59:42Z",
       "headline": "Why Giants' trade attempts 'just didn't happen'",
       "description": "Jordan Raanan explains how steep asking prices for Jonathan Taylor and Bijan Robinson kept the Giants from making a move before the trade deadline.",
@@ -12,7 +100,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_giantstradedud/dm_261110_giantstradedud.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-11T02:17:21Z",
       "headline": "Patrick and Brittany Mahomes announce baby No. 4 on NFL trade deadline day",
       "description": "The couple shared the news on a busy trade deadline day that also brought receiver Josh Downs to Kansas City.",
@@ -20,15 +108,15 @@
       "image": "https://a.espncdn.com/photo/2026/1019/r1732784_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-11T01:45:03Z",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T14:30:32Z",
       "headline": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
       "description": "No. 1 pick Fernando Mendoza was officially named the Raiders' starting quarterback Tuesday after the team traded Kirk Cousins to the Vikings.",
       "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
       "image": "https://a.espncdn.com/photo/2026/1111/r1744278_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-11T01:06:12Z",
       "headline": "Get ready for Chargers vs. Ravens on Monday Night Football",
       "description": "Get ready for Chargers vs. Ravens on Monday Night Football",
@@ -36,7 +124,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_chargers_ravens/dm_261110_chargers_ravens.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T23:19:32Z",
       "headline": "What the Kirk Cousins trade means for the Vikings and the Raiders",
       "description": "We answered big questions surrounding the trade of quarterback Kirk Cousins from the Raiders to the Vikings.",
@@ -44,7 +132,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744100_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T23:17:29Z",
       "headline": "From 2-7 to 6-2: Josh Downs reacts to Chiefs trade with Vince Carter GIF",
       "description": "A moment from Vince Carter's retirement ceremony helped Downs sum up his feelings about joining Kansas City.",
@@ -52,7 +140,7 @@
       "image": "https://a.espncdn.com/photo/2026/1109/r1743374_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T23:05:02Z",
       "headline": "Fantasy football consistency ratings: 2024 to 2026",
       "description": "The consistency ratings weigh both how consistent and how start-worthy players have been from 2024 to 2026.",
@@ -60,7 +148,7 @@
       "image": "https://a.espncdn.com/photo/2026/0923/r1720966_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T23:01:20Z",
       "headline": "Fantasy football consistency ratings for 2026",
       "description": "The consistency ratings weigh how consistent, as well as how start-worthy, players have been in ESPN fantasy football leagues in 2026.",
@@ -68,7 +156,7 @@
       "image": "https://a.espncdn.com/photo/2026/1006/r1727003_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T23:27:48Z",
       "headline": "RB Jonathan Taylor, QB Daniel Jones remain with Colts as trade deadline passes",
       "description": "Colts RB Jonathan Taylor and QB Daniel Jones were the subject of trade overtures in recent days and weeks but were not traded before Tuesday's trade deadline.",
@@ -76,7 +164,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744232_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-11T02:53:07Z",
       "headline": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
       "description": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
@@ -84,7 +172,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744131_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-11T00:02:05Z",
       "headline": "Fantasy football free agent pickups: Mendoza, Douglas, Estime among top options",
       "description": "Eric Karabell lists the top available players in most leagues, including the No. 1 pick in the draft.",
@@ -92,7 +180,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744252_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-11T02:46:38Z",
       "headline": "2026 NFL trade deadline updates: Kirk Cousins, Josh Downs on the move",
       "description": "We're officially past the NFL trade deadline. We followed the action on 18 in-season deals, including six on Tuesday.",
@@ -100,7 +188,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744149_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T22:10:36Z",
       "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
       "description": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
@@ -108,7 +196,7 @@
       "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-11T00:27:35Z",
       "headline": "Giants' Nabers calls Fox analyst Olsen's body language critique a 'lie'",
       "description": "Giants wide receiver Malik Nabers said Tuesday he posted on social media after the game because he thought the critique from Fox play-by-play announcer Joe Davis and analyst Greg Olsen about his body language and being a bad teammate was a \"lie.\"",
@@ -116,7 +204,7 @@
       "image": "https://a.espncdn.com/photo/2026/1109/r1743447_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T22:03:59Z",
       "headline": "Fantasy football 2026 defensive depth charts",
       "description": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
@@ -124,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2025/0102/r1433853_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T22:02:40Z",
       "headline": "Fantasy football 2026 offensive depth charts",
       "description": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
@@ -132,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2026/0121/r1603677_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T23:07:30Z",
       "headline": "Falcons trade center Ryan Neuzil to Ravens for guard Andrew Vorhees, pick",
       "description": "The Ravens acquired Falcons starting center Ryan Neuzil in exchange for backup guard Andrew Vorhees and a conditional 2028 sixth-round pick.",
@@ -140,7 +228,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744211_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T21:54:11Z",
       "headline": "Fantasy buzz: Malik Willis placed on IR, are there any Dolphins you should start?",
       "description": "What does the Miami Dolphins' fantasy football outlook show with starting QB Malik Willis placed on IR?",
@@ -148,7 +236,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744196_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-11T04:05:03Z",
       "headline": "2026 NFL trade deadline winners, losers: Kirk Cousins, Josh Downs, Bengals, more",
       "description": "Which teams made the best -- and worst -- moves before the NFL trade deadline? We're making sense of all the action.",
@@ -156,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744160_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T23:38:23Z",
       "headline": "Rest-of-season rankings: Cousins, Jefferson, Mendoza biggest deadline winners",
       "description": "Need to make or assess a trade offer? With the NFL trade deadline passed, these rankings are designed to help.",
@@ -164,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744187_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T21:30:43Z",
       "headline": "NFL Week 10 betting odds: Lines and totals for every game",
       "description": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
@@ -172,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2026/1109/r1743451_2_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T21:31:22Z",
       "headline": "Gibbs, Allen, JSN and more Knockout league pickups for Week 10",
       "description": "As the number of teams shrink, the number of stars available in Knockout leagues grows. Here are the ones to get.",
@@ -180,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744016_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T21:55:18Z",
       "headline": "Fantasy impacts of the NFL trade deadline: Breaking down fantasy-relevant moves",
       "description": "NFL trade deadline day has come and gone, but we have the latest fantasy news and analysis for every key deal.",
@@ -188,7 +276,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744091_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T21:07:31Z",
       "headline": "Fantasy football flex and superflex rankings for Week 10",
       "description": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
@@ -196,15 +284,15 @@
       "image": "https://a.espncdn.com/photo/2026/1018/r1732405_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T22:33:26Z",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
+      "published": "2026-11-11T14:12:25Z",
       "headline": "Dolphins put QB Malik Willis on IR with groin injury",
       "description": "The Dolphins have put quarterback Malik Wills on injured reserve because of a groin injury. He's eligible to return in Week 14.",
       "url": "https://www.espn.com/nfl/story/_/id/50445819/dolphins-put-qb-malik-willis-ir-groin-injury",
       "image": "https://a.espncdn.com/photo/2026/1012/r1729869_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T21:17:26Z",
       "headline": "Orlovsky perplexed by the Colts not trading Jonathan Taylor",
       "description": "Orlovsky perplexed by the Colts not trading Jonathan Taylor",
@@ -212,7 +300,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_160335174_3735570/ss_20261110_160335174_3735570.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T21:01:18Z",
       "headline": "Mike Tannenbaum: Chiefs' trade for Josh Downs is a 'no-brainer'",
       "description": "Mike Tannenbaum: Chiefs' trade for Josh Downs is a 'no-brainer'",
@@ -220,7 +308,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_154759419_3735560950/ss_20261110_154759419_3735560950.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-11T02:42:31Z",
       "headline": "Chiefs snag needed help at WR, trade for Colts' Josh Downs",
       "description": "The Chiefs have obtained needed help at wide receiver, acquiring Josh Downs in a trade with the Colts.",
@@ -228,7 +316,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1743969_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T20:44:21Z",
       "headline": "Kimes, Tannenbaum surprised by Chargers trading Daiyan Henley",
       "description": "Kimes, Tannenbaum surprised by Chargers trading Daiyan Henley",
@@ -236,7 +324,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_153809865_3735545/ss_20261110_153809865_3735545.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T22:21:07Z",
       "headline": "Broncos land LB Daiyan Henley in trade with Chargers before deadline",
       "description": "The Broncos have acquired Daiyan Henley from the Chargers in a trade just before Tuesday's deadline.",
@@ -244,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2025/0904/r1541094_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T20:26:53Z",
       "headline": "Schefter explains how the Vikings-Cousins reunion came to be",
       "description": "Schefter explains how the Vikings-Cousins reunion came to be",
@@ -252,7 +340,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_152324738_3735523/ss_20261110_152324738_3735523.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T20:09:58Z",
       "headline": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
       "description": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
@@ -260,7 +348,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1743989_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T20:04:06Z",
       "headline": "Eisen fired up over Kirk Cousins' return to the Vikings",
       "description": "Eisen fired up over Kirk Cousins' return to the Vikings",
@@ -268,7 +356,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_150008026_3735493/ss_20261110_150008026_3735493.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T19:53:14Z",
       "headline": "McAfee & Co. react to Bills' trade for Amani Hooker",
       "description": "McAfee & Co. react to Bills' trade for Amani Hooker",
@@ -276,7 +364,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_144859206_3735478/ss_20261110_144859206_3735478.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T19:53:06Z",
       "headline": "Jeff Saturday: Kirk Cousins trade a 'great fit' for Vikings and Raiders",
       "description": "Jeff Saturday: Kirk Cousins trade a 'great fit' for Vikings and Raiders",
@@ -284,7 +372,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_144703134_3735476892/ss_20261110_144703134_3735476892.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T23:23:02Z",
       "headline": "Bills fill major need at safety, trade for Titans' Amani Hooker",
       "description": "The Bills traded for Titans safety Amani Hooker, giving up a second-round pick in exchange for Hooker and a fifth-round pick.",
@@ -292,7 +380,7 @@
       "image": "https://a.espncdn.com/photo/2026/1110/r1744111_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T20:52:56Z",
       "headline": "'Great move': Rich Eisen reacts to 49ers' trade for Keenan Allen",
       "description": "'Great move': Rich Eisen reacts to 49ers' trade for Keenan Allen",
@@ -300,7 +388,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_140946433_3735435/ss_20261110_140946433_3735435.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T23:03:30Z",
       "headline": "49ers trade for Colts' Keenan Allen to bolster injury-plagued WR room",
       "description": "The 49ers completed a trade with the Colts for Keenan Allen in a move that will bolster their injury-plagued WR corps.",
@@ -308,100 +396,12 @@
       "image": "https://a.espncdn.com/photo/2026/1022/r1734604_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
+      "captured_at": "2026-11-11T14:31:12.362207+00:00",
       "published": "2026-11-10T18:39:59Z",
       "headline": "2026 expected fantasy points against (xFPA) by position",
       "description": "Measuring the best defenses against specific positions by using expected points vs. actual fantasy production.",
       "url": "https://www.espn.com/fantasy/football/story/_/id/49869463/2026-fantasy-football-expected-points-xfpa-position-qb-rb-wr-te",
       "image": ""
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-11T01:12:15Z",
-      "headline": "Vikings reunite with QB Kirk Cousins, send 3rd-round pick to Raiders",
-      "description": "Vikings are trading for quarterback Kirk Cousins, sending a 2027 third-round pick to the Raiders.",
-      "url": "https://www.espn.com/nfl/story/_/id/50444360/sources-vikings-id-qb-kirk-cousins-prime-trade-target",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743984_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T18:35:31Z",
-      "headline": "Expected fantasy points (xFP): 2026 leaderboard for TEs",
-      "description": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49869668/2026-fantasy-football-expected-fantasy-points-xfp-te",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716394_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T18:33:56Z",
-      "headline": "Expected fantasy points (xFP): 2026 leaderboard for WRs",
-      "description": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49869659/fantasy-football-2026-expected-fantasy-points-xfp-wr",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714178_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T18:31:20Z",
-      "headline": "Expected fantasy points (xFP): 2026 leaderboard for RBs",
-      "description": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49869631/2026-fantasy-football-expected-fantasy-points-xfp-rb",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716699_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T18:29:35Z",
-      "headline": "Expected fantasy points (xFP): 2026 leaderboard for QBs",
-      "description": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49869566/2026-fantasy-football-expected-fantasy-points-xfp-qb",
-      "image": "https://a.espncdn.com/photo/2026/1026/r1736699_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T18:25:14Z",
-      "headline": "NFL expected touchdown (xTD) leaderboard for 2026",
-      "description": "Opportunity-adjusted TD leaders tell you not only who's scoring but who's getting the opportunities to score.",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49869194/2026-fantasy-football-rankings-nfl-expected-td-opportunity-xtd",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716034_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T18:21:07Z",
-      "headline": "Source: Falcons cutting kicker Nick Folk, signing Jake Moody",
-      "description": "ESPN has confirmed that the Falcons are releasing kicker Nick Folk and signing Jake Moody.",
-      "url": "https://www.espn.com/nfl/story/_/id/50444069/sources-falcons-cutting-kicker-nick-folk-signing-jake-moody",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1744066_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T17:49:06Z",
-      "headline": "Bills' Spencer Brown breaks down the new philosophy under coach Joe Brady",
-      "description": "Bills' Spencer Brown breaks down the new philosophy under coach Joe Brady",
-      "url": "https://www.espn.com/video/clip/_/id/50443983/bills-spencer-brown-breaks-new-philosophy-coach-joe-brady",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_124609347_3735381/ss_20261110_124609347_3735381.jpg"
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T22:23:26Z",
-      "headline": "Bengals nix agreed-upon trade with Eagles, sources say",
-      "description": "A trade that would've sent Eagles edge rusher Arnold Ebiketie to Cincinnati has been called off, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
-      "url": "https://www.espn.com/nfl/story/_/id/50443891/bengals-nix-agreed-trade-eagles-sources-say",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1744018_2_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T21:11:36Z",
-      "headline": "Dolphins captain Zach Sieler out for rest of season with ruptured biceps",
-      "description": "Dolphins DT Zach Sieler will miss the rest of the season with a ruptured biceps, a source told ESPN, leaving Miami without a critical team leader and captain.",
-      "url": "https://www.espn.com/nfl/story/_/id/50443653/source-dolphins-captain-zach-sieler-rest-season",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1744035_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-11T06:16:51.683242+00:00",
-      "published": "2026-11-10T17:12:58Z",
-      "headline": "Early bets for Week 10: 49ers triumph in Dallas, low scoring in Texans-Browns?",
-      "description": "Which Week 10 lines offered immediate value once odds came out? Here are the early bets we like.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50414792/nfl-week-10-betting-odds-props-early-picks-predictions",
-      "image": "https://a.espncdn.com/photo/2026/1109/r1743570_1296x729_16-9.jpg"
     }
   ]
 }

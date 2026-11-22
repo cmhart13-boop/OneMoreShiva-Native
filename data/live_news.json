@@ -1,10 +1,58 @@
 {
-  "captured_at": "2026-11-21T19:14:45.703370+00:00",
+  "captured_at": "2026-11-22T06:45:57.541274+00:00",
   "source_ok": true,
   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=100",
   "articles": [
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
+      "published": "2026-11-22T05:56:51Z",
+      "headline": "Week 11 betting preview: Analysis, best bets, TD predictions for Sunday",
+      "description": "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748568_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
+      "published": "2026-11-22T04:31:20Z",
+      "headline": "Police investigating whether Titans DE Harrell assaulted driver before crash",
+      "description": "Police are investigating whether Titans DE Jaylen Harrell assaulted a rideshare driver before a serious car crash that left him hospitalized.",
+      "url": "https://www.espn.com/nfl/story/_/id/50558496/police-probing-whether-titans-de-harrell-assaulted-driver",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749445_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
+      "published": "2026-11-22T02:19:36Z",
+      "headline": "Sources: Rams' Puka Nacua out 4-5 months after knee surgery, will miss playoffs",
+      "description": "Puka Nacua's recovery time from MCL surgery is considered to be four to five months, sources told ESPN, meaning he will miss the playoffs.",
+      "url": "https://www.espn.com/nfl/story/_/id/50556613/sources-rams-puka-nacua-4-5-months-knee-surgery",
+      "image": "https://a.espncdn.com/photo/2026/1109/r1743744_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
+      "published": "2026-11-21T20:32:44Z",
+      "headline": "Fantasy football Week 11 inactives: Who's in and who's out?",
+      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50530832/fantasy-football-injuries-nfl-week-11-inactive-active",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748614_576x324_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
+      "published": "2026-11-21T21:41:11Z",
+      "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
+      "description": "Cardinals rookie quarterback Carson Beck has been downgraded to out, paving the way for 40-year-old Josh Johnson to start against the Chiefs.",
+      "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
+      "image": "https://a.espncdn.com/photo/2026/1121/r1749119_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
+      "published": "2026-11-21T20:54:35Z",
+      "headline": "Steelers activate WR Roman Wilson off IR for Eagles game",
+      "description": "The Steelers have activated wide receiver Roman Wilson from injured reserve ahead of Sunday's game against the Eagles.",
+      "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729619_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T18:31:47Z",
       "headline": "Titans DL Jaylen Harrell hospitalized after car accident in Tampa",
       "description": "Titans defensive lineman Jaylen Harrell was involved in a serious car accident Friday and remains hospitalized, according to the team.",
@@ -12,7 +60,7 @@
       "image": "https://a.espncdn.com/photo/2026/1121/r1749044_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T17:13:41Z",
       "headline": "South Carolina legend Alshon Jeffery discusses Georgia rivalry",
       "description": "Jeffery joins SEC Network's Marion Crowder on SEC Nation to preview the Gamecocks' matchup against the Bulldogs and explain how Shane Beamer recruited him to South Carolina.",
@@ -20,7 +68,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1121/dm_261121_SEC_NCF_Interview_Alshon_joins_Nation_261121/dm_261121_SEC_NCF_Interview_Alshon_joins_Nation_261121.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T15:27:22Z",
       "headline": "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
       "description": "Saying \"I did the best I could to protect him,\" Raiders owner Mark Davis expressed frustration with the depiction of his father, the late Al Davis, in the new movie \"Madden.\"",
@@ -28,7 +76,7 @@
       "image": "https://a.espncdn.com/photo/2026/0218/r1616842_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T14:12:31Z",
       "headline": "Fantasy football flex and superflex rankings for Week 11",
       "description": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
@@ -36,7 +84,7 @@
       "image": "https://a.espncdn.com/photo/2026/1109/r1743618_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T14:10:30Z",
       "headline": "Fantasy football rankings Week 11: PPR and superflex",
       "description": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
@@ -44,7 +92,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711051_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T14:09:58Z",
       "headline": "Fantasy football rankings for Week 11: Running back",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -52,7 +100,7 @@
       "image": "https://a.espncdn.com/photo/2026/0927/r1722612_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T14:09:39Z",
       "headline": "Fantasy football rankings for Week 11: Wide receiver",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -60,7 +108,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T14:09:15Z",
       "headline": "Fantasy football rankings for Week 11: D/ST",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -68,7 +116,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T14:08:15Z",
       "headline": "Fantasy football rankings for Week 11: Kicker",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -76,7 +124,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711066_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T14:08:54Z",
       "headline": "Fantasy football rankings for Week 11: Quarterback",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -84,7 +132,7 @@
       "image": "https://a.espncdn.com/photo/2026/1108/r1743046_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T14:07:04Z",
       "headline": "Fantasy football rankings for Week 11: IDP",
       "description": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
@@ -92,7 +140,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711080_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T11:49:08Z",
       "headline": "NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
       "description": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
@@ -100,7 +148,7 @@
       "image": "https://a.espncdn.com/photo/2026/1116/r1746461_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T11:59:54Z",
       "headline": "Falcons insist winning still the goal despite trading Jessie Bates III",
       "description": "Atlanta wanted to ensure trading away Jessie Bates III didn't send the wrong message to the team.",
@@ -108,7 +156,7 @@
       "image": "https://a.espncdn.com/photo/2026/1113/r1745395_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T11:00:00Z",
       "headline": "Giants' Abdul Carter on lack of sacks: 'I've got to do more'",
       "description": "On the surface, the lack of sacks and hard numbers seem insufficient, but dig deeper and it's a different story.",
@@ -116,7 +164,7 @@
       "image": "https://a.espncdn.com/photo/2026/1118/r1747767_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T11:00:10Z",
       "headline": "How Steelers' wide receiver corps gets big boost in Week 11",
       "description": "DK Metcalf and the passing game are poised to get a lift this week with the return of Roman Wilson and Michael Pittman Jr.",
@@ -124,7 +172,7 @@
       "image": "https://a.espncdn.com/photo/2026/1112/r1745036_576x324_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T11:00:10Z",
       "headline": "Why Amarius Mims is an underrated key to Bengals' success",
       "description": "Joe Burrow is on an MVP trajectory, and a big reason is his OL, led by Amarius Mims.",
@@ -132,7 +180,7 @@
       "image": "https://a.espncdn.com/photo/2026/1120/r1748729_2_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T11:57:44Z",
       "headline": "In Mexico City, 49ers' Fred Warner can represent his heritage and boost DPOY case",
       "description": "Warner will represent his heritage again Sunday in Mexico City. This time while in the middle of the best Defensive Player of the Year campaign of his career.",
@@ -140,7 +188,7 @@
       "image": "https://a.espncdn.com/photo/2026/1120/r1748531_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T11:00:03Z",
       "headline": "Why is the Raiders' defense struggling, and how can it improve?",
       "description": "The Raiders' defense has struggled mightly for weeks, but small steps of progress have been made.",
@@ -148,7 +196,7 @@
       "image": "https://a.espncdn.com/photo/2026/1119/r1748212_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T11:00:15Z",
       "headline": "Edge Jonathan Greenard loves to makes plays, despite Eagles' standing",
       "description": "Greenard speaks on his injury-filled season and outlook for the second half of the year.",
@@ -156,7 +204,7 @@
       "image": "https://a.espncdn.com/photo/2026/1120/r1748553_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T13:35:36Z",
       "headline": "Carmelo Anthony calls out Ravens' Humphrey over Baltimore 'criminals' remark",
       "description": "Former NBA star Carmelo Anthony challenged Ravens cornerback Marlon Humphrey to do more than apologize after he said Baltimore was \"best at making criminals.\"",
@@ -164,15 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/1013/r1729943_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
-      "published": "2026-11-21T01:47:16Z",
-      "headline": "Fantasy football Week 11 inactives: Who's in and who's out?",
-      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50530832/fantasy-football-injuries-nfl-week-11-inactive-active",
-      "image": "https://a.espncdn.com/photo/2026/1120/r1748614_576x324_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T12:51:42Z",
       "headline": "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
       "description": "A full participant at practice for the second straight day despite the bug that he has battled, Bengals quarterback Joe Burrow is optimistic that he'll be at full strength when Cincinnati plays the Washington Commanders on \"Monday Night Football.\"",
@@ -180,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2026/1120/r1748742_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T22:49:33Z",
       "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
       "description": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
@@ -188,7 +228,7 @@
       "image": "https://a.espncdn.com/photo/2026/1117/commanders-texans-week-11-unis16x9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T22:06:28Z",
       "headline": "Drake Maye ankle injury: Is the Patriots' season over? Can Tommy DeVito step up?",
       "description": "If the QB doesn't return in 2026, New England faces an uphill battle against some of the NFL's best teams.",
@@ -196,7 +236,7 @@
       "image": "https://a.espncdn.com/photo/2026/1116/r1746769_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T12:51:13Z",
       "headline": "Raiders TE Brock Bowers (ankle, quad) listed as questionable",
       "description": "Las Vegas Raiders tight end Brock Bowers (ankle/quad) is questionable for Sunday's divisional matchup against the Denver Broncos, coach Klint Kubiak said Friday.",
@@ -204,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2026/0806/r1698471_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T22:13:34Z",
       "headline": "Jets QB Geno Smith (ankle) cleared to start vs. Chargers",
       "description": "Jets quarterback Geno Smith made it through the practice week with no setbacks and was cleared to face the Chargers.",
@@ -212,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2026/0929/r1723258_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T22:37:47Z",
       "headline": "Police investigate man's death after alleged altercation at 49ers-Cowboys game",
       "description": "Police are investigating the death of a man who was allegedly involved in an altercation before Sunday's game between the Cowboys and 49ers at AT&T Stadium.",
@@ -220,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2016/0210/r53349_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T21:49:40Z",
       "headline": "Bills TE Dalton Kincaid doubtful to play vs. Dolphins",
       "description": "Bills starting tight end Dalton Kincaid, their leading receiver, is listed as doubtful for Sunday's game against the Dolphins due to thumb and ankle injuries.",
@@ -228,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2024/0722/r1361693_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T20:47:35Z",
       "headline": "Tom Brady tops list of athletes who became owners",
       "description": "The legendary quarterback is a member of an exclusive list of athletes that includes LeBron James, Serena Williams and Wayne Gretzky.",
@@ -236,7 +276,7 @@
       "image": "https://a.espncdn.com/photo/2026/1120/r1748645_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T22:05:55Z",
       "headline": "Justin Reid posts Saints farewell as team releases safety",
       "description": "The Saints have granted Justin Reid's request to be released, with the safety posting on social media: \"In life and sports, things don't always go the way you planned or hoped they would.\"",
@@ -244,7 +284,7 @@
       "image": "https://a.espncdn.com/photo/2026/1120/r1748648_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T21:04:02Z",
       "headline": "Fantasy buzz: Does anything change in Indy with Richardson under center?",
       "description": "Matt Bowen provides fantasy expectations for the Colts' new starter at QB and his supporting cast.",
@@ -252,7 +292,7 @@
       "image": "https://a.espncdn.com/photo/2026/1120/r1748617_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T20:29:34Z",
       "headline": "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals",
       "description": "Chiefs RB Kenneth Walker III will not play in Sunday's game against the Cardinals after not participating in practice this week due to a groin injury.",
@@ -260,7 +300,7 @@
       "image": "https://a.espncdn.com/photo/2026/1006/r1727003_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T20:13:57Z",
       "headline": "NFL Week 11 betting odds: Lines and totals for every game",
       "description": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
@@ -268,7 +308,7 @@
       "image": "https://a.espncdn.com/photo/2026/1116/r1746635_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T20:24:06Z",
       "headline": "Cowboys' Mike Pettine feels for DC Christian Parker, but focused on Titans",
       "description": "Mike Pettine, the Cowboys' new defensive playcaller, is focused on preparing for the Titans, not looking in the rearview mirror.",
@@ -276,7 +316,7 @@
       "image": "https://a.espncdn.com/photo/2026/1120/r1748631_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T21:59:11Z",
       "headline": "Ravens rule out DT Nnamdi Madubuike (hamstring) vs Panthers",
       "description": "Ravens defensive tackle Nnamdi Madubuike has a hamstring injury and has been ruled out for Sunday's game against the Panthers.",
@@ -284,7 +324,7 @@
       "image": "https://a.espncdn.com/photo/2026/1120/r1748634_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T20:02:03Z",
       "headline": "Bengals vs. Commanders: Where to watch 'Monday Night Football'",
       "description": "Here's what to know about the Week 11 matchup.",
@@ -292,7 +332,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_nfl_mnf_promo/dm_261118_nfl_mnf_promo.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T19:59:04Z",
       "headline": "Mike LaFleur: Cardinals proceeding as if Josh Johnson will start",
       "description": "Mike LaFleur: Cardinals proceeding as if Josh Johnson will start",
@@ -300,7 +340,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/ss_20261120_145331737_3751301/ss_20261120_145331737_3751301.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T20:03:03Z",
       "headline": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return",
       "description": "The Bears will be without nickel corner Kyler Gordon when they host the Saints, while running back Kyle Monangai, wide receiver Luther Burden III and defensive tackle Jeffery Simmons are expected to play.",
@@ -308,7 +348,7 @@
       "image": "https://a.espncdn.com/photo/2025/1213/r1588944_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T19:36:23Z",
       "headline": "McAfee & Co. speculate who will replace injured Drake Maye",
       "description": "McAfee & Co. speculate who will replace injured Drake Maye",
@@ -316,7 +356,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/ss_20261120_142826957_3751241/ss_20261120_142826957_3751241.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-21T01:36:03Z",
       "headline": "Cardinals QB Carson Beck dealing with back spasms; Josh Johnson may start",
       "description": "The Cardinals are preparing veteran quarterback Josh Johnson to start Sunday vs. the Chiefs as rookie Carson Beck deals with back spasms, coach Mike LaFleur said Friday.",
@@ -324,7 +364,7 @@
       "image": "https://a.espncdn.com/photo/2026/0827/r1707746_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T19:36:45Z",
       "headline": "Patriots QB Drake Maye has fractured fibula, sources say",
       "description": "Patriots quarterback Drake Maye has a fractured right fibula, and receiver A.J. Brown has a hamstring injury, sources told ESPN's Mike Reiss and Adam Schefter.",
@@ -332,7 +372,7 @@
       "image": "https://a.espncdn.com/photo/2026/1116/r1746589_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T18:39:00Z",
       "headline": "Fantasy playbook: Week 11 Shadow Reports, lineup locks and projected scores",
       "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
@@ -340,7 +380,7 @@
       "image": "https://a.espncdn.com/photo/2026/1119/r1748058_576x324_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T18:23:47Z",
       "headline": "Shane Steichen announces Daniel Jones' release from Colts",
       "description": "Shane Steichen announces Daniel Jones' release from Colts",
@@ -348,7 +388,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/ss_20261120_131708172_3751128/ss_20261120_131708172_3751128.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T18:28:58Z",
       "headline": "Schefter on Daniel Jones\u2019 release: Colts \u2018could\u2019ve and should\u2019ve traded him\u2019",
       "description": "Schefter on Daniel Jones\u2019 release: Colts \u2018could\u2019ve and should\u2019ve traded him\u2019",
@@ -356,52 +396,12 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/ss_20261120_131705160_3751127806/ss_20261120_131705160_3751127806.jpg"
     },
     {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
+      "captured_at": "2026-11-22T06:45:57.541274+00:00",
       "published": "2026-11-20T20:00:49Z",
       "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
       "description": "The Colts have cut quarterback Daniel Jones after a challenging 11-game stint in 2026 and are turning to Anthony Richardson Sr. to start going forward.",
       "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
       "image": "https://a.espncdn.com/photo/2026/1101/r1739815_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
-      "published": "2026-11-20T22:24:28Z",
-      "headline": "Sources: Tom Brady buys stake in Chelsea after Birmingham exit",
-      "description": "Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network.",
-      "url": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
-      "image": "https://a.espncdn.com/photo/2026/1109/r1743720_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
-      "published": "2026-11-20T17:40:42Z",
-      "headline": "Rapoport: Rams expect Puka to be out for season after knee surgery",
-      "description": "Rapoport: Rams expect Puka to be out for season after knee surgery",
-      "url": "https://www.espn.com/video/clip/_/id/50542115/rams-expect-puka-for-season-knee-surgery",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/ss_20261120_123613162_3751092/ss_20261120_123613162_3751092.jpg"
-    },
-    {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
-      "published": "2026-11-20T17:59:16Z",
-      "headline": "Week 11 betting preview: Analysis, best bets, TD predictions for Sunday",
-      "description": "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
-      "image": "https://a.espncdn.com/photo/2026/1120/r1748568_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
-      "published": "2026-11-20T17:39:23Z",
-      "headline": "Pat McAfee sees no hope for Colts' future",
-      "description": "Pat McAfee sees no hope for Colts' future",
-      "url": "https://www.espn.com/video/clip/_/id/50542049/pat-mcafee-sees-no-hope-colts-future",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/ss_20261120_122438893_3751081/ss_20261120_122438893_3751081.jpg"
-    },
-    {
-      "captured_at": "2026-11-21T19:14:45.703370+00:00",
-      "published": "2026-11-20T18:19:07Z",
-      "headline": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
-      "description": "Rams WR Puka Nacua, who is serving a three-game suspension while on IR, had surgery on his MCL and likely will miss at least the rest of the regular season.",
-      "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720500_1296x729_16-9.jpg"
     }
   ]
 }

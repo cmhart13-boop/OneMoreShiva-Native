@@ -1,10 +1,90 @@
 {
-  "captured_at": "2026-11-23T23:52:16.923257+00:00",
+  "captured_at": "2026-11-24T09:52:57.910217+00:00",
   "source_ok": true,
   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=100",
   "articles": [
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T08:53:41Z",
+      "headline": "Jayden Daniels again delivers in 'high-pressure' situation for Commanders",
+      "description": "After failing multiple times in late-game situations earlier this season, Commanders quarterback Jayden Daniels put together a second consecutive winning drive Monday night as Washington kicked a last-second field goal to beat Cincinnati 22-20.",
+      "url": "https://www.espn.com/nfl/story/_/id/50580514/jayden-daniels-delivers-another-late-game-drive-commanders-win-vs-bengals-mnf",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750515_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T05:17:30Z",
+      "headline": "Jayden Daniels reacts to Countdown crew picking Bengals over Commanders",
+      "description": "Jayden Daniels reacts to Countdown crew picking Bengals over Commanders",
+      "url": "https://www.espn.com/video/clip/_/id/50580069/jayden-daniels-reacts-countdown-crew-picking-bengals-commanders",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1124/ss_20261124_001140480_3759053/ss_20261124_001140480_3759053.jpg"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T04:59:15Z",
+      "headline": "Commanders' Jayden Daniels-themed post aimed at Bengals tops NFL Week 11 trolls",
+      "description": "NFL teams remained petty in Week 11, led by a post from the Washington Commanders.",
+      "url": "https://www.espn.com/nfl/story/_/id/50567903/nfl-week-11-trolls",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750499_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T06:06:32Z",
+      "headline": "Jayden Daniels rallies Commanders in final seconds to set up winning kick in 22-20 win over Bengals",
+      "description": "\u2014 Jayden Daniels and the Commanders had scored on five consecutive drives, all of them covering 50 yards or more. But their last possession was the most daunting.",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873078",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873078.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T04:47:34Z",
+      "headline": "Commanders storm back, stun Bengals 22-20 on MNF",
+      "description": "Commanders storm back, stun Bengals 22-20 on MNF",
+      "url": "https://www.espn.com/video/clip/_/id/50579688/commanders-storm-back-stun-bengals-22-20-mnf",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/8849a4b5ac36432c84d39d02b3b2e9d91414/8849a4b5ac36432c84d39d02b3b2e9d91414.jpg"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T04:58:12Z",
+      "headline": "Commanders building momentum, halt Bengals' 5-game win streak",
+      "description": "The Commanders' defense held the potent Bengals in check and Washington has won three of four.",
+      "url": "https://www.espn.com/nfl/story/_/id/50573995/2026-nfl-week-11-washington-commanders-cincinnati-bengals",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750482_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T02:21:45Z",
+      "headline": "Seahawks to monitor Sam Darnold status this week before final call vs. 49ers",
+      "description": "The Seahawks still plan to start Sam Darnold against the 49ers but will wait to see how the QB looks in practice Wednesday before making a final call.",
+      "url": "https://www.espn.com/nfl/story/_/id/50578357/seahawks-holding-final-sam-darnold-call-vs-49ers",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740370_600x600_1-1.jpg"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T00:12:35Z",
+      "headline": "NFL Week 11 arrivals: Tee Higgins pays homage to Fiona the Hippo ahead of 'MNF'",
+      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750424_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T00:02:10Z",
+      "headline": "Why Brian Branch should be on fantasy managers' rosters in Week 12",
+      "description": "Why Brian Branch should be on fantasy managers' rosters in Week 12",
+      "url": "https://www.espn.com/video/clip/_/id/50577730/why-brian-branch-fantasy-managers-rosters-week-12",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_185401101_37584071138/ss_20261123_185401101_37584071138.jpg"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T00:12:38Z",
+      "headline": "Why the Commanders D/ST has top-10 fantasy upside in Week 12",
+      "description": "Why the Commanders D/ST has top-10 fantasy upside in Week 12",
+      "url": "https://www.espn.com/video/clip/_/id/50577618/why-commanders-d-st-top-10-fantasy-upside-week-12",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_184443920_3758396/ss_20261123_184443920_3758396.jpg"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T23:48:34Z",
       "headline": "Why fantasy managers should still trust Trevor Lawrence",
       "description": "Why fantasy managers should still trust Trevor Lawrence",
@@ -12,7 +92,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1123/dd005091-7364-4501-b28a-57f002aa5d45/dd005091-7364-4501-b28a-57f002aa5d45.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T23:38:39Z",
       "headline": "Struggling Ravens noncommittal on whether Humphrey will play Sunday vs. Texans",
       "description": "A day after he was a healthy scratch in a 35-33 loss at the Panthers following a derogatory comment he made about the city of Baltimore, the Ravens were noncommittal on whether cornerback Marlon Humphrey would play Sunday against the Texans.",
@@ -20,15 +100,15 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750398_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T23:37:43Z",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T03:12:34Z",
       "headline": "Sources: Packers' Micah Parsons cleared to make season debut Wednesday vs. Rams",
       "description": "Packers star Micah Parsons has been cleared and is set for his season debut against the Rams on Wednesday night, sources told NFL Network's Ian Rapoport.",
       "url": "https://www.espn.com/nfl/story/_/id/50577301/sources-packers-micah-parsons-cleared-return-wednesday",
       "image": "https://a.espncdn.com/photo/2026/1123/r1750399_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T23:32:02Z",
       "headline": "Fantasy football trade deadline: 7 players to trade for, 5 to trade away",
       "description": "With the fantasy trade deadline approaching, here are the players managers should be targeting and ones they can offload.",
@@ -36,7 +116,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750358_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T23:48:49Z",
       "headline": "Commanders RB Jacory Croskey-Merritt activated from IR ahead of MNF",
       "description": "The Commanders activated running back Jacory Croskey-Merritt off injured reserve Monday.",
@@ -44,7 +124,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750349_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T21:24:31Z",
       "headline": "Fantasy buzz: Who got the ball Sunday? Usage trends and role changes",
       "description": "A closer look at the top 10 fantasy scorers in Week 11, including Cowboys QB Dak Prescott and Broncos RB Jonah Coleman.",
@@ -52,7 +132,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750176_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T21:59:39Z",
       "headline": "Giants' Greg Newsome out 'multiple weeks' with ankle sprain",
       "description": "Giants starting cornerback Greg Newsome will miss \"multiple weeks\" with a high ankle sprain, coach John Harbaugh said Monday.",
@@ -60,7 +140,7 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740719_600x600_1-1.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T21:09:00Z",
       "headline": "Adam Schefter: Cardinals fire defensive coordinator after loss to Chiefs",
       "description": "Adam Schefter: Cardinals fire defensive coordinator after loss to Chiefs",
@@ -68,7 +148,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_160430730_3758238/ss_20261123_160430730_3758238.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T22:57:19Z",
       "headline": "Cardinals fire DC Nick Rallis; Teryl Austin takes over on interim basis",
       "description": "The Cardinals have fired defensive coordinator Nick Rallis, coach Mike LaFleur announced Monday.",
@@ -76,7 +156,7 @@
       "image": "https://a.espncdn.com/photo/2024/1106/r1411061_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T20:41:51Z",
       "headline": "Rams TE Terrance Ferguson needs season-ending ankle surgery, Sean McVay says",
       "description": "Rams tight end Terrance Ferguson's ankle injury will require season-ending surgery.",
@@ -84,7 +164,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750308_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T21:22:25Z",
       "headline": "Sources: Giants DC Dennard Wilson interviews for HC job at alma mater Maryland",
       "description": "Giants defensive coordinator Dennard Wilson had a virtual interview recently for the vacant head coaching job at Maryland, sources told NFL Network.",
@@ -92,7 +172,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750276_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T19:40:44Z",
       "headline": "Mike Vrabel: Tommy DeVito is our starting QB",
       "description": "Mike Vrabel: Tommy DeVito is our starting QB",
@@ -100,7 +180,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_143417023_3758138/ss_20261123_143417023_3758138.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T19:29:43Z",
       "headline": "What's next for Brandon Aiyuk after release by 49ers?",
       "description": "What's next for Brandon Aiyuk after release by 49ers?",
@@ -108,7 +188,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_142342858_3758130/ss_20261123_142342858_3758130.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T22:15:11Z",
       "headline": "49ers release WR Brandon Aiyuk with roster exemption ending",
       "description": "The 49ers released wide receiver Brandon Aiyuk on Monday.",
@@ -116,7 +196,7 @@
       "image": "https://a.espncdn.com/photo/2026/1105/r1741725_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T19:41:05Z",
       "headline": "Vrabel: Patriots sticking with DeVito as QB1, not looking for outside help",
       "description": "Patriots coach Mike Vrabel said Monday the team isn't looking outside the organization for a starting quarterback as it prepares to be without Drake Maye in the coming weeks due to a fractured right fibula.",
@@ -124,7 +204,7 @@
       "image": "https://a.espncdn.com/photo/2026/0828/r1707935_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T19:05:14Z",
       "headline": "Source: 49ers, GM John Lynch agree to contract extension",
       "description": "The 49ers and general manager John Lynch have agreed to a multiyear contract extension, a team source confirmed to NFL Network's Ian Rapoport.",
@@ -132,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750254_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T19:07:14Z",
       "headline": "Adam Schefter: Micah Parsons could make season debut Wednesday night",
       "description": "Adam Schefter: Micah Parsons could make season debut Wednesday night",
@@ -140,7 +220,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_135115369_3758096842/ss_20261123_135115369_3758096842.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T17:59:25Z",
       "headline": "Early betting for Week 12: Will Seahawks slow down 49ers?",
       "description": "Which Week 12 lines offered immediate value once odds came out? Matt Bowen found one he's jumping on now.",
@@ -148,7 +228,15 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750191_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
+      "published": "2026-11-24T00:44:06Z",
+      "headline": "Nobody roots harder for Zac Taylor than his Special Olympics champion sister",
+      "description": "Nobody roots harder for Zac Taylor than his Special Olympics champion sister",
+      "url": "https://www.espn.com/video/clip/_/id/50574682/nobody-roots-harder-zac-taylor-special-olympics-champion-sister",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/dm_261123_Nobody_roots_harder_for_Zac_Taylor_than_his_Special_Olympics_champion_sister/dm_261123_Nobody_roots_harder_for_Zac_Taylor_than_his_Special_Olympics_champion_sister.jpg"
+    },
+    {
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T16:44:57Z",
       "headline": "Turnovers, penalties, time management: Ravens are NFL's best at beating themselves",
       "description": "Baltimore hasn't won since Oct. 11 and is currently sporting the NFL's longest losing streak at six games.",
@@ -156,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750160_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T16:55:24Z",
       "headline": "Trevor Lawrence, Liam Coen share the blame for the Jaguars' loss to the Giants",
       "description": "The offense struggled mightily in New York. What does Jacksonville need to fix ahead of the Week 12 matchup against the Titans?",
@@ -164,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750049_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T17:00:04Z",
       "headline": "How Panthers rookie's big play became an all-timer for Dave Canales",
       "description": "Cornerback Will Lee III came up with a momentum-shifting play that helped stave off Baltimore's potential TD.",
@@ -172,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1749948_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T16:45:56Z",
       "headline": "Fantasy football 2026 offensive depth charts",
       "description": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
@@ -180,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2026/0121/r1603677_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T16:47:44Z",
       "headline": "Field Yates: Cam Ward paid off as the QB streamer of the week",
       "description": "Field Yates: Cam Ward paid off as the QB streamer of the week",
@@ -188,7 +276,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_113808676_3757984/ss_20261123_113808676_3757984.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T16:42:31Z",
       "headline": "How should fantasy managers handle Trey McBride?",
       "description": "How should fantasy managers handle Trey McBride?",
@@ -196,7 +284,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_113102433_3757977/ss_20261123_113102433_3757977.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T21:38:02Z",
       "headline": "Steelers' Metcalf denies trying to poke DeJean in eye; WR won't be suspended",
       "description": "Steelers wide receiver DK Metcalf on Monday denied trying to poke Eagles cornerback Cooper DeJean in the eye before he was ejected Sunday.",
@@ -204,7 +292,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750197_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T16:49:31Z",
       "headline": "What to make of Emeka Egbuka in fantasy football",
       "description": "What to make of Emeka Egbuka in fantasy football",
@@ -212,7 +300,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_112129996_3757969/ss_20261123_112129996_3757969.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T16:22:58Z",
       "headline": "Stephen A. rolls his eyes at Michael Irvin's Cowboys hype",
       "description": "Stephen A. rolls his eyes at Michael Irvin's Cowboys hype",
@@ -220,7 +308,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_111024844_3757960682/ss_20261123_111024844_3757960682.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T16:54:28Z",
       "headline": "NFL Week 12 betting odds: Lines and totals for every game",
       "description": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
@@ -228,7 +316,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750061_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T16:13:35Z",
       "headline": "Another year of Geno Smith? Jets pleased with the QB's play",
       "description": "New York's QB is coming off his best game of the season against the Chargers.",
@@ -236,7 +324,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750175_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T15:57:02Z",
       "headline": "Why Stephen A. considers the Giants as legit threats in the NFC",
       "description": "Why Stephen A. considers the Giants as legit threats in the NFC",
@@ -244,7 +332,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_105245381_3757943/ss_20261123_105245381_3757943.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T15:43:10Z",
       "headline": "Stephen A.: The 49ers ramrodded the Vikings",
       "description": "Stephen A.: The 49ers ramrodded the Vikings",
@@ -252,7 +340,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_103350298_3757920/ss_20261123_103350298_3757920.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T15:28:36Z",
       "headline": "NFL depth charts for all 32 teams for 2026 season",
       "description": "Here are the latest NFL depth charts for all 32 teams.",
@@ -260,7 +348,7 @@
       "image": "https://a.espncdn.com/photo/2023/0413/r1158435_2_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T15:10:32Z",
       "headline": "Bengals-Commanders odds, best bets: Tips, analysis and top plays",
       "description": "Odds, analysis and recommended plays to help you bet the Bengals-Commanders matchup on Monday night.",
@@ -268,7 +356,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750051_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T15:42:34Z",
       "headline": "Fantasy football free agent pickups: Grab your Rams and Packers quickly",
       "description": "Eric Karabell lists the top available players worth adding for the week ahead.",
@@ -276,7 +364,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750128_576x324_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T14:05:15Z",
       "headline": "Rex Ryan: DK Metcalf is a shell of himself",
       "description": "Rex Ryan: DK Metcalf is a shell of himself",
@@ -284,7 +372,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_090154569_3757870/ss_20261123_090154569_3757870.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T13:42:03Z",
       "headline": "Dan Orlovsky: Brock Purdy is the MVP right now",
       "description": "Dan Orlovsky: Brock Purdy is the MVP right now",
@@ -292,7 +380,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_083900613_3757856/ss_20261123_083900613_3757856.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T13:41:05Z",
       "headline": "Did Jags mismanage the fourth quarter in loss to Giants?",
       "description": "Did Jags mismanage the fourth quarter in loss to Giants?",
@@ -300,7 +388,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/ss_20261123_083641881_3757855/ss_20261123_083641881_3757855.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T18:07:30Z",
       "headline": "NFL players with most at stake over rest of 2026: Pickens, McCarthy, Cousins",
       "description": "Big money on the line for George Pickens and Brian Branch? QB1 role at stake for J.J. McCarthy? Here are 11 players with something to prove over the next seven weeks.",
@@ -308,100 +396,12 @@
       "image": "https://a.espncdn.com/photo/2026/1122/r1749885_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
+      "captured_at": "2026-11-24T09:52:57.910217+00:00",
       "published": "2026-11-23T22:28:51Z",
       "headline": "Inside the gymnastics lore of Bengals star Ja'Marr Chase",
       "description": "Ja'Marr Chase's skill set suggests formal gymnastics training, but the reality isn't quite that simple.",
       "url": "https://www.espn.com/nfl/story/_/id/50565876/bengals-jamarr-chase-gymnastics",
       "image": "https://a.espncdn.com/photo/2026/1122/r1749856_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T11:09:10Z",
-      "headline": "NFL Thanksgiving games: Traditions, best moments, team records, 2026 schedule",
-      "description": "NFL games on Thanksgiving Day date back to 1934, and the Lions and Cowboys are always in action. We revisit top performers, the best moments and more.",
-      "url": "https://www.espn.com/nfl/story/_/id/32646037/nfl-thanksgiving-day-games-history-lions-cowboys-play-every-year-moments-traditions-records",
-      "image": "https://a.espncdn.com/photo/2017/1121/r292337_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T18:03:50Z",
-      "headline": "Inside Commanders DC Daronte Jones' unusual coaching journey",
-      "description": "From living in his car to various college offices, Washington defensive coordinator Daronte Jones has paid his dues.",
-      "url": "https://www.espn.com/nfl/story/_/id/49828234/washington-commanders-daronte-jones-2026-defense",
-      "image": "https://a.espncdn.com/photo/2026/0904/daronte_jones_1296x729.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T11:00:02Z",
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T11:00:00Z",
-      "headline": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
-      "description": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-      "image": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T08:34:45Z",
-      "headline": "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
-      "description": "From Thanksgiving NFL showdowns, to Christmas Day NBA action, and Boxing Day football, ESPN Africa has the festive season covered with a packed line-up of live sport, on channels across the continent and Disney+ in SA.",
-      "url": "https://www.espn.com/espn/story/_/id/50571229/sport-espn-africa-festive-watch-dstv-disney+",
-      "image": "https://a.espncdn.com/photo/2025/1203/r1584273_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T07:58:45Z",
-      "headline": "49ers' Brock Purdy beats Vikings blitz, hears 'MVP' chants in Mexico City",
-      "description": "Quarterback Brock Purdy heard \"MVP\" chants in Mexico City and continued to earn praise from his teammates as he led the 49ers to a statement victory against the top-ranked Vikings defense on Sunday night",
-      "url": "https://www.espn.com/nfl/story/_/id/50571034/49ers-brock-purdy-beats-vikings-blitz-hears-mvp-chants-mexico-city",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750063_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T05:53:02Z",
-      "headline": "NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games",
-      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
-      "url": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026",
-      "image": "https://a.espncdn.com/photo/2026/1122/r1749880_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T04:56:42Z",
-      "headline": "Tracking Jaguars CB/WR Travis Hunter's 2026 season: Snaps on offense, defense",
-      "description": "Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
-      "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750042_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T04:50:41Z",
-      "headline": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
-      "description": "Check here for all of the top moments, TDs and analysis from games at the Broncos, Jets, Cowboys, Eagles and more.",
-      "url": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1749962_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T05:18:17Z",
-      "headline": "49ers make bold statement with blowout win over Vikings, keep NFC's No. 1 seed",
-      "description": "The 49ers used a late second-quarter burst to take control of Sunday's game in Mexico City and move to 9-1 on the season.",
-      "url": "https://www.espn.com/nfl/story/_/id/50525677/49ers-beat-vikings-sunday-night-football-mexico-city-kittle",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750011_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-23T23:52:16.923257+00:00",
-      "published": "2026-11-23T16:49:32Z",
-      "headline": "Brock Purdy carves up the Vikings' D with 3 TD passes in the 49ers' 35-10 win in Mexico City",
-      "description": "\u2014 Brock Purdy and the San Francisco 49ers offense turned the much ballyhooed matchup between one of the game's top offenses and the stingiest defenses into...",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873077",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873077.png?templateId=espn.applewatch.awayhome.1"
     }
   ]
 }

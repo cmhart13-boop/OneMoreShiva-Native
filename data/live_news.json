@@ -1,34 +1,162 @@
 {
-  "captured_at": "2026-11-27T21:15:46.729205+00:00",
+  "captured_at": "2026-11-28T07:46:58.904915+00:00",
   "source_ok": true,
   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=100",
   "articles": [
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T21:01:47Z",
-      "headline": "Saints rule TE Juwan Johnson out vs. Bengals; TE Noah Fant questionable",
-      "description": "The Saints ruled out tight end Juwan Johnson with a hamstring and wrist injuries while backup Noah Fant is questionable with a calf injury vs. the Bengals.",
-      "url": "https://www.espn.com/nfl/story/_/id/50613922/saints-rule-te-johnson-vs-bengals-te-fant-questionable",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1752165_600x400_3-2.jpg"
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-28T04:38:06Z",
+      "headline": "Singled out in NFL officiating video, Bears' Simmons draws false-start ire from Lions",
+      "description": "Bears DT Jeffery Simmons was the subject of controversy during Chicago's win at Detroit on Thanksgiving Day.",
+      "url": "https://www.espn.com/nfl/story/_/id/50618212/singled-nfl-officiating-video-bears-simmons-draws-false-start-ire-lions",
+      "image": "https://a.espncdn.com/photo/2026/1128/r1752336_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T20:49:40Z",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-28T04:19:37Z",
+      "headline": "Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos",
+      "description": "Turned into a national punchline following Aaron Rodgers' release, the Steelers played with a sense of \"urgency\" and \"anger\" Friday night in a 27-5 win over Denver.",
+      "url": "https://www.espn.com/nfl/story/_/id/50618077/steelers-fueled-jabs-aaron-rodgers-drama-rout-broncos",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1752193_1296x1296_1-1.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-28T03:51:36Z",
+      "headline": "NFL Week 12 betting odds: Lines and totals for every game",
+      "description": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals",
+      "image": "https://a.espncdn.com/photo/2026/1123/r1750061_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-28T04:27:42Z",
+      "headline": "Bo Nix, after one of his worst games for Broncos, says 'I let the team down'",
+      "description": "After one of the most difficult starts of his NFL career, Broncos quarterback Bo Nix said \"I let the team down'' in a 27-5 loss to the Steelers on Friday.",
+      "url": "https://www.espn.com/nfl/story/_/id/50617060/qb-bo-nix-says-let-team-broncos-routed-steelers",
+      "image": "https://a.espncdn.com/photo/2026/1128/r1752299_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-28T05:08:22Z",
+      "headline": "Sam Darnold 'ready to roll' vs. 49ers as Seahawks fight to stay in NFC West race",
+      "description": "Seahawks QB Sam Darnold, who missed the past two games with a quad injury, will return to start against the Niners in a pivotal NFC West showdown.",
+      "url": "https://www.espn.com/nfl/story/_/id/50616624/seahawks-sam-darnold-return-vs-49ers-2-game-absence",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731410_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-28T02:12:35Z",
+      "headline": "Fantasy football Week 12 inactives: Who's in and who's out?",
+      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50595780/fantasy-football-injuries-nfl-week-12-inactive-active",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1752261_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-28T00:13:16Z",
+      "headline": "DJ Uiagalelei to start for Chargers with Justin Herbert in concussion protocol",
+      "description": "Chargers quarterback Justin Herbert was ruled out for Sunday as he remains in concussion protocol, coach Jim Harbaugh said Friday, meaning DJ Uiagalelei will start against Tommy DeVito and the Patriots.",
+      "url": "https://www.espn.com/nfl/story/_/id/50615818/qb-dj-uiagalelei-start-chargers-justin-herbert-concussion-protocol",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1752259_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T23:34:51Z",
+      "headline": "DJ Uiagalelei trying to not overthink first NFL start",
+      "description": "DJ Uiagalelei trying to not overthink first NFL start",
+      "url": "https://www.espn.com/video/clip/_/id/50615753/dj-uiagalelei-trying-not-overthink-first-nfl-start",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1127/a380a9a5-b60b-4ad1-bbb7-2df5fb8208b8/a380a9a5-b60b-4ad1-bbb7-2df5fb8208b8.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T23:48:52Z",
       "headline": "NFL Week 12: Highlights of Thanksgiving weekend games",
       "description": "Our team reporters are set to keep you updated on all the biggest plays and highlights.",
       "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
       "image": "https://a.espncdn.com/photo/2026/1127/r1752168_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T19:34:37Z",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-28T01:04:32Z",
+      "headline": "Inspired Steelers move on from Rodgers' exit with cathartic 27-5 win over sloppy Broncos",
+      "description": "\u2014 The Pittsburgh Steelers weren't playing for embattled coach Mike McCarthy on Friday. They weren't necessarily playing for their season, either.",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873083",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873083.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-28T01:40:50Z",
+      "headline": "49ers rule QB Brock Purdy (ankle) out; Mac Jones to start vs. Seahawks",
+      "description": "49ers quarterback Brock Purdy (ankle) will not play Sunday against the Seahawks, according to coach Kyle Shanahan, paving the way for Mac Jones to start.",
+      "url": "https://www.espn.com/nfl/story/_/id/50615653/49ers-rule-qb-purdy-ankle-start-jones-vs-seahawks",
+      "image": "https://a.espncdn.com/photo/2025/0913/r1545067_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T23:06:39Z",
+      "headline": "Denver Broncos vs. Pittsburgh Steelers: Game Highlights",
+      "description": "Denver Broncos vs. Pittsburgh Steelers: Game Highlights",
+      "url": "https://www.espn.com/video/clip/_/id/50615648/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1127/9e2209f2-1d50-469c-a1ac-6a5cf587a5c1/9e2209f2-1d50-469c-a1ac-6a5cf587a5c1.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T23:57:03Z",
+      "headline": "Steelers rally after tumultuous week to grab key Black Friday win over Broncos",
+      "description": "The Steelers scored two defensive touchdowns and flustered Broncos QB Bo Nix throughout to rally to a key Black Friday victory.",
+      "url": "https://www.espn.com/nfl/story/_/id/50599095/steelers-beat-broncos-black-friday-two-defensive-touchdowns",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1752228_608x342_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T23:27:19Z",
+      "headline": "Raiders TE Brock Bowers (ankle) doesn't practice Friday, questionable vs. Browns",
+      "description": "Raiders tight end Brock Bowers is questionable for Sunday night's game at Cleveland because of an ankle injury he suffered in Week 10. Las Vegas will also be missing two of its starting defensive tackles and a backup.",
+      "url": "https://www.espn.com/nfl/story/_/id/50615482/raiders-brock-bowers-questionable-snf-vs-browns-ankle-injury",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1752247_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T22:33:18Z",
+      "headline": "Bengals WR Tee Higgins dealing with 'sore' hamstring, says coach Zac Taylor",
+      "description": "Bengals receiver Tee Higgins is dealing with a \"sore\" hamstring, according to coach Zac Taylor, and is listed as questionable for Sunday's game vs. the Saints.",
+      "url": "https://www.espn.com/nfl/story/_/id/50614804/bengals-wr-higgins-dealing-sore-hamstring-says-taylor",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726529_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T22:26:13Z",
+      "headline": "Brian Schottenheimer says Jerry Jones shares 'in our disappointment'",
+      "description": "Brian Schottenheimer said Jerry Jones and Stephen Jones \"share in our disappointment\" after the trio met following the Cowboys' collapse vs. the Eagles on Thursday.",
+      "url": "https://www.espn.com/nfl/story/_/id/50614763/schottenheimer-says-jones-shares-our-disappointment",
+      "image": "https://a.espncdn.com/photo/2026/1106/r1742068_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T21:58:32Z",
       "headline": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
       "description": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
       "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
       "image": "https://a.espncdn.com/photo/2026/1117/16x9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T21:33:18Z",
+      "headline": "Ravens' Marlon Humphrey to return to lineup; role uncertain",
+      "description": "Ravens cornerback Marlon Humphrey will play Sunday against the Texans, a week after he was benched for making disparaging comments about the city of Baltimore.",
+      "url": "https://www.espn.com/nfl/story/_/id/50614218/ravens-marlon-humphrey-return-lineup-role-uncertain",
+      "image": "https://a.espncdn.com/photo/2022/0422/r1003033_1296x729_16-9.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T22:06:53Z",
+      "headline": "Saints rule TE Juwan Johnson out vs. Bengals; TE Noah Fant questionable",
+      "description": "The Saints ruled out tight end Juwan Johnson with a hamstring and wrist injuries while backup Noah Fant is questionable with a calf injury vs. the Bengals.",
+      "url": "https://www.espn.com/nfl/story/_/id/50613922/saints-rule-te-johnson-vs-bengals-te-fant-questionable",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1752165_600x400_3-2.jpg"
+    },
+    {
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T18:59:58Z",
       "headline": "NFL Week 12 arrivals: Cameron Heyward leads arrivals ahead of Steelers-Broncos",
       "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
@@ -36,7 +164,7 @@
       "image": "https://a.espncdn.com/photo/2026/1127/r1752123_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T20:50:14Z",
       "headline": "Cardinals to start QB Josh Johnson again with Carson Beck (back spasms) out",
       "description": "Cardinals rookie QB Carson Beck will miss a second straight game as he recovers from back spasms, paving the way for veteran Josh Johnson to start vs. the Commanders.",
@@ -44,15 +172,15 @@
       "image": "https://a.espncdn.com/photo/2026/1121/r1749119_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T18:16:47Z",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-27T22:52:30Z",
       "headline": "Sources: Bears' Colston Loveland awaiting second opinion on knee",
       "description": "The Bears are holding off on placing Colston Loveland on injured reserve while the injured tight end gets a second opinion on his left knee, sources told ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/50612564/sources-bears-expected-place-te-colston-loveland-knee-ir",
       "image": "https://a.espncdn.com/photo/2026/1126/r1751737_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T15:55:33Z",
       "headline": "What will Jaguars do with Parker Washington out week-to-week?",
       "description": "What will Jaguars do with Parker Washington out week-to-week?",
@@ -60,7 +188,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/ss_20261127_105030258_3762961653/ss_20261127_105030258_3762961653.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T21:08:03Z",
       "headline": "Jaguars' Parker Washington, Bhayshul Tuten both out Sunday",
       "description": "Jaguars wide receiver Parker Washington (shoulder) and running back Bhayshul Tuten (foot/ankle) have both been ruled out for Sunday's game against the Titans.",
@@ -68,7 +196,7 @@
       "image": "https://a.espncdn.com/photo/2026/1127/r1752092_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T15:41:33Z",
       "headline": "Players or coaches: Who's to blame for Cowboys' D?",
       "description": "Players or coaches: Who's to blame for Cowboys' D?",
@@ -76,7 +204,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/ss_20261127_103834262_3762953/ss_20261127_103834262_3762953.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T15:00:08Z",
       "headline": "Playoff hero Patrick Jeffers is now in the ESPN fantasy football Hall of Fame",
       "description": "For five weeks at the end of 1999, Patrick Jeffers was was a fantasy football league winner, highlighted by a 33-point effort in Week 16.",
@@ -84,7 +212,7 @@
       "image": "https://a.espncdn.com/photo/2026/1126/r1751834_1280x720_16-9.png"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T14:49:00Z",
       "headline": "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
       "description": "Three quarterbacks who could go early? Big changes in the rankings? Mel Kiper Jr. stacks the best players on the 2027 draft board as of late November.",
@@ -92,7 +220,7 @@
       "image": "https://a.espncdn.com/photo/2026/1014/r1730858_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T14:03:15Z",
       "headline": "Fantasy football flex and superflex rankings for Week 12",
       "description": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
@@ -100,7 +228,7 @@
       "image": "https://a.espncdn.com/photo/2026/1109/r1743618_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T13:58:08Z",
       "headline": "Fantasy football rankings Week 12: PPR and superflex",
       "description": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
@@ -108,7 +236,7 @@
       "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T13:57:26Z",
       "headline": "Fantasy football rankings for Week 12: Running back",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -116,7 +244,7 @@
       "image": "https://a.espncdn.com/photo/2026/0927/r1722612_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T13:56:08Z",
       "headline": "Fantasy football rankings for Week 12: Wide receiver",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -124,7 +252,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T13:56:43Z",
       "headline": "Fantasy football rankings for Week 12: Quarterback",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -132,7 +260,7 @@
       "image": "https://a.espncdn.com/photo/2026/1108/r1743046_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T13:55:03Z",
       "headline": "Fantasy football rankings for Week 12: Tight end",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -140,7 +268,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750172_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T13:54:21Z",
       "headline": "Fantasy football rankings for Week 12: D/ST",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -148,7 +276,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T13:52:33Z",
       "headline": "Fantasy football rankings for Week 12: Kicker",
       "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
@@ -156,7 +284,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711066_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T13:51:18Z",
       "headline": "Fantasy football rankings for Week 12: IDP",
       "description": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
@@ -164,7 +292,7 @@
       "image": "https://a.espncdn.com/photo/2026/0903/r1711080_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T15:23:37Z",
       "headline": "Thanksgiving NFL football had it all: Comebacks, walk-offs and plenty of points",
       "description": "Three go-ahead scores in the final minute? Two comebacks from double-digit deficits? And 174 combined points across the three games? Yeah, Thursday was awesome.",
@@ -172,7 +300,7 @@
       "image": "https://a.espncdn.com/photo/2026/1127/r1751950_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T13:26:43Z",
       "headline": "Hawkins: The season is over for the Dallas Cowboys",
       "description": "Hawkins: The season is over for the Dallas Cowboys",
@@ -180,7 +308,7 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/ss_20261127_081916781_3762913503/ss_20261127_081916781_3762913503.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T14:10:07Z",
       "headline": "Fantasy buzz: Joe Milton, Jahmyr Gibbs served up a fantasy feast on Thanksgiving",
       "description": "What a fantasy football feast we saw on Thursday! Adam Rank breaks it all down.",
@@ -188,7 +316,7 @@
       "image": "https://a.espncdn.com/photo/2026/1127/r1752006_576x324_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T14:12:21Z",
       "headline": "Need fantasy football trade deadline advice? Join our live Q&A, noon ET",
       "description": "ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
@@ -196,7 +324,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/r1750137_576x324_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T11:51:50Z",
       "headline": "Fantasy playbook: Week 12 Shadow Reports, lineup locks and projected scores",
       "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
@@ -204,7 +332,7 @@
       "image": "https://a.espncdn.com/photo/2026/1125/r1751083_576x324_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T11:46:44Z",
       "headline": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
       "description": "Build a winning DFS lineup with our DraftKings NFL Week 12 cheat sheet identifying the best stacks and values",
@@ -212,7 +340,7 @@
       "image": "https://a.espncdn.com/photo/2026/1127/r1751843_1296x729_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T14:58:48Z",
       "headline": "Best friends Pat Surtain II, Jaylen Waddle ecstatic about reuniting on Broncos",
       "description": "Surtain and Waddle bonded immediately at Alabama six years ago and have embraced the chance to play together again in Denver on a team with Super Bowl hopes.",
@@ -220,7 +348,7 @@
       "image": "https://a.espncdn.com/photo/2026/1123/nfl_eplus_waddle_surtain_16x9_608x342.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T12:02:29Z",
       "headline": "Why the Seahawks are turning back to quarterback Sam Darnold vs. the 49ers",
       "description": "Drew Lock has been 'fantastic' filling in for Darnold, who has struggled with injuries but is on track to face 9-1 San Francisco on Sunday.",
@@ -228,7 +356,7 @@
       "image": "https://a.espncdn.com/photo/2026/1127/r1751940_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T11:00:02Z",
       "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
       "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
@@ -236,7 +364,7 @@
       "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T11:00:13Z",
       "headline": "Can the 49ers lock up the NFC West after exceeding preseason expectations?",
       "description": "The 49ers are 9-1, and two of their next three games are against the Seahawks (6-4) and Rams (7-4) at home.",
@@ -244,15 +372,15 @@
       "image": "https://a.espncdn.com/photo/2026/1125/r1751163_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T11:48:57Z",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
+      "published": "2026-11-28T01:43:38Z",
       "headline": "NFL Week 12 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "description": "Seahawks vs. 49ers? Kirk Cousins against Atlanta? There are 12 more games in Week 12, and we have picks, predictions and more for all of them.",
       "url": "https://www.espn.com/nfl/story/_/id/50587851/week-12-picks-predictions-schedule-fantasy-odds-2026",
       "image": "https://a.espncdn.com/photo/2026/1125/r1751058_608x342_16-9.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T11:00:08Z",
       "headline": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
       "description": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
@@ -260,7 +388,7 @@
       "image": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T13:50:21Z",
       "headline": "Rashee Rice, Chiefs believe he caught pivotal 3rd-down pass late vs. Bills",
       "description": "WR Rashee Rice -- along with several members of the Chiefs -- felt he caught the ball on a pivotal third-down pass with less than two minutes left at the Bills.",
@@ -268,140 +396,12 @@
       "image": "https://a.espncdn.com/photo/2026/1127/r1751967_600x400_3-2.jpg"
     },
     {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
+      "captured_at": "2026-11-28T07:46:58.904915+00:00",
       "published": "2026-11-27T07:57:30Z",
       "headline": "Bills QB Josh Allen struggles vs. Chiefs in 'grossest' conditions",
       "description": "The Bills won their 10th game of the season Thursday vs. the Chiefs, but QB Josh Allen struggled in the weather, passing for only 81 yards.",
       "url": "https://www.espn.com/nfl/story/_/id/50609813/bills-qb-josh-allen-struggles-vs-chiefs-grossest-conditions",
       "image": "https://a.espncdn.com/photo/2026/1127/r1751963_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T06:19:18Z",
-      "headline": "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
-      "description": "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
-      "url": "https://www.espn.com/video/clip/_/id/50609218/game-highlight",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/998419b4a7f943d7be5201414d164d2279/998419b4a7f943d7be5201414d164d2279.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T07:25:32Z",
-      "headline": "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
-      "description": "\u2014 After sharing top billing, Buffalo\u2019s Josh Allen and Kansas City\u2019s Patrick Mahomes proved no match for the elements in the latest showdown of...",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873082",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873082.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T06:10:08Z",
-      "headline": "Eagles QB Joe Milton wows teammates with breakout game in Dallas",
-      "description": "Eagles QB Joe Milton had a breakout game on the national stage, accounting for four touchdowns in a wild 39-38 come-from-behind win over the Cowboys.",
-      "url": "https://www.espn.com/nfl/story/_/id/50609081/eagles-qb-joe-milton-wows-teammates-breakout-game-dallas",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1751939_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T05:59:59Z",
-      "headline": "Bills edge Chiefs with last-second FG in low-scoring battle",
-      "description": "The Bills won their seventh straight, snapping the Chiefs' win streak at three in a sloppy, low-scoring thriller.",
-      "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1751944_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T05:17:22Z",
-      "headline": "Jerry Jones backs Schottenheimer despite 'damning setbacks' in loss",
-      "description": "Jerry Jones said he did not anticipate making immediate changes but still labeled the Cowboys' latest fourth-quarter collapse as a \"damning\" setback.",
-      "url": "https://www.espn.com/nfl/story/_/id/50608969/cowboys-jerry-jones-backs-coach-damning-setbacks",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1751938_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T06:26:41Z",
-      "headline": "Will Shipley brushes off argument with coach Nick Sirianni: 'Emotions were running high'",
-      "description": "RB Will Shipley likened his sideline argument with coach Nick Sirianni to a Thanksgiving family spat in the wake of the Eagles' dramatic comeback win at Dallas.",
-      "url": "https://www.espn.com/nfl/story/_/id/50608884/will-shipley-brushes-argument-coach-nick-sirianni",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1751933_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T05:02:36Z",
-      "headline": "Tomlin upset by Rodgers' bitter exit, calls situation 'a dumpster fire'",
-      "description": "Mike Tomlin said he was saddened by Aaron Rodgers' tumultuous exit from Pittsburgh and disagreed with how the QB \"aired out\" his grievances against Mike McCarthy.",
-      "url": "https://www.espn.com/nfl/story/_/id/50608802/tomlin-calls-rodgers-mccarthy-situation-dumpster-fire",
-      "image": "https://a.espncdn.com/photo/2025/1111/r1574193_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T03:58:07Z",
-      "headline": "QB Caleb Williams, WR Rome Odunze's chemistry helps Bears stun Lions",
-      "description": "QB Caleb Williams and WR Rome Odunze leaned on their chemistry and trust to secure Chicago's ninth win of the season.",
-      "url": "https://www.espn.com/nfl/story/_/id/50608495/qb-caleb-williams-wr-rome-odunze-chemistry-helps-bears-stun-lions",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1751918_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T05:19:27Z",
-      "headline": "Stephen A. can't stop laughing at Cowboys after Thanksgiving collapse",
-      "description": "Stephen A. can't stop laughing at Cowboys after Thanksgiving collapse",
-      "url": "https://www.espn.com/video/clip/_/id/50608117/stephen-stop-laughing-cowboys-thanksgiving-collapse",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_211651365_3762692/ss_20261126_211651365_3762692.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T02:36:42Z",
-      "headline": "Eagles' comeback against Cowboys stuns Jason Kelce, Caitlin Clark and more",
-      "description": "The Philadelphia Eagles pulled off the largest Thanksgiving Day comeback in NFL history.",
-      "url": "https://www.espn.com/nfl/story/_/id/50607960/eagles-cowboys-thanksgiving-social-reaction",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751821_1296x729_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T01:58:17Z",
-      "headline": "Eagles stun Cowboys with largest-ever Thanksgiving game comeback",
-      "description": "Eagles stun Cowboys with largest-ever Thanksgiving game comeback",
-      "url": "https://www.espn.com/video/clip/_/id/50607884/eagles-stun-cowboys-largest-ever-thanksgiving-game-comeback",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1127/452c2dab-cd99-4b19-a7b6-f7dfeb3668e1/452c2dab-cd99-4b19-a7b6-f7dfeb3668e1.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T02:43:27Z",
-      "headline": "Joe Milton has huge game as Eagles shock Cowboys",
-      "description": "Dallas blew a 21-point lead as Philly made a spectacular comeback with Milton at the helm.",
-      "url": "https://www.espn.com/nfl/story/_/id/50605786/cowboys-eagles-thanksgiving-dak-prescott-saquon-barkley",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1751854_608x342_16-9.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T05:21:32Z",
-      "headline": "Schottenheimer defends 4th-down call before Eagles' 59-yard FG in 39-38 stunner over Cowboys",
-      "description": "\u2014 Brian Schottenheimer said he second-guesses plenty of his decisions, just not the one that will be dissected more than any other in his two seasons as coach of the Dallas Cowboys.",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873080",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873080.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-27T03:07:47Z",
-      "headline": "Brady disappointed in Rodgers' McCarthy comments: 'Nobody wins'",
-      "description": "Tom Brady expressed his disappointment in how Aaron Rodgers handled his exit from Pittsburgh, saying there are things in the locker room that shouldn't be made public.",
-      "url": "https://www.espn.com/nfl/story/_/id/50607635/tom-brady-disappointed-aaron-rodgers-mccarthy-comments",
-      "image": "https://a.espncdn.com/photo/2022/0602/r1020371_2_600x400_3-2.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-26T23:57:28Z",
-      "headline": "Dan Campbell: Lions' Thanksgiving loss to Bears will 'sting for a while'",
-      "description": "Dan Campbell: Lions' Thanksgiving loss to Bears will 'sting for a while'",
-      "url": "https://www.espn.com/video/clip/_/id/50607220/lions-thanksgiving-loss-bears-sting-while",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_185334549_3762586/ss_20261126_185334549_3762586.jpg"
-    },
-    {
-      "captured_at": "2026-11-27T21:15:46.729205+00:00",
-      "published": "2026-11-26T23:55:59Z",
-      "headline": "Ben Johnson proud of TEs that stepped up after Colston Loveland injury",
-      "description": "Ben Johnson proud of TEs that stepped up after Colston Loveland injury",
-      "url": "https://www.espn.com/video/clip/_/id/50607202/ben-johnson-proud-tes-stepped-colston-loveland-injury",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_184656314_3762581/ss_20261126_184656314_3762581.jpg"
     }
   ]
 }
